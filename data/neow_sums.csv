@@ -1,0 +1,2961 @@
+"character_chosen","neow_bonus","neow_cost","ascension_level","winAct3","winHeart","abandon","N"
+"Defect","Boss Relic","None",1,2569,772,3483,15139
+"Defect","Boss Relic","None",2,1336,364,1926,9142
+"Defect","Boss Relic","None",3,1001,256,1570,7489
+"Defect","Boss Relic","None",4,878,221,1497,6719
+"Defect","Boss Relic","None",5,775,185,1256,5631
+"Defect","Boss Relic","None",6,621,144,1055,4650
+"Defect","Boss Relic","None",7,544,125,845,3898
+"Defect","Boss Relic","None",8,539,126,708,3649
+"Defect","Boss Relic","None",9,472,107,843,3429
+"Defect","Boss Relic","None",10,463,123,878,3618
+"Defect","Boss Relic","None",11,414,106,711,3362
+"Defect","Boss Relic","None",12,379,85,785,3105
+"Defect","Boss Relic","None",13,334,63,659,2758
+"Defect","Boss Relic","None",14,336,74,678,2771
+"Defect","Boss Relic","None",15,416,84,754,3152
+"Defect","Boss Relic","None",16,337,49,754,2982
+"Defect","Boss Relic","None",17,260,41,857,3265
+"Defect","Boss Relic","None",18,240,31,1049,3718
+"Defect","Boss Relic","None",19,238,42,1208,4310
+"Defect","Boss Relic","None",20,1070,542,5161,16796
+"Defect","Hundred Gold","None",1,1237,278,50,6434
+"Defect","Hundred Gold","None",2,515,90,31,3763
+"Defect","Hundred Gold","None",3,393,61,21,2882
+"Defect","Hundred Gold","None",4,330,38,20,2852
+"Defect","Hundred Gold","None",5,309,45,16,2247
+"Defect","Hundred Gold","None",6,253,35,16,1765
+"Defect","Hundred Gold","None",7,202,42,13,1517
+"Defect","Hundred Gold","None",8,175,25,9,1405
+"Defect","Hundred Gold","None",9,177,28,14,1323
+"Defect","Hundred Gold","None",10,171,35,14,1300
+"Defect","Hundred Gold","None",11,136,19,8,1136
+"Defect","Hundred Gold","None",12,123,14,13,1087
+"Defect","Hundred Gold","None",13,103,10,8,945
+"Defect","Hundred Gold","None",14,104,13,12,973
+"Defect","Hundred Gold","None",15,112,22,16,1125
+"Defect","Hundred Gold","None",16,89,7,12,891
+"Defect","Hundred Gold","None",17,71,5,21,1074
+"Defect","Hundred Gold","None",18,69,5,10,1167
+"Defect","Hundred Gold","None",19,64,9,19,1206
+"Defect","Hundred Gold","None",20,250,90,87,4163
+"Defect","One Random Rare Card","None",1,1214,254,653,7181
+"Defect","One Random Rare Card","None",2,521,95,363,4299
+"Defect","One Random Rare Card","None",3,409,63,309,3399
+"Defect","One Random Rare Card","None",4,327,48,274,3186
+"Defect","One Random Rare Card","None",5,295,53,263,2667
+"Defect","One Random Rare Card","None",6,256,38,214,2126
+"Defect","One Random Rare Card","None",7,202,34,186,1890
+"Defect","One Random Rare Card","None",8,205,30,170,1717
+"Defect","One Random Rare Card","None",9,222,37,160,1609
+"Defect","One Random Rare Card","None",10,137,23,168,1588
+"Defect","One Random Rare Card","None",11,140,12,173,1492
+"Defect","One Random Rare Card","None",12,132,22,166,1353
+"Defect","One Random Rare Card","None",13,130,19,152,1187
+"Defect","One Random Rare Card","None",14,104,8,141,1249
+"Defect","One Random Rare Card","None",15,107,20,138,1280
+"Defect","One Random Rare Card","None",16,100,10,141,1096
+"Defect","One Random Rare Card","None",17,78,9,183,1329
+"Defect","One Random Rare Card","None",18,66,4,157,1344
+"Defect","One Random Rare Card","None",19,59,8,227,1557
+"Defect","One Random Rare Card","None",20,178,63,720,4802
+"Defect","One Rare Relic","Curse",1,359,94,137,1887
+"Defect","One Rare Relic","Curse",2,152,34,71,1145
+"Defect","One Rare Relic","Curse",3,138,17,71,1039
+"Defect","One Rare Relic","Curse",4,96,10,73,932
+"Defect","One Rare Relic","Curse",5,81,11,49,736
+"Defect","One Rare Relic","Curse",6,73,6,46,593
+"Defect","One Rare Relic","Curse",7,87,11,31,532
+"Defect","One Rare Relic","Curse",8,58,12,36,482
+"Defect","One Rare Relic","Curse",9,50,8,48,485
+"Defect","One Rare Relic","Curse",10,42,7,40,487
+"Defect","One Rare Relic","Curse",11,68,10,31,460
+"Defect","One Rare Relic","Curse",12,43,8,33,395
+"Defect","One Rare Relic","Curse",13,35,2,28,330
+"Defect","One Rare Relic","Curse",14,36,4,28,383
+"Defect","One Rare Relic","Curse",15,39,4,36,415
+"Defect","One Rare Relic","Curse",16,26,3,26,317
+"Defect","One Rare Relic","Curse",17,23,3,47,435
+"Defect","One Rare Relic","Curse",18,26,3,48,463
+"Defect","One Rare Relic","Curse",19,21,1,70,549
+"Defect","One Rare Relic","Curse",20,79,18,213,1566
+"Defect","One Rare Relic","No Gold",1,519,128,129,2359
+"Defect","One Rare Relic","No Gold",2,228,52,80,1358
+"Defect","One Rare Relic","No Gold",3,172,35,57,1088
+"Defect","One Rare Relic","No Gold",4,143,22,56,1037
+"Defect","One Rare Relic","No Gold",5,128,18,52,927
+"Defect","One Rare Relic","No Gold",6,119,17,42,739
+"Defect","One Rare Relic","No Gold",7,90,21,39,660
+"Defect","One Rare Relic","No Gold",8,84,13,38,614
+"Defect","One Rare Relic","No Gold",9,86,20,50,599
+"Defect","One Rare Relic","No Gold",10,93,9,47,654
+"Defect","One Rare Relic","No Gold",11,68,13,42,556
+"Defect","One Rare Relic","No Gold",12,70,11,32,541
+"Defect","One Rare Relic","No Gold",13,56,4,24,440
+"Defect","One Rare Relic","No Gold",14,49,6,25,484
+"Defect","One Rare Relic","No Gold",15,61,7,35,568
+"Defect","One Rare Relic","No Gold",16,41,7,37,460
+"Defect","One Rare Relic","No Gold",17,40,5,35,535
+"Defect","One Rare Relic","No Gold",18,41,9,43,616
+"Defect","One Rare Relic","No Gold",19,34,2,72,656
+"Defect","One Rare Relic","No Gold",20,104,38,250,2247
+"Defect","One Rare Relic","Percent Damage",1,432,123,123,2060
+"Defect","One Rare Relic","Percent Damage",2,162,39,58,1100
+"Defect","One Rare Relic","Percent Damage",3,132,25,48,900
+"Defect","One Rare Relic","Percent Damage",4,125,21,61,858
+"Defect","One Rare Relic","Percent Damage",5,101,17,40,709
+"Defect","One Rare Relic","Percent Damage",6,74,9,39,611
+"Defect","One Rare Relic","Percent Damage",7,72,8,28,545
+"Defect","One Rare Relic","Percent Damage",8,65,11,32,486
+"Defect","One Rare Relic","Percent Damage",9,76,14,35,493
+"Defect","One Rare Relic","Percent Damage",10,50,5,26,467
+"Defect","One Rare Relic","Percent Damage",11,52,8,35,422
+"Defect","One Rare Relic","Percent Damage",12,44,11,24,401
+"Defect","One Rare Relic","Percent Damage",13,44,7,32,354
+"Defect","One Rare Relic","Percent Damage",14,53,4,29,429
+"Defect","One Rare Relic","Percent Damage",15,46,7,29,457
+"Defect","One Rare Relic","Percent Damage",16,28,2,24,352
+"Defect","One Rare Relic","Percent Damage",17,38,2,34,398
+"Defect","One Rare Relic","Percent Damage",18,21,2,37,389
+"Defect","One Rare Relic","Percent Damage",19,14,2,58,469
+"Defect","One Rare Relic","Percent Damage",20,78,29,202,1685
+"Defect","One Rare Relic","Ten Percent Hp Loss",1,406,96,119,2016
+"Defect","One Rare Relic","Ten Percent Hp Loss",2,177,42,61,1190
+"Defect","One Rare Relic","Ten Percent Hp Loss",3,134,28,72,997
+"Defect","One Rare Relic","Ten Percent Hp Loss",4,111,16,54,973
+"Defect","One Rare Relic","Ten Percent Hp Loss",5,106,14,42,762
+"Defect","One Rare Relic","Ten Percent Hp Loss",6,100,17,38,617
+"Defect","One Rare Relic","Ten Percent Hp Loss",7,93,18,36,594
+"Defect","One Rare Relic","Ten Percent Hp Loss",8,74,10,31,534
+"Defect","One Rare Relic","Ten Percent Hp Loss",9,71,13,37,516
+"Defect","One Rare Relic","Ten Percent Hp Loss",10,70,8,39,529
+"Defect","One Rare Relic","Ten Percent Hp Loss",11,58,5,23,445
+"Defect","One Rare Relic","Ten Percent Hp Loss",12,46,11,36,431
+"Defect","One Rare Relic","Ten Percent Hp Loss",13,54,10,38,407
+"Defect","One Rare Relic","Ten Percent Hp Loss",14,62,9,28,411
+"Defect","One Rare Relic","Ten Percent Hp Loss",15,59,6,39,459
+"Defect","One Rare Relic","Ten Percent Hp Loss",16,43,7,31,398
+"Defect","One Rare Relic","Ten Percent Hp Loss",17,36,4,31,439
+"Defect","One Rare Relic","Ten Percent Hp Loss",18,28,5,55,489
+"Defect","One Rare Relic","Ten Percent Hp Loss",19,29,4,50,517
+"Defect","One Rare Relic","Ten Percent Hp Loss",20,118,55,234,1924
+"Defect","Random Colorless","None",1,561,112,306,3779
+"Defect","Random Colorless","None",2,249,53,193,2219
+"Defect","Random Colorless","None",3,193,31,161,1674
+"Defect","Random Colorless","None",4,124,18,119,1481
+"Defect","Random Colorless","None",5,101,15,110,1158
+"Defect","Random Colorless","None",6,86,7,80,858
+"Defect","Random Colorless","None",7,89,13,68,844
+"Defect","Random Colorless","None",8,65,6,59,729
+"Defect","Random Colorless","None",9,60,6,58,625
+"Defect","Random Colorless","None",10,45,5,34,585
+"Defect","Random Colorless","None",11,50,6,51,552
+"Defect","Random Colorless","None",12,36,4,48,498
+"Defect","Random Colorless","None",13,39,4,39,460
+"Defect","Random Colorless","None",14,28,3,51,519
+"Defect","Random Colorless","None",15,34,4,50,502
+"Defect","Random Colorless","None",16,28,3,38,414
+"Defect","Random Colorless","None",17,16,2,51,460
+"Defect","Random Colorless","None",18,22,2,48,543
+"Defect","Random Colorless","None",19,20,0,84,584
+"Defect","Random Colorless","None",20,51,18,209,1662
+"Defect","Random Colorless 2","Curse",1,144,48,68,826
+"Defect","Random Colorless 2","Curse",2,62,13,34,520
+"Defect","Random Colorless 2","Curse",3,41,6,32,405
+"Defect","Random Colorless 2","Curse",4,42,4,36,394
+"Defect","Random Colorless 2","Curse",5,24,4,28,345
+"Defect","Random Colorless 2","Curse",6,31,6,19,269
+"Defect","Random Colorless 2","Curse",7,23,3,21,232
+"Defect","Random Colorless 2","Curse",8,20,4,13,210
+"Defect","Random Colorless 2","Curse",9,28,2,15,203
+"Defect","Random Colorless 2","Curse",10,23,6,11,219
+"Defect","Random Colorless 2","Curse",11,17,2,21,193
+"Defect","Random Colorless 2","Curse",12,13,2,20,181
+"Defect","Random Colorless 2","Curse",13,17,4,16,186
+"Defect","Random Colorless 2","Curse",14,11,1,23,199
+"Defect","Random Colorless 2","Curse",15,12,1,21,199
+"Defect","Random Colorless 2","Curse",16,14,1,16,171
+"Defect","Random Colorless 2","Curse",17,11,0,20,169
+"Defect","Random Colorless 2","Curse",18,13,0,25,229
+"Defect","Random Colorless 2","Curse",19,18,0,40,266
+"Defect","Random Colorless 2","Curse",20,20,6,127,724
+"Defect","Random Colorless 2","No Gold",1,180,46,84,1072
+"Defect","Random Colorless 2","No Gold",2,75,12,42,656
+"Defect","Random Colorless 2","No Gold",3,70,20,38,558
+"Defect","Random Colorless 2","No Gold",4,52,7,29,521
+"Defect","Random Colorless 2","No Gold",5,55,15,18,429
+"Defect","Random Colorless 2","No Gold",6,52,7,19,340
+"Defect","Random Colorless 2","No Gold",7,49,13,24,352
+"Defect","Random Colorless 2","No Gold",8,49,8,21,298
+"Defect","Random Colorless 2","No Gold",9,39,5,24,301
+"Defect","Random Colorless 2","No Gold",10,23,5,20,277
+"Defect","Random Colorless 2","No Gold",11,23,5,26,305
+"Defect","Random Colorless 2","No Gold",12,29,3,24,283
+"Defect","Random Colorless 2","No Gold",13,26,3,22,254
+"Defect","Random Colorless 2","No Gold",14,25,5,19,259
+"Defect","Random Colorless 2","No Gold",15,30,6,25,304
+"Defect","Random Colorless 2","No Gold",16,27,5,20,279
+"Defect","Random Colorless 2","No Gold",17,23,6,28,295
+"Defect","Random Colorless 2","No Gold",18,18,2,30,326
+"Defect","Random Colorless 2","No Gold",19,28,3,31,371
+"Defect","Random Colorless 2","No Gold",20,60,34,150,1174
+"Defect","Random Colorless 2","Percent Damage",1,128,41,64,931
+"Defect","Random Colorless 2","Percent Damage",2,59,15,33,520
+"Defect","Random Colorless 2","Percent Damage",3,50,8,37,452
+"Defect","Random Colorless 2","Percent Damage",4,48,7,21,394
+"Defect","Random Colorless 2","Percent Damage",5,36,4,27,350
+"Defect","Random Colorless 2","Percent Damage",6,37,8,24,296
+"Defect","Random Colorless 2","Percent Damage",7,38,6,17,275
+"Defect","Random Colorless 2","Percent Damage",8,32,4,16,248
+"Defect","Random Colorless 2","Percent Damage",9,21,4,21,231
+"Defect","Random Colorless 2","Percent Damage",10,21,4,12,240
+"Defect","Random Colorless 2","Percent Damage",11,15,1,10,206
+"Defect","Random Colorless 2","Percent Damage",12,17,3,22,217
+"Defect","Random Colorless 2","Percent Damage",13,17,5,17,186
+"Defect","Random Colorless 2","Percent Damage",14,24,5,19,206
+"Defect","Random Colorless 2","Percent Damage",15,13,3,22,188
+"Defect","Random Colorless 2","Percent Damage",16,10,2,17,177
+"Defect","Random Colorless 2","Percent Damage",17,7,1,20,206
+"Defect","Random Colorless 2","Percent Damage",18,4,0,14,210
+"Defect","Random Colorless 2","Percent Damage",19,9,1,22,213
+"Defect","Random Colorless 2","Percent Damage",20,34,12,100,805
+"Defect","Random Colorless 2","Ten Percent Hp Loss",1,157,42,78,904
+"Defect","Random Colorless 2","Ten Percent Hp Loss",2,56,17,36,545
+"Defect","Random Colorless 2","Ten Percent Hp Loss",3,46,9,22,454
+"Defect","Random Colorless 2","Ten Percent Hp Loss",4,36,5,21,391
+"Defect","Random Colorless 2","Ten Percent Hp Loss",5,45,9,26,352
+"Defect","Random Colorless 2","Ten Percent Hp Loss",6,32,5,24,307
+"Defect","Random Colorless 2","Ten Percent Hp Loss",7,35,2,22,287
+"Defect","Random Colorless 2","Ten Percent Hp Loss",8,24,6,16,237
+"Defect","Random Colorless 2","Ten Percent Hp Loss",9,40,9,13,237
+"Defect","Random Colorless 2","Ten Percent Hp Loss",10,22,4,21,213
+"Defect","Random Colorless 2","Ten Percent Hp Loss",11,26,3,12,206
+"Defect","Random Colorless 2","Ten Percent Hp Loss",12,18,3,15,209
+"Defect","Random Colorless 2","Ten Percent Hp Loss",13,20,3,24,181
+"Defect","Random Colorless 2","Ten Percent Hp Loss",14,18,2,22,187
+"Defect","Random Colorless 2","Ten Percent Hp Loss",15,17,2,13,185
+"Defect","Random Colorless 2","Ten Percent Hp Loss",16,21,1,25,207
+"Defect","Random Colorless 2","Ten Percent Hp Loss",17,12,0,15,182
+"Defect","Random Colorless 2","Ten Percent Hp Loss",18,9,1,19,226
+"Defect","Random Colorless 2","Ten Percent Hp Loss",19,16,1,28,259
+"Defect","Random Colorless 2","Ten Percent Hp Loss",20,62,25,121,938
+"Defect","Random Common Relic","None",1,2606,511,407,12383
+"Defect","Random Common Relic","None",2,1119,182,210,7094
+"Defect","Random Common Relic","None",3,804,137,219,5511
+"Defect","Random Common Relic","None",4,649,99,175,5146
+"Defect","Random Common Relic","None",5,593,67,160,4194
+"Defect","Random Common Relic","None",6,479,65,150,3275
+"Defect","Random Common Relic","None",7,427,61,119,2896
+"Defect","Random Common Relic","None",8,350,41,115,2617
+"Defect","Random Common Relic","None",9,341,48,124,2570
+"Defect","Random Common Relic","None",10,315,39,137,2591
+"Defect","Random Common Relic","None",11,253,28,123,2199
+"Defect","Random Common Relic","None",12,234,24,101,2084
+"Defect","Random Common Relic","None",13,224,33,113,1809
+"Defect","Random Common Relic","None",14,190,18,111,1886
+"Defect","Random Common Relic","None",15,210,27,117,2050
+"Defect","Random Common Relic","None",16,177,27,102,1742
+"Defect","Random Common Relic","None",17,134,21,146,2101
+"Defect","Random Common Relic","None",18,140,13,135,2207
+"Defect","Random Common Relic","None",19,114,13,197,2637
+"Defect","Random Common Relic","None",20,403,139,696,7972
+"Defect","Remove Card","None",1,546,111,40,2496
+"Defect","Remove Card","None",2,196,38,25,1459
+"Defect","Remove Card","None",3,158,27,8,1086
+"Defect","Remove Card","None",4,102,16,25,1011
+"Defect","Remove Card","None",5,120,14,13,794
+"Defect","Remove Card","None",6,94,14,6,638
+"Defect","Remove Card","None",7,94,15,12,596
+"Defect","Remove Card","None",8,63,6,6,498
+"Defect","Remove Card","None",9,64,7,12,451
+"Defect","Remove Card","None",10,62,9,17,472
+"Defect","Remove Card","None",11,49,4,13,428
+"Defect","Remove Card","None",12,37,2,11,341
+"Defect","Remove Card","None",13,39,4,7,331
+"Defect","Remove Card","None",14,24,4,9,351
+"Defect","Remove Card","None",15,38,9,13,382
+"Defect","Remove Card","None",16,26,3,8,300
+"Defect","Remove Card","None",17,18,1,8,321
+"Defect","Remove Card","None",18,14,1,5,306
+"Defect","Remove Card","None",19,11,0,13,346
+"Defect","Remove Card","None",20,44,13,36,1062
+"Defect","Remove Two","No Gold",1,200,54,3,934
+"Defect","Remove Two","No Gold",2,87,20,4,556
+"Defect","Remove Two","No Gold",3,70,10,2,423
+"Defect","Remove Two","No Gold",4,68,9,2,445
+"Defect","Remove Two","No Gold",5,54,8,3,403
+"Defect","Remove Two","No Gold",6,35,4,1,322
+"Defect","Remove Two","No Gold",7,47,8,0,266
+"Defect","Remove Two","No Gold",8,27,2,2,228
+"Defect","Remove Two","No Gold",9,53,9,2,261
+"Defect","Remove Two","No Gold",10,23,6,6,247
+"Defect","Remove Two","No Gold",11,25,5,1,229
+"Defect","Remove Two","No Gold",12,33,2,1,194
+"Defect","Remove Two","No Gold",13,21,3,4,150
+"Defect","Remove Two","No Gold",14,20,4,1,208
+"Defect","Remove Two","No Gold",15,25,2,3,206
+"Defect","Remove Two","No Gold",16,22,3,1,184
+"Defect","Remove Two","No Gold",17,8,0,7,192
+"Defect","Remove Two","No Gold",18,14,0,3,205
+"Defect","Remove Two","No Gold",19,10,0,8,223
+"Defect","Remove Two","No Gold",20,39,20,18,762
+"Defect","Remove Two","Percent Damage",1,129,33,4,648
+"Defect","Remove Two","Percent Damage",2,65,19,5,408
+"Defect","Remove Two","Percent Damage",3,51,6,0,313
+"Defect","Remove Two","Percent Damage",4,35,9,2,294
+"Defect","Remove Two","Percent Damage",5,38,8,3,277
+"Defect","Remove Two","Percent Damage",6,36,5,0,216
+"Defect","Remove Two","Percent Damage",7,26,7,1,187
+"Defect","Remove Two","Percent Damage",8,19,3,3,167
+"Defect","Remove Two","Percent Damage",9,26,7,4,197
+"Defect","Remove Two","Percent Damage",10,14,3,1,151
+"Defect","Remove Two","Percent Damage",11,18,1,1,159
+"Defect","Remove Two","Percent Damage",12,9,1,0,143
+"Defect","Remove Two","Percent Damage",13,7,1,3,115
+"Defect","Remove Two","Percent Damage",14,13,1,1,125
+"Defect","Remove Two","Percent Damage",15,9,1,2,122
+"Defect","Remove Two","Percent Damage",16,14,3,4,128
+"Defect","Remove Two","Percent Damage",17,8,2,2,111
+"Defect","Remove Two","Percent Damage",18,8,0,1,116
+"Defect","Remove Two","Percent Damage",19,12,0,5,150
+"Defect","Remove Two","Percent Damage",20,30,15,26,527
+"Defect","Remove Two","Ten Percent Hp Loss",1,140,35,9,685
+"Defect","Remove Two","Ten Percent Hp Loss",2,46,11,0,407
+"Defect","Remove Two","Ten Percent Hp Loss",3,48,7,3,348
+"Defect","Remove Two","Ten Percent Hp Loss",4,38,6,3,313
+"Defect","Remove Two","Ten Percent Hp Loss",5,47,10,4,307
+"Defect","Remove Two","Ten Percent Hp Loss",6,27,6,2,222
+"Defect","Remove Two","Ten Percent Hp Loss",7,31,4,1,240
+"Defect","Remove Two","Ten Percent Hp Loss",8,21,1,1,178
+"Defect","Remove Two","Ten Percent Hp Loss",9,30,4,2,179
+"Defect","Remove Two","Ten Percent Hp Loss",10,18,5,2,193
+"Defect","Remove Two","Ten Percent Hp Loss",11,22,4,0,149
+"Defect","Remove Two","Ten Percent Hp Loss",12,14,2,2,160
+"Defect","Remove Two","Ten Percent Hp Loss",13,22,5,3,132
+"Defect","Remove Two","Ten Percent Hp Loss",14,19,2,2,135
+"Defect","Remove Two","Ten Percent Hp Loss",15,20,2,1,165
+"Defect","Remove Two","Ten Percent Hp Loss",16,14,3,2,111
+"Defect","Remove Two","Ten Percent Hp Loss",17,12,4,5,164
+"Defect","Remove Two","Ten Percent Hp Loss",18,10,2,3,140
+"Defect","Remove Two","Ten Percent Hp Loss",19,7,0,5,153
+"Defect","Remove Two","Ten Percent Hp Loss",20,40,16,18,579
+"Defect","Ten Percent Hp Bonus","None",1,2725,629,329,15575
+"Defect","Ten Percent Hp Bonus","None",2,1179,240,153,8901
+"Defect","Ten Percent Hp Bonus","None",3,815,159,113,7090
+"Defect","Ten Percent Hp Bonus","None",4,629,108,117,5927
+"Defect","Ten Percent Hp Bonus","None",5,485,79,74,4207
+"Defect","Ten Percent Hp Bonus","None",6,423,69,85,3484
+"Defect","Ten Percent Hp Bonus","None",7,363,68,59,3111
+"Defect","Ten Percent Hp Bonus","None",8,317,46,71,2575
+"Defect","Ten Percent Hp Bonus","None",9,325,54,58,2217
+"Defect","Ten Percent Hp Bonus","None",10,309,56,70,2455
+"Defect","Ten Percent Hp Bonus","None",11,197,32,52,2280
+"Defect","Ten Percent Hp Bonus","None",12,193,32,36,1967
+"Defect","Ten Percent Hp Bonus","None",13,172,26,56,1731
+"Defect","Ten Percent Hp Bonus","None",14,192,28,37,1878
+"Defect","Ten Percent Hp Bonus","None",15,195,29,47,1954
+"Defect","Ten Percent Hp Bonus","None",16,144,18,53,1527
+"Defect","Ten Percent Hp Bonus","None",17,117,12,55,1875
+"Defect","Ten Percent Hp Bonus","None",18,129,10,63,2282
+"Defect","Ten Percent Hp Bonus","None",19,94,14,76,2491
+"Defect","Ten Percent Hp Bonus","None",20,303,88,486,7626
+"Defect","Three Cards","None",1,791,137,439,4873
+"Defect","Three Cards","None",2,379,57,232,3043
+"Defect","Three Cards","None",3,233,27,208,2155
+"Defect","Three Cards","None",4,173,20,175,1954
+"Defect","Three Cards","None",5,153,18,148,1541
+"Defect","Three Cards","None",6,128,14,87,1132
+"Defect","Three Cards","None",7,110,14,67,1018
+"Defect","Three Cards","None",8,75,6,76,902
+"Defect","Three Cards","None",9,95,13,88,846
+"Defect","Three Cards","None",10,84,10,76,822
+"Defect","Three Cards","None",11,54,10,83,816
+"Defect","Three Cards","None",12,46,3,58,613
+"Defect","Three Cards","None",13,61,8,62,592
+"Defect","Three Cards","None",14,48,2,62,635
+"Defect","Three Cards","None",15,57,8,53,651
+"Defect","Three Cards","None",16,45,5,62,597
+"Defect","Three Cards","None",17,44,9,77,647
+"Defect","Three Cards","None",18,33,5,82,729
+"Defect","Three Cards","None",19,21,0,78,772
+"Defect","Three Cards","None",20,67,21,244,2230
+"Defect","Three Enemy Kill","None",1,6442,1476,2960,42172
+"Defect","Three Enemy Kill","None",2,2966,549,1492,25436
+"Defect","Three Enemy Kill","None",3,2596,478,1395,23190
+"Defect","Three Enemy Kill","None",4,2079,358,1355,20923
+"Defect","Three Enemy Kill","None",5,1740,283,1155,16352
+"Defect","Three Enemy Kill","None",6,1570,264,1105,14390
+"Defect","Three Enemy Kill","None",7,1388,247,980,12563
+"Defect","Three Enemy Kill","None",8,1353,221,930,11700
+"Defect","Three Enemy Kill","None",9,1287,235,1274,12423
+"Defect","Three Enemy Kill","None",10,1221,210,1063,12654
+"Defect","Three Enemy Kill","None",11,1034,155,1149,11727
+"Defect","Three Enemy Kill","None",12,931,146,997,10458
+"Defect","Three Enemy Kill","None",13,817,106,995,9493
+"Defect","Three Enemy Kill","None",14,864,130,1096,10762
+"Defect","Three Enemy Kill","None",15,940,149,1120,11510
+"Defect","Three Enemy Kill","None",16,799,96,907,9943
+"Defect","Three Enemy Kill","None",17,736,85,1392,12771
+"Defect","Three Enemy Kill","None",18,695,70,1493,15251
+"Defect","Three Enemy Kill","None",19,620,60,2058,17877
+"Defect","Three Enemy Kill","None",20,2289,845,7406,62276
+"Defect","Three Rare Cards","Curse",1,179,48,105,1201
+"Defect","Three Rare Cards","Curse",2,75,21,49,734
+"Defect","Three Rare Cards","Curse",3,65,9,54,649
+"Defect","Three Rare Cards","Curse",4,48,10,35,592
+"Defect","Three Rare Cards","Curse",5,55,8,44,529
+"Defect","Three Rare Cards","Curse",6,51,6,25,453
+"Defect","Three Rare Cards","Curse",7,31,5,20,370
+"Defect","Three Rare Cards","Curse",8,40,3,12,344
+"Defect","Three Rare Cards","Curse",9,36,4,28,363
+"Defect","Three Rare Cards","Curse",10,21,1,30,327
+"Defect","Three Rare Cards","Curse",11,26,3,23,318
+"Defect","Three Rare Cards","Curse",12,20,3,25,302
+"Defect","Three Rare Cards","Curse",13,31,3,18,280
+"Defect","Three Rare Cards","Curse",14,21,1,18,286
+"Defect","Three Rare Cards","Curse",15,26,5,21,298
+"Defect","Three Rare Cards","Curse",16,18,2,21,244
+"Defect","Three Rare Cards","Curse",17,24,2,29,298
+"Defect","Three Rare Cards","Curse",18,14,0,28,322
+"Defect","Three Rare Cards","Curse",19,13,1,43,361
+"Defect","Three Rare Cards","Curse",20,36,14,131,1139
+"Defect","Three Rare Cards","No Gold",1,296,79,93,1615
+"Defect","Three Rare Cards","No Gold",2,127,18,38,905
+"Defect","Three Rare Cards","No Gold",3,85,11,59,812
+"Defect","Three Rare Cards","No Gold",4,83,14,48,795
+"Defect","Three Rare Cards","No Gold",5,79,9,32,680
+"Defect","Three Rare Cards","No Gold",6,64,12,23,526
+"Defect","Three Rare Cards","No Gold",7,66,7,22,493
+"Defect","Three Rare Cards","No Gold",8,53,9,17,466
+"Defect","Three Rare Cards","No Gold",9,65,13,18,489
+"Defect","Three Rare Cards","No Gold",10,43,6,25,453
+"Defect","Three Rare Cards","No Gold",11,45,4,23,421
+"Defect","Three Rare Cards","No Gold",12,45,6,21,418
+"Defect","Three Rare Cards","No Gold",13,37,3,26,346
+"Defect","Three Rare Cards","No Gold",14,31,4,20,395
+"Defect","Three Rare Cards","No Gold",15,40,7,31,436
+"Defect","Three Rare Cards","No Gold",16,35,5,30,357
+"Defect","Three Rare Cards","No Gold",17,28,5,27,457
+"Defect","Three Rare Cards","No Gold",18,21,2,32,441
+"Defect","Three Rare Cards","No Gold",19,30,2,30,509
+"Defect","Three Rare Cards","No Gold",20,87,36,149,1849
+"Defect","Three Rare Cards","Percent Damage",1,210,62,94,1331
+"Defect","Three Rare Cards","Percent Damage",2,94,29,41,754
+"Defect","Three Rare Cards","Percent Damage",3,71,17,30,610
+"Defect","Three Rare Cards","Percent Damage",4,47,7,35,641
+"Defect","Three Rare Cards","Percent Damage",5,48,7,28,542
+"Defect","Three Rare Cards","Percent Damage",6,48,6,23,453
+"Defect","Three Rare Cards","Percent Damage",7,65,7,22,413
+"Defect","Three Rare Cards","Percent Damage",8,52,5,23,404
+"Defect","Three Rare Cards","Percent Damage",9,38,8,26,345
+"Defect","Three Rare Cards","Percent Damage",10,40,6,23,383
+"Defect","Three Rare Cards","Percent Damage",11,28,7,22,336
+"Defect","Three Rare Cards","Percent Damage",12,34,7,18,330
+"Defect","Three Rare Cards","Percent Damage",13,24,6,29,318
+"Defect","Three Rare Cards","Percent Damage",14,27,4,22,319
+"Defect","Three Rare Cards","Percent Damage",15,18,4,22,333
+"Defect","Three Rare Cards","Percent Damage",16,23,2,30,273
+"Defect","Three Rare Cards","Percent Damage",17,14,1,28,301
+"Defect","Three Rare Cards","Percent Damage",18,18,1,25,334
+"Defect","Three Rare Cards","Percent Damage",19,15,2,36,396
+"Defect","Three Rare Cards","Percent Damage",20,56,21,136,1330
+"Defect","Three Rare Cards","Ten Percent Hp Loss",1,204,54,81,1247
+"Defect","Three Rare Cards","Ten Percent Hp Loss",2,93,20,39,789
+"Defect","Three Rare Cards","Ten Percent Hp Loss",3,73,11,49,665
+"Defect","Three Rare Cards","Ten Percent Hp Loss",4,68,9,32,676
+"Defect","Three Rare Cards","Ten Percent Hp Loss",5,52,10,27,530
+"Defect","Three Rare Cards","Ten Percent Hp Loss",6,55,13,14,448
+"Defect","Three Rare Cards","Ten Percent Hp Loss",7,51,8,14,382
+"Defect","Three Rare Cards","Ten Percent Hp Loss",8,41,6,13,389
+"Defect","Three Rare Cards","Ten Percent Hp Loss",9,47,9,23,358
+"Defect","Three Rare Cards","Ten Percent Hp Loss",10,40,12,22,402
+"Defect","Three Rare Cards","Ten Percent Hp Loss",11,39,7,25,380
+"Defect","Three Rare Cards","Ten Percent Hp Loss",12,26,5,34,351
+"Defect","Three Rare Cards","Ten Percent Hp Loss",13,26,1,22,267
+"Defect","Three Rare Cards","Ten Percent Hp Loss",14,26,4,20,289
+"Defect","Three Rare Cards","Ten Percent Hp Loss",15,27,4,25,339
+"Defect","Three Rare Cards","Ten Percent Hp Loss",16,23,4,20,290
+"Defect","Three Rare Cards","Ten Percent Hp Loss",17,19,3,17,334
+"Defect","Three Rare Cards","Ten Percent Hp Loss",18,11,0,22,358
+"Defect","Three Rare Cards","Ten Percent Hp Loss",19,20,3,34,400
+"Defect","Three Rare Cards","Ten Percent Hp Loss",20,92,48,150,1519
+"Defect","Three Small Potions","None",1,421,86,93,2447
+"Defect","Three Small Potions","None",2,185,34,35,1403
+"Defect","Three Small Potions","None",3,138,25,34,1157
+"Defect","Three Small Potions","None",4,118,14,23,1017
+"Defect","Three Small Potions","None",5,106,14,19,881
+"Defect","Three Small Potions","None",6,89,6,20,650
+"Defect","Three Small Potions","None",7,58,6,15,473
+"Defect","Three Small Potions","None",8,60,11,17,530
+"Defect","Three Small Potions","None",9,58,7,13,494
+"Defect","Three Small Potions","None",10,68,11,21,520
+"Defect","Three Small Potions","None",11,22,3,18,222
+"Defect","Three Small Potions","None",12,16,0,13,214
+"Defect","Three Small Potions","None",13,16,4,17,151
+"Defect","Three Small Potions","None",14,15,4,13,187
+"Defect","Three Small Potions","None",15,14,3,15,204
+"Defect","Three Small Potions","None",16,13,0,3,137
+"Defect","Three Small Potions","None",17,9,3,24,185
+"Defect","Three Small Potions","None",18,7,1,10,220
+"Defect","Three Small Potions","None",19,6,2,12,205
+"Defect","Three Small Potions","None",20,47,18,81,829
+"Defect","Transform Card","None",1,642,134,255,3360
+"Defect","Transform Card","None",2,296,45,142,1946
+"Defect","Transform Card","None",3,229,37,124,1597
+"Defect","Transform Card","None",4,175,26,106,1371
+"Defect","Transform Card","None",5,137,18,107,1051
+"Defect","Transform Card","None",6,103,14,46,804
+"Defect","Transform Card","None",7,113,20,47,730
+"Defect","Transform Card","None",8,68,10,63,585
+"Defect","Transform Card","None",9,86,15,52,587
+"Defect","Transform Card","None",10,81,13,59,610
+"Defect","Transform Card","None",11,54,3,54,541
+"Defect","Transform Card","None",12,51,7,50,490
+"Defect","Transform Card","None",13,56,11,47,439
+"Defect","Transform Card","None",14,41,5,64,461
+"Defect","Transform Card","None",15,49,11,48,523
+"Defect","Transform Card","None",16,39,7,37,385
+"Defect","Transform Card","None",17,28,2,62,450
+"Defect","Transform Card","None",18,25,2,45,499
+"Defect","Transform Card","None",19,22,5,69,541
+"Defect","Transform Card","None",20,94,36,220,1647
+"Defect","Transform Two Cards","Curse",1,96,17,59,604
+"Defect","Transform Two Cards","Curse",2,44,12,42,396
+"Defect","Transform Two Cards","Curse",3,37,6,36,305
+"Defect","Transform Two Cards","Curse",4,25,5,28,283
+"Defect","Transform Two Cards","Curse",5,31,6,22,233
+"Defect","Transform Two Cards","Curse",6,26,6,20,182
+"Defect","Transform Two Cards","Curse",7,20,2,11,167
+"Defect","Transform Two Cards","Curse",8,26,5,21,173
+"Defect","Transform Two Cards","Curse",9,15,1,37,181
+"Defect","Transform Two Cards","Curse",10,17,2,21,144
+"Defect","Transform Two Cards","Curse",11,10,1,23,147
+"Defect","Transform Two Cards","Curse",12,14,0,18,131
+"Defect","Transform Two Cards","Curse",13,6,0,22,111
+"Defect","Transform Two Cards","Curse",14,11,0,16,130
+"Defect","Transform Two Cards","Curse",15,10,1,25,137
+"Defect","Transform Two Cards","Curse",16,8,1,21,129
+"Defect","Transform Two Cards","Curse",17,8,1,32,134
+"Defect","Transform Two Cards","Curse",18,3,0,27,150
+"Defect","Transform Two Cards","Curse",19,7,1,26,162
+"Defect","Transform Two Cards","Curse",20,26,8,116,597
+"Defect","Transform Two Cards","No Gold",1,190,50,82,950
+"Defect","Transform Two Cards","No Gold",2,103,22,41,610
+"Defect","Transform Two Cards","No Gold",3,81,19,33,488
+"Defect","Transform Two Cards","No Gold",4,67,15,38,451
+"Defect","Transform Two Cards","No Gold",5,72,15,42,418
+"Defect","Transform Two Cards","No Gold",6,43,4,23,337
+"Defect","Transform Two Cards","No Gold",7,49,8,21,327
+"Defect","Transform Two Cards","No Gold",8,43,10,24,258
+"Defect","Transform Two Cards","No Gold",9,49,6,31,282
+"Defect","Transform Two Cards","No Gold",10,43,5,33,289
+"Defect","Transform Two Cards","No Gold",11,40,6,20,256
+"Defect","Transform Two Cards","No Gold",12,40,1,30,271
+"Defect","Transform Two Cards","No Gold",13,21,3,14,212
+"Defect","Transform Two Cards","No Gold",14,25,7,22,201
+"Defect","Transform Two Cards","No Gold",15,32,12,42,274
+"Defect","Transform Two Cards","No Gold",16,23,7,21,177
+"Defect","Transform Two Cards","No Gold",17,26,2,25,236
+"Defect","Transform Two Cards","No Gold",18,21,3,31,257
+"Defect","Transform Two Cards","No Gold",19,20,2,46,315
+"Defect","Transform Two Cards","No Gold",20,60,26,187,1124
+"Defect","Transform Two Cards","Percent Damage",1,150,43,66,762
+"Defect","Transform Two Cards","Percent Damage",2,83,20,50,527
+"Defect","Transform Two Cards","Percent Damage",3,49,13,29,356
+"Defect","Transform Two Cards","Percent Damage",4,43,7,27,313
+"Defect","Transform Two Cards","Percent Damage",5,36,5,25,286
+"Defect","Transform Two Cards","Percent Damage",6,37,7,18,231
+"Defect","Transform Two Cards","Percent Damage",7,26,5,36,224
+"Defect","Transform Two Cards","Percent Damage",8,23,5,15,211
+"Defect","Transform Two Cards","Percent Damage",9,24,5,25,197
+"Defect","Transform Two Cards","Percent Damage",10,20,5,24,182
+"Defect","Transform Two Cards","Percent Damage",11,19,3,29,189
+"Defect","Transform Two Cards","Percent Damage",12,21,4,15,154
+"Defect","Transform Two Cards","Percent Damage",13,19,3,20,163
+"Defect","Transform Two Cards","Percent Damage",14,16,0,17,150
+"Defect","Transform Two Cards","Percent Damage",15,25,8,21,208
+"Defect","Transform Two Cards","Percent Damage",16,11,2,18,148
+"Defect","Transform Two Cards","Percent Damage",17,13,1,32,175
+"Defect","Transform Two Cards","Percent Damage",18,9,1,30,176
+"Defect","Transform Two Cards","Percent Damage",19,8,0,35,191
+"Defect","Transform Two Cards","Percent Damage",20,48,22,147,755
+"Defect","Transform Two Cards","Ten Percent Hp Loss",1,155,55,75,794
+"Defect","Transform Two Cards","Ten Percent Hp Loss",2,71,18,39,476
+"Defect","Transform Two Cards","Ten Percent Hp Loss",3,53,9,30,376
+"Defect","Transform Two Cards","Ten Percent Hp Loss",4,57,12,30,368
+"Defect","Transform Two Cards","Ten Percent Hp Loss",5,42,10,30,322
+"Defect","Transform Two Cards","Ten Percent Hp Loss",6,38,8,16,237
+"Defect","Transform Two Cards","Ten Percent Hp Loss",7,38,8,19,220
+"Defect","Transform Two Cards","Ten Percent Hp Loss",8,38,8,21,217
+"Defect","Transform Two Cards","Ten Percent Hp Loss",9,32,9,25,222
+"Defect","Transform Two Cards","Ten Percent Hp Loss",10,29,5,24,209
+"Defect","Transform Two Cards","Ten Percent Hp Loss",11,21,5,21,199
+"Defect","Transform Two Cards","Ten Percent Hp Loss",12,34,8,13,177
+"Defect","Transform Two Cards","Ten Percent Hp Loss",13,31,3,22,194
+"Defect","Transform Two Cards","Ten Percent Hp Loss",14,18,2,17,151
+"Defect","Transform Two Cards","Ten Percent Hp Loss",15,21,8,34,207
+"Defect","Transform Two Cards","Ten Percent Hp Loss",16,24,3,18,168
+"Defect","Transform Two Cards","Ten Percent Hp Loss",17,11,1,33,188
+"Defect","Transform Two Cards","Ten Percent Hp Loss",18,15,3,31,211
+"Defect","Transform Two Cards","Ten Percent Hp Loss",19,16,4,30,204
+"Defect","Transform Two Cards","Ten Percent Hp Loss",20,52,25,159,863
+"Defect","Twenty Percent Hp Bonus","Curse",1,102,19,9,457
+"Defect","Twenty Percent Hp Bonus","Curse",2,34,4,4,243
+"Defect","Twenty Percent Hp Bonus","Curse",3,21,2,3,201
+"Defect","Twenty Percent Hp Bonus","Curse",4,26,2,2,200
+"Defect","Twenty Percent Hp Bonus","Curse",5,19,4,2,152
+"Defect","Twenty Percent Hp Bonus","Curse",6,10,2,4,138
+"Defect","Twenty Percent Hp Bonus","Curse",7,18,2,2,111
+"Defect","Twenty Percent Hp Bonus","Curse",8,15,3,0,98
+"Defect","Twenty Percent Hp Bonus","Curse",9,11,2,7,83
+"Defect","Twenty Percent Hp Bonus","Curse",10,9,1,0,102
+"Defect","Twenty Percent Hp Bonus","Curse",11,7,0,3,86
+"Defect","Twenty Percent Hp Bonus","Curse",12,6,0,1,71
+"Defect","Twenty Percent Hp Bonus","Curse",13,3,0,1,69
+"Defect","Twenty Percent Hp Bonus","Curse",14,13,2,0,93
+"Defect","Twenty Percent Hp Bonus","Curse",15,6,0,2,75
+"Defect","Twenty Percent Hp Bonus","Curse",16,4,0,3,70
+"Defect","Twenty Percent Hp Bonus","Curse",17,5,1,4,91
+"Defect","Twenty Percent Hp Bonus","Curse",18,4,0,4,102
+"Defect","Twenty Percent Hp Bonus","Curse",19,2,0,7,103
+"Defect","Twenty Percent Hp Bonus","Curse",20,9,3,11,253
+"Defect","Twenty Percent Hp Bonus","No Gold",1,130,19,2,619
+"Defect","Twenty Percent Hp Bonus","No Gold",2,55,8,3,368
+"Defect","Twenty Percent Hp Bonus","No Gold",3,50,5,3,317
+"Defect","Twenty Percent Hp Bonus","No Gold",4,55,2,2,349
+"Defect","Twenty Percent Hp Bonus","No Gold",5,42,5,3,261
+"Defect","Twenty Percent Hp Bonus","No Gold",6,25,4,1,208
+"Defect","Twenty Percent Hp Bonus","No Gold",7,32,5,1,182
+"Defect","Twenty Percent Hp Bonus","No Gold",8,34,5,0,154
+"Defect","Twenty Percent Hp Bonus","No Gold",9,21,4,6,154
+"Defect","Twenty Percent Hp Bonus","No Gold",10,23,1,3,161
+"Defect","Twenty Percent Hp Bonus","No Gold",11,19,4,1,146
+"Defect","Twenty Percent Hp Bonus","No Gold",12,9,2,0,117
+"Defect","Twenty Percent Hp Bonus","No Gold",13,15,3,3,129
+"Defect","Twenty Percent Hp Bonus","No Gold",14,14,3,2,131
+"Defect","Twenty Percent Hp Bonus","No Gold",15,25,3,1,174
+"Defect","Twenty Percent Hp Bonus","No Gold",16,8,0,2,120
+"Defect","Twenty Percent Hp Bonus","No Gold",17,15,1,4,139
+"Defect","Twenty Percent Hp Bonus","No Gold",18,7,0,1,136
+"Defect","Twenty Percent Hp Bonus","No Gold",19,11,0,2,174
+"Defect","Twenty Percent Hp Bonus","No Gold",20,24,10,26,556
+"Defect","Twenty Percent Hp Bonus","Percent Damage",1,162,29,6,745
+"Defect","Twenty Percent Hp Bonus","Percent Damage",2,68,15,3,433
+"Defect","Twenty Percent Hp Bonus","Percent Damage",3,50,10,3,327
+"Defect","Twenty Percent Hp Bonus","Percent Damage",4,40,10,2,331
+"Defect","Twenty Percent Hp Bonus","Percent Damage",5,28,3,1,218
+"Defect","Twenty Percent Hp Bonus","Percent Damage",6,27,4,0,207
+"Defect","Twenty Percent Hp Bonus","Percent Damage",7,29,4,1,169
+"Defect","Twenty Percent Hp Bonus","Percent Damage",8,23,5,0,161
+"Defect","Twenty Percent Hp Bonus","Percent Damage",9,21,5,3,150
+"Defect","Twenty Percent Hp Bonus","Percent Damage",10,12,2,1,150
+"Defect","Twenty Percent Hp Bonus","Percent Damage",11,21,5,4,161
+"Defect","Twenty Percent Hp Bonus","Percent Damage",12,19,3,2,136
+"Defect","Twenty Percent Hp Bonus","Percent Damage",13,19,1,3,138
+"Defect","Twenty Percent Hp Bonus","Percent Damage",14,21,1,0,148
+"Defect","Twenty Percent Hp Bonus","Percent Damage",15,13,3,1,139
+"Defect","Twenty Percent Hp Bonus","Percent Damage",16,12,1,3,113
+"Defect","Twenty Percent Hp Bonus","Percent Damage",17,13,3,3,148
+"Defect","Twenty Percent Hp Bonus","Percent Damage",18,11,1,0,132
+"Defect","Twenty Percent Hp Bonus","Percent Damage",19,8,2,6,174
+"Defect","Twenty Percent Hp Bonus","Percent Damage",20,24,10,12,503
+"Defect","Two Fifty Gold","Curse",1,271,64,16,1168
+"Defect","Two Fifty Gold","Curse",2,122,23,13,754
+"Defect","Two Fifty Gold","Curse",3,97,28,4,596
+"Defect","Two Fifty Gold","Curse",4,89,21,4,624
+"Defect","Two Fifty Gold","Curse",5,102,20,1,575
+"Defect","Two Fifty Gold","Curse",6,68,15,5,446
+"Defect","Two Fifty Gold","Curse",7,67,14,1,381
+"Defect","Two Fifty Gold","Curse",8,59,8,3,358
+"Defect","Two Fifty Gold","Curse",9,46,10,6,384
+"Defect","Two Fifty Gold","Curse",10,41,9,5,377
+"Defect","Two Fifty Gold","Curse",11,35,3,3,324
+"Defect","Two Fifty Gold","Curse",12,40,6,4,319
+"Defect","Two Fifty Gold","Curse",13,30,5,6,284
+"Defect","Two Fifty Gold","Curse",14,32,8,7,299
+"Defect","Two Fifty Gold","Curse",15,39,7,3,327
+"Defect","Two Fifty Gold","Curse",16,34,7,5,293
+"Defect","Two Fifty Gold","Curse",17,37,5,8,326
+"Defect","Two Fifty Gold","Curse",18,18,2,6,362
+"Defect","Two Fifty Gold","Curse",19,20,1,4,450
+"Defect","Two Fifty Gold","Curse",20,72,27,20,1370
+"Defect","Two Fifty Gold","Percent Damage",1,317,106,5,1381
+"Defect","Two Fifty Gold","Percent Damage",2,121,23,3,829
+"Defect","Two Fifty Gold","Percent Damage",3,94,26,2,679
+"Defect","Two Fifty Gold","Percent Damage",4,95,20,2,647
+"Defect","Two Fifty Gold","Percent Damage",5,94,17,0,560
+"Defect","Two Fifty Gold","Percent Damage",6,77,17,0,472
+"Defect","Two Fifty Gold","Percent Damage",7,59,12,2,434
+"Defect","Two Fifty Gold","Percent Damage",8,58,9,2,372
+"Defect","Two Fifty Gold","Percent Damage",9,51,10,4,390
+"Defect","Two Fifty Gold","Percent Damage",10,41,8,2,371
+"Defect","Two Fifty Gold","Percent Damage",11,39,8,1,344
+"Defect","Two Fifty Gold","Percent Damage",12,42,9,1,307
+"Defect","Two Fifty Gold","Percent Damage",13,40,8,1,284
+"Defect","Two Fifty Gold","Percent Damage",14,35,3,0,270
+"Defect","Two Fifty Gold","Percent Damage",15,43,5,3,347
+"Defect","Two Fifty Gold","Percent Damage",16,22,5,1,286
+"Defect","Two Fifty Gold","Percent Damage",17,17,2,3,313
+"Defect","Two Fifty Gold","Percent Damage",18,22,1,4,372
+"Defect","Two Fifty Gold","Percent Damage",19,20,2,9,406
+"Defect","Two Fifty Gold","Percent Damage",20,93,42,26,1454
+"Defect","Two Fifty Gold","Ten Percent Hp Loss",1,258,70,6,1104
+"Defect","Two Fifty Gold","Ten Percent Hp Loss",2,131,32,3,700
+"Defect","Two Fifty Gold","Ten Percent Hp Loss",3,95,20,3,589
+"Defect","Two Fifty Gold","Ten Percent Hp Loss",4,116,17,7,641
+"Defect","Two Fifty Gold","Ten Percent Hp Loss",5,76,23,2,493
+"Defect","Two Fifty Gold","Ten Percent Hp Loss",6,71,12,1,436
+"Defect","Two Fifty Gold","Ten Percent Hp Loss",7,63,6,3,380
+"Defect","Two Fifty Gold","Ten Percent Hp Loss",8,79,19,0,391
+"Defect","Two Fifty Gold","Ten Percent Hp Loss",9,69,15,4,358
+"Defect","Two Fifty Gold","Ten Percent Hp Loss",10,49,9,1,355
+"Defect","Two Fifty Gold","Ten Percent Hp Loss",11,43,10,1,332
+"Defect","Two Fifty Gold","Ten Percent Hp Loss",12,41,8,2,349
+"Defect","Two Fifty Gold","Ten Percent Hp Loss",13,41,10,1,295
+"Defect","Two Fifty Gold","Ten Percent Hp Loss",14,46,10,3,301
+"Defect","Two Fifty Gold","Ten Percent Hp Loss",15,61,9,1,369
+"Defect","Two Fifty Gold","Ten Percent Hp Loss",16,33,4,1,289
+"Defect","Two Fifty Gold","Ten Percent Hp Loss",17,26,2,3,343
+"Defect","Two Fifty Gold","Ten Percent Hp Loss",18,24,2,2,347
+"Defect","Two Fifty Gold","Ten Percent Hp Loss",19,24,4,8,422
+"Defect","Two Fifty Gold","Ten Percent Hp Loss",20,121,59,20,1623
+"Defect","Upgrade Card","None",1,1090,248,64,4845
+"Defect","Upgrade Card","None",2,428,55,32,2797
+"Defect","Upgrade Card","None",3,337,43,27,2225
+"Defect","Upgrade Card","None",4,258,22,15,2177
+"Defect","Upgrade Card","None",5,240,30,10,1789
+"Defect","Upgrade Card","None",6,201,31,13,1420
+"Defect","Upgrade Card","None",7,187,21,14,1321
+"Defect","Upgrade Card","None",8,164,18,10,1072
+"Defect","Upgrade Card","None",9,132,15,8,1058
+"Defect","Upgrade Card","None",10,143,25,13,1031
+"Defect","Upgrade Card","None",11,109,13,10,1000
+"Defect","Upgrade Card","None",12,89,12,11,843
+"Defect","Upgrade Card","None",13,99,10,13,760
+"Defect","Upgrade Card","None",14,82,8,11,879
+"Defect","Upgrade Card","None",15,79,12,19,879
+"Defect","Upgrade Card","None",16,62,3,7,716
+"Defect","Upgrade Card","None",17,52,6,8,791
+"Defect","Upgrade Card","None",18,38,4,15,880
+"Defect","Upgrade Card","None",19,40,8,20,1015
+"Defect","Upgrade Card","None",20,128,43,54,2978
+"Ironclad","Boss Relic","None",1,2804,744,3596,14540
+"Ironclad","Boss Relic","None",2,1206,290,1900,8194
+"Ironclad","Boss Relic","None",3,973,234,1626,7017
+"Ironclad","Boss Relic","None",4,916,188,1537,6651
+"Ironclad","Boss Relic","None",5,792,176,1267,5551
+"Ironclad","Boss Relic","None",6,600,137,1059,4658
+"Ironclad","Boss Relic","None",7,613,114,963,4067
+"Ironclad","Boss Relic","None",8,546,112,827,3635
+"Ironclad","Boss Relic","None",9,533,125,878,3686
+"Ironclad","Boss Relic","None",10,473,118,973,3888
+"Ironclad","Boss Relic","None",11,457,104,929,3568
+"Ironclad","Boss Relic","None",12,356,72,843,3272
+"Ironclad","Boss Relic","None",13,396,95,772,3099
+"Ironclad","Boss Relic","None",14,386,91,800,3220
+"Ironclad","Boss Relic","None",15,450,130,1048,3986
+"Ironclad","Boss Relic","None",16,405,79,854,3271
+"Ironclad","Boss Relic","None",17,302,55,1177,4020
+"Ironclad","Boss Relic","None",18,269,44,1225,4221
+"Ironclad","Boss Relic","None",19,337,50,1280,4536
+"Ironclad","Boss Relic","None",20,1743,1056,6841,20902
+"Ironclad","Hundred Gold","None",1,1794,314,71,8581
+"Ironclad","Hundred Gold","None",2,773,105,28,5065
+"Ironclad","Hundred Gold","None",3,535,57,22,4067
+"Ironclad","Hundred Gold","None",4,474,52,33,3968
+"Ironclad","Hundred Gold","None",5,415,49,23,3347
+"Ironclad","Hundred Gold","None",6,380,46,27,2646
+"Ironclad","Hundred Gold","None",7,310,35,22,2339
+"Ironclad","Hundred Gold","None",8,308,34,17,2080
+"Ironclad","Hundred Gold","None",9,308,35,17,2075
+"Ironclad","Hundred Gold","None",10,263,29,26,2248
+"Ironclad","Hundred Gold","None",11,225,30,17,2071
+"Ironclad","Hundred Gold","None",12,194,20,19,1822
+"Ironclad","Hundred Gold","None",13,209,36,14,1673
+"Ironclad","Hundred Gold","None",14,173,22,24,1712
+"Ironclad","Hundred Gold","None",15,192,33,24,1823
+"Ironclad","Hundred Gold","None",16,134,13,22,1518
+"Ironclad","Hundred Gold","None",17,119,20,35,1693
+"Ironclad","Hundred Gold","None",18,110,9,29,1722
+"Ironclad","Hundred Gold","None",19,95,5,25,1901
+"Ironclad","Hundred Gold","None",20,368,156,133,6082
+"Ironclad","One Random Rare Card","None",1,1800,386,921,9086
+"Ironclad","One Random Rare Card","None",2,776,131,476,5348
+"Ironclad","One Random Rare Card","None",3,614,98,399,4490
+"Ironclad","One Random Rare Card","None",4,527,80,429,4495
+"Ironclad","One Random Rare Card","None",5,490,79,372,3992
+"Ironclad","One Random Rare Card","None",6,406,53,302,3279
+"Ironclad","One Random Rare Card","None",7,366,58,253,2825
+"Ironclad","One Random Rare Card","None",8,346,54,267,2555
+"Ironclad","One Random Rare Card","None",9,305,38,238,2455
+"Ironclad","One Random Rare Card","None",10,302,50,274,2803
+"Ironclad","One Random Rare Card","None",11,264,44,299,2700
+"Ironclad","One Random Rare Card","None",12,261,47,276,2459
+"Ironclad","One Random Rare Card","None",13,231,38,246,2083
+"Ironclad","One Random Rare Card","None",14,178,22,247,2191
+"Ironclad","One Random Rare Card","None",15,235,42,258,2320
+"Ironclad","One Random Rare Card","None",16,174,19,260,2044
+"Ironclad","One Random Rare Card","None",17,149,17,322,2477
+"Ironclad","One Random Rare Card","None",18,122,12,352,2534
+"Ironclad","One Random Rare Card","None",19,125,7,340,2634
+"Ironclad","One Random Rare Card","None",20,465,210,1324,8667
+"Ironclad","One Rare Relic","Curse",1,583,133,165,2609
+"Ironclad","One Rare Relic","Curse",2,221,39,101,1534
+"Ironclad","One Rare Relic","Curse",3,210,32,69,1399
+"Ironclad","One Rare Relic","Curse",4,187,24,82,1342
+"Ironclad","One Rare Relic","Curse",5,152,29,78,1163
+"Ironclad","One Rare Relic","Curse",6,134,27,62,1038
+"Ironclad","One Rare Relic","Curse",7,127,25,57,895
+"Ironclad","One Rare Relic","Curse",8,108,14,43,760
+"Ironclad","One Rare Relic","Curse",9,114,19,52,792
+"Ironclad","One Rare Relic","Curse",10,101,9,52,819
+"Ironclad","One Rare Relic","Curse",11,84,11,55,788
+"Ironclad","One Rare Relic","Curse",12,82,7,50,682
+"Ironclad","One Rare Relic","Curse",13,80,6,63,648
+"Ironclad","One Rare Relic","Curse",14,73,10,58,654
+"Ironclad","One Rare Relic","Curse",15,68,7,71,772
+"Ironclad","One Rare Relic","Curse",16,64,8,52,637
+"Ironclad","One Rare Relic","Curse",17,50,3,72,774
+"Ironclad","One Rare Relic","Curse",18,59,4,100,861
+"Ironclad","One Rare Relic","Curse",19,34,4,97,944
+"Ironclad","One Rare Relic","Curse",20,157,51,410,3018
+"Ironclad","One Rare Relic","No Gold",1,719,185,168,3021
+"Ironclad","One Rare Relic","No Gold",2,319,62,78,1744
+"Ironclad","One Rare Relic","No Gold",3,251,45,62,1527
+"Ironclad","One Rare Relic","No Gold",4,213,31,61,1499
+"Ironclad","One Rare Relic","No Gold",5,209,34,55,1297
+"Ironclad","One Rare Relic","No Gold",6,175,33,43,1149
+"Ironclad","One Rare Relic","No Gold",7,149,31,63,984
+"Ironclad","One Rare Relic","No Gold",8,148,25,41,898
+"Ironclad","One Rare Relic","No Gold",9,120,19,51,914
+"Ironclad","One Rare Relic","No Gold",10,156,32,43,960
+"Ironclad","One Rare Relic","No Gold",11,120,21,40,947
+"Ironclad","One Rare Relic","No Gold",12,108,15,51,816
+"Ironclad","One Rare Relic","No Gold",13,103,13,39,745
+"Ironclad","One Rare Relic","No Gold",14,119,15,54,836
+"Ironclad","One Rare Relic","No Gold",15,100,16,40,869
+"Ironclad","One Rare Relic","No Gold",16,100,15,56,822
+"Ironclad","One Rare Relic","No Gold",17,77,9,67,986
+"Ironclad","One Rare Relic","No Gold",18,70,13,81,1002
+"Ironclad","One Rare Relic","No Gold",19,68,9,60,1006
+"Ironclad","One Rare Relic","No Gold",20,316,144,398,3857
+"Ironclad","One Rare Relic","Percent Damage",1,746,183,119,2987
+"Ironclad","One Rare Relic","Percent Damage",2,280,58,52,1676
+"Ironclad","One Rare Relic","Percent Damage",3,238,43,42,1387
+"Ironclad","One Rare Relic","Percent Damage",4,191,31,63,1329
+"Ironclad","One Rare Relic","Percent Damage",5,191,31,49,1187
+"Ironclad","One Rare Relic","Percent Damage",6,151,25,46,990
+"Ironclad","One Rare Relic","Percent Damage",7,135,14,40,842
+"Ironclad","One Rare Relic","Percent Damage",8,126,23,35,789
+"Ironclad","One Rare Relic","Percent Damage",9,134,16,36,826
+"Ironclad","One Rare Relic","Percent Damage",10,122,31,33,827
+"Ironclad","One Rare Relic","Percent Damage",11,98,11,41,785
+"Ironclad","One Rare Relic","Percent Damage",12,92,13,38,709
+"Ironclad","One Rare Relic","Percent Damage",13,70,14,46,619
+"Ironclad","One Rare Relic","Percent Damage",14,96,15,38,724
+"Ironclad","One Rare Relic","Percent Damage",15,88,12,65,774
+"Ironclad","One Rare Relic","Percent Damage",16,82,12,40,656
+"Ironclad","One Rare Relic","Percent Damage",17,62,12,74,796
+"Ironclad","One Rare Relic","Percent Damage",18,61,4,67,808
+"Ironclad","One Rare Relic","Percent Damage",19,47,6,60,916
+"Ironclad","One Rare Relic","Percent Damage",20,225,90,324,3178
+"Ironclad","One Rare Relic","Ten Percent Hp Loss",1,596,136,145,2678
+"Ironclad","One Rare Relic","Ten Percent Hp Loss",2,285,63,75,1621
+"Ironclad","One Rare Relic","Ten Percent Hp Loss",3,242,50,66,1484
+"Ironclad","One Rare Relic","Ten Percent Hp Loss",4,198,30,71,1385
+"Ironclad","One Rare Relic","Ten Percent Hp Loss",5,175,36,57,1250
+"Ironclad","One Rare Relic","Ten Percent Hp Loss",6,137,21,33,1003
+"Ironclad","One Rare Relic","Ten Percent Hp Loss",7,133,25,45,907
+"Ironclad","One Rare Relic","Ten Percent Hp Loss",8,144,24,42,802
+"Ironclad","One Rare Relic","Ten Percent Hp Loss",9,122,23,45,795
+"Ironclad","One Rare Relic","Ten Percent Hp Loss",10,126,27,45,941
+"Ironclad","One Rare Relic","Ten Percent Hp Loss",11,109,16,40,857
+"Ironclad","One Rare Relic","Ten Percent Hp Loss",12,98,12,68,761
+"Ironclad","One Rare Relic","Ten Percent Hp Loss",13,87,12,51,715
+"Ironclad","One Rare Relic","Ten Percent Hp Loss",14,83,10,45,741
+"Ironclad","One Rare Relic","Ten Percent Hp Loss",15,90,20,41,783
+"Ironclad","One Rare Relic","Ten Percent Hp Loss",16,72,11,53,717
+"Ironclad","One Rare Relic","Ten Percent Hp Loss",17,67,9,73,792
+"Ironclad","One Rare Relic","Ten Percent Hp Loss",18,48,6,67,820
+"Ironclad","One Rare Relic","Ten Percent Hp Loss",19,51,3,84,946
+"Ironclad","One Rare Relic","Ten Percent Hp Loss",20,262,127,421,3458
+"Ironclad","Random Colorless","None",1,878,153,377,5047
+"Ironclad","Random Colorless","None",2,393,59,204,3106
+"Ironclad","Random Colorless","None",3,282,31,200,2457
+"Ironclad","Random Colorless","None",4,238,21,217,2365
+"Ironclad","Random Colorless","None",5,187,16,126,1947
+"Ironclad","Random Colorless","None",6,176,14,132,1537
+"Ironclad","Random Colorless","None",7,159,15,92,1386
+"Ironclad","Random Colorless","None",8,110,8,87,1061
+"Ironclad","Random Colorless","None",9,115,14,97,1109
+"Ironclad","Random Colorless","None",10,91,6,94,1159
+"Ironclad","Random Colorless","None",11,81,9,81,1088
+"Ironclad","Random Colorless","None",12,76,6,96,1014
+"Ironclad","Random Colorless","None",13,63,4,85,881
+"Ironclad","Random Colorless","None",14,79,9,95,925
+"Ironclad","Random Colorless","None",15,67,13,101,944
+"Ironclad","Random Colorless","None",16,56,3,83,826
+"Ironclad","Random Colorless","None",17,48,5,118,1006
+"Ironclad","Random Colorless","None",18,33,4,133,997
+"Ironclad","Random Colorless","None",19,35,6,112,947
+"Ironclad","Random Colorless","None",20,100,49,462,2947
+"Ironclad","Random Colorless 2","Curse",1,186,44,106,1070
+"Ironclad","Random Colorless 2","Curse",2,72,11,51,704
+"Ironclad","Random Colorless 2","Curse",3,81,14,50,626
+"Ironclad","Random Colorless 2","Curse",4,66,13,47,627
+"Ironclad","Random Colorless 2","Curse",5,49,4,47,526
+"Ironclad","Random Colorless 2","Curse",6,52,8,36,489
+"Ironclad","Random Colorless 2","Curse",7,44,9,43,432
+"Ironclad","Random Colorless 2","Curse",8,37,4,30,366
+"Ironclad","Random Colorless 2","Curse",9,46,3,28,368
+"Ironclad","Random Colorless 2","Curse",10,24,3,43,410
+"Ironclad","Random Colorless 2","Curse",11,31,2,49,367
+"Ironclad","Random Colorless 2","Curse",12,31,2,32,338
+"Ironclad","Random Colorless 2","Curse",13,27,2,34,326
+"Ironclad","Random Colorless 2","Curse",14,19,4,53,334
+"Ironclad","Random Colorless 2","Curse",15,31,3,40,350
+"Ironclad","Random Colorless 2","Curse",16,31,6,34,303
+"Ironclad","Random Colorless 2","Curse",17,23,2,39,372
+"Ironclad","Random Colorless 2","Curse",18,12,2,57,426
+"Ironclad","Random Colorless 2","Curse",19,17,3,56,465
+"Ironclad","Random Colorless 2","Curse",20,51,23,263,1531
+"Ironclad","Random Colorless 2","No Gold",1,346,90,91,1415
+"Ironclad","Random Colorless 2","No Gold",2,115,19,43,781
+"Ironclad","Random Colorless 2","No Gold",3,107,24,41,723
+"Ironclad","Random Colorless 2","No Gold",4,104,18,30,738
+"Ironclad","Random Colorless 2","No Gold",5,84,14,43,671
+"Ironclad","Random Colorless 2","No Gold",6,80,15,40,593
+"Ironclad","Random Colorless 2","No Gold",7,71,14,43,533
+"Ironclad","Random Colorless 2","No Gold",8,62,11,26,471
+"Ironclad","Random Colorless 2","No Gold",9,59,7,42,465
+"Ironclad","Random Colorless 2","No Gold",10,65,14,38,552
+"Ironclad","Random Colorless 2","No Gold",11,54,9,39,528
+"Ironclad","Random Colorless 2","No Gold",12,40,12,23,454
+"Ironclad","Random Colorless 2","No Gold",13,41,7,27,391
+"Ironclad","Random Colorless 2","No Gold",14,40,4,39,452
+"Ironclad","Random Colorless 2","No Gold",15,60,10,54,539
+"Ironclad","Random Colorless 2","No Gold",16,35,6,40,432
+"Ironclad","Random Colorless 2","No Gold",17,36,4,43,527
+"Ironclad","Random Colorless 2","No Gold",18,29,3,58,567
+"Ironclad","Random Colorless 2","No Gold",19,39,5,48,589
+"Ironclad","Random Colorless 2","No Gold",20,119,55,276,2129
+"Ironclad","Random Colorless 2","Percent Damage",1,319,66,86,1428
+"Ironclad","Random Colorless 2","Percent Damage",2,108,21,38,828
+"Ironclad","Random Colorless 2","Percent Damage",3,97,26,47,711
+"Ironclad","Random Colorless 2","Percent Damage",4,86,16,49,713
+"Ironclad","Random Colorless 2","Percent Damage",5,61,7,46,598
+"Ironclad","Random Colorless 2","Percent Damage",6,57,12,29,517
+"Ironclad","Random Colorless 2","Percent Damage",7,56,12,36,438
+"Ironclad","Random Colorless 2","Percent Damage",8,52,6,36,385
+"Ironclad","Random Colorless 2","Percent Damage",9,46,5,19,391
+"Ironclad","Random Colorless 2","Percent Damage",10,45,10,32,441
+"Ironclad","Random Colorless 2","Percent Damage",11,41,7,34,374
+"Ironclad","Random Colorless 2","Percent Damage",12,38,6,38,374
+"Ironclad","Random Colorless 2","Percent Damage",13,30,7,36,331
+"Ironclad","Random Colorless 2","Percent Damage",14,35,5,29,347
+"Ironclad","Random Colorless 2","Percent Damage",15,44,9,26,424
+"Ironclad","Random Colorless 2","Percent Damage",16,33,4,36,354
+"Ironclad","Random Colorless 2","Percent Damage",17,28,6,30,443
+"Ironclad","Random Colorless 2","Percent Damage",18,28,7,38,467
+"Ironclad","Random Colorless 2","Percent Damage",19,22,1,47,488
+"Ironclad","Random Colorless 2","Percent Damage",20,100,59,235,1723
+"Ironclad","Random Colorless 2","Ten Percent Hp Loss",1,265,71,103,1247
+"Ironclad","Random Colorless 2","Ten Percent Hp Loss",2,90,18,53,725
+"Ironclad","Random Colorless 2","Ten Percent Hp Loss",3,63,18,55,611
+"Ironclad","Random Colorless 2","Ten Percent Hp Loss",4,67,15,42,657
+"Ironclad","Random Colorless 2","Ten Percent Hp Loss",5,63,10,48,537
+"Ironclad","Random Colorless 2","Ten Percent Hp Loss",6,53,8,27,472
+"Ironclad","Random Colorless 2","Ten Percent Hp Loss",7,51,7,33,413
+"Ironclad","Random Colorless 2","Ten Percent Hp Loss",8,39,7,36,373
+"Ironclad","Random Colorless 2","Ten Percent Hp Loss",9,58,14,21,377
+"Ironclad","Random Colorless 2","Ten Percent Hp Loss",10,50,9,41,446
+"Ironclad","Random Colorless 2","Ten Percent Hp Loss",11,52,13,22,422
+"Ironclad","Random Colorless 2","Ten Percent Hp Loss",12,30,9,33,403
+"Ironclad","Random Colorless 2","Ten Percent Hp Loss",13,44,2,32,339
+"Ironclad","Random Colorless 2","Ten Percent Hp Loss",14,32,7,43,355
+"Ironclad","Random Colorless 2","Ten Percent Hp Loss",15,43,10,36,382
+"Ironclad","Random Colorless 2","Ten Percent Hp Loss",16,20,2,31,344
+"Ironclad","Random Colorless 2","Ten Percent Hp Loss",17,23,3,44,405
+"Ironclad","Random Colorless 2","Ten Percent Hp Loss",18,26,5,60,479
+"Ironclad","Random Colorless 2","Ten Percent Hp Loss",19,19,4,40,494
+"Ironclad","Random Colorless 2","Ten Percent Hp Loss",20,99,61,261,1759
+"Ironclad","Random Common Relic","None",1,3890,676,476,16311
+"Ironclad","Random Common Relic","None",2,1628,210,250,9470
+"Ironclad","Random Common Relic","None",3,1271,165,241,7630
+"Ironclad","Random Common Relic","None",4,1015,114,278,7611
+"Ironclad","Random Common Relic","None",5,943,119,225,6416
+"Ironclad","Random Common Relic","None",6,827,98,205,5251
+"Ironclad","Random Common Relic","None",7,701,79,197,4548
+"Ironclad","Random Common Relic","None",8,633,78,140,3930
+"Ironclad","Random Common Relic","None",9,614,75,143,3995
+"Ironclad","Random Common Relic","None",10,507,75,183,4293
+"Ironclad","Random Common Relic","None",11,486,54,200,3953
+"Ironclad","Random Common Relic","None",12,419,51,161,3565
+"Ironclad","Random Common Relic","None",13,395,45,198,3185
+"Ironclad","Random Common Relic","None",14,333,34,200,3332
+"Ironclad","Random Common Relic","None",15,415,56,217,3694
+"Ironclad","Random Common Relic","None",16,305,35,176,2981
+"Ironclad","Random Common Relic","None",17,270,37,352,3886
+"Ironclad","Random Common Relic","None",18,217,20,327,3822
+"Ironclad","Random Common Relic","None",19,207,17,312,4128
+"Ironclad","Random Common Relic","None",20,796,299,1376,13047
+"Ironclad","Remove Card","None",1,758,136,64,3669
+"Ironclad","Remove Card","None",2,286,37,42,2104
+"Ironclad","Remove Card","None",3,234,33,33,1706
+"Ironclad","Remove Card","None",4,186,19,27,1636
+"Ironclad","Remove Card","None",5,167,17,38,1371
+"Ironclad","Remove Card","None",6,132,15,22,1016
+"Ironclad","Remove Card","None",7,134,13,17,974
+"Ironclad","Remove Card","None",8,124,15,12,800
+"Ironclad","Remove Card","None",9,98,15,16,812
+"Ironclad","Remove Card","None",10,89,9,31,937
+"Ironclad","Remove Card","None",11,77,4,18,819
+"Ironclad","Remove Card","None",12,79,8,22,720
+"Ironclad","Remove Card","None",13,72,11,18,619
+"Ironclad","Remove Card","None",14,40,6,13,602
+"Ironclad","Remove Card","None",15,64,12,14,708
+"Ironclad","Remove Card","None",16,48,5,15,519
+"Ironclad","Remove Card","None",17,41,1,24,650
+"Ironclad","Remove Card","None",18,36,2,17,558
+"Ironclad","Remove Card","None",19,16,1,27,578
+"Ironclad","Remove Card","None",20,116,53,84,1826
+"Ironclad","Remove Two","No Gold",1,316,87,7,1294
+"Ironclad","Remove Two","No Gold",2,137,28,3,741
+"Ironclad","Remove Two","No Gold",3,110,21,5,633
+"Ironclad","Remove Two","No Gold",4,101,15,2,681
+"Ironclad","Remove Two","No Gold",5,93,10,2,593
+"Ironclad","Remove Two","No Gold",6,80,14,4,525
+"Ironclad","Remove Two","No Gold",7,58,5,5,457
+"Ironclad","Remove Two","No Gold",8,58,11,2,398
+"Ironclad","Remove Two","No Gold",9,76,7,4,440
+"Ironclad","Remove Two","No Gold",10,46,10,8,445
+"Ironclad","Remove Two","No Gold",11,47,7,2,390
+"Ironclad","Remove Two","No Gold",12,37,7,4,362
+"Ironclad","Remove Two","No Gold",13,33,4,2,303
+"Ironclad","Remove Two","No Gold",14,38,7,1,354
+"Ironclad","Remove Two","No Gold",15,36,5,3,340
+"Ironclad","Remove Two","No Gold",16,44,2,2,321
+"Ironclad","Remove Two","No Gold",17,25,5,4,385
+"Ironclad","Remove Two","No Gold",18,23,1,4,373
+"Ironclad","Remove Two","No Gold",19,15,0,5,397
+"Ironclad","Remove Two","No Gold",20,96,53,35,1404
+"Ironclad","Remove Two","Percent Damage",1,294,71,12,1189
+"Ironclad","Remove Two","Percent Damage",2,117,31,4,674
+"Ironclad","Remove Two","Percent Damage",3,89,13,3,549
+"Ironclad","Remove Two","Percent Damage",4,74,15,7,543
+"Ironclad","Remove Two","Percent Damage",5,71,12,2,467
+"Ironclad","Remove Two","Percent Damage",6,66,8,1,380
+"Ironclad","Remove Two","Percent Damage",7,62,14,0,341
+"Ironclad","Remove Two","Percent Damage",8,44,7,3,315
+"Ironclad","Remove Two","Percent Damage",9,42,7,1,311
+"Ironclad","Remove Two","Percent Damage",10,34,6,3,333
+"Ironclad","Remove Two","Percent Damage",11,36,10,2,308
+"Ironclad","Remove Two","Percent Damage",12,37,1,4,268
+"Ironclad","Remove Two","Percent Damage",13,21,3,4,267
+"Ironclad","Remove Two","Percent Damage",14,26,1,4,249
+"Ironclad","Remove Two","Percent Damage",15,31,10,2,297
+"Ironclad","Remove Two","Percent Damage",16,24,2,3,245
+"Ironclad","Remove Two","Percent Damage",17,17,2,5,302
+"Ironclad","Remove Two","Percent Damage",18,8,2,2,291
+"Ironclad","Remove Two","Percent Damage",19,17,3,3,302
+"Ironclad","Remove Two","Percent Damage",20,72,42,28,1078
+"Ironclad","Remove Two","Ten Percent Hp Loss",1,288,69,7,1145
+"Ironclad","Remove Two","Ten Percent Hp Loss",2,87,10,5,622
+"Ironclad","Remove Two","Ten Percent Hp Loss",3,71,12,8,530
+"Ironclad","Remove Two","Ten Percent Hp Loss",4,61,11,4,525
+"Ironclad","Remove Two","Ten Percent Hp Loss",5,65,10,3,417
+"Ironclad","Remove Two","Ten Percent Hp Loss",6,63,10,3,383
+"Ironclad","Remove Two","Ten Percent Hp Loss",7,65,9,2,379
+"Ironclad","Remove Two","Ten Percent Hp Loss",8,48,8,3,333
+"Ironclad","Remove Two","Ten Percent Hp Loss",9,44,7,3,338
+"Ironclad","Remove Two","Ten Percent Hp Loss",10,44,6,7,367
+"Ironclad","Remove Two","Ten Percent Hp Loss",11,38,8,3,345
+"Ironclad","Remove Two","Ten Percent Hp Loss",12,34,8,4,295
+"Ironclad","Remove Two","Ten Percent Hp Loss",13,30,6,2,267
+"Ironclad","Remove Two","Ten Percent Hp Loss",14,34,6,5,260
+"Ironclad","Remove Two","Ten Percent Hp Loss",15,32,5,4,279
+"Ironclad","Remove Two","Ten Percent Hp Loss",16,23,5,5,276
+"Ironclad","Remove Two","Ten Percent Hp Loss",17,24,7,5,278
+"Ironclad","Remove Two","Ten Percent Hp Loss",18,17,2,4,276
+"Ironclad","Remove Two","Ten Percent Hp Loss",19,12,2,5,288
+"Ironclad","Remove Two","Ten Percent Hp Loss",20,84,51,32,972
+"Ironclad","Ten Percent Hp Bonus","None",1,3877,730,400,19807
+"Ironclad","Ten Percent Hp Bonus","None",2,1579,233,211,10899
+"Ironclad","Ten Percent Hp Bonus","None",3,1291,202,156,9895
+"Ironclad","Ten Percent Hp Bonus","None",4,909,112,165,8393
+"Ironclad","Ten Percent Hp Bonus","None",5,805,107,124,6574
+"Ironclad","Ten Percent Hp Bonus","None",6,611,86,102,5078
+"Ironclad","Ten Percent Hp Bonus","None",7,533,73,92,4365
+"Ironclad","Ten Percent Hp Bonus","None",8,515,75,85,3719
+"Ironclad","Ten Percent Hp Bonus","None",9,435,59,93,3666
+"Ironclad","Ten Percent Hp Bonus","None",10,433,58,101,3905
+"Ironclad","Ten Percent Hp Bonus","None",11,338,42,108,3441
+"Ironclad","Ten Percent Hp Bonus","None",12,293,42,80,3002
+"Ironclad","Ten Percent Hp Bonus","None",13,231,32,77,2270
+"Ironclad","Ten Percent Hp Bonus","None",14,233,27,72,2440
+"Ironclad","Ten Percent Hp Bonus","None",15,265,48,113,2846
+"Ironclad","Ten Percent Hp Bonus","None",16,173,22,110,2347
+"Ironclad","Ten Percent Hp Bonus","None",17,177,19,93,2962
+"Ironclad","Ten Percent Hp Bonus","None",18,175,23,138,3404
+"Ironclad","Ten Percent Hp Bonus","None",19,147,11,114,3539
+"Ironclad","Ten Percent Hp Bonus","None",20,445,164,523,10087
+"Ironclad","Three Cards","None",1,1076,171,610,6450
+"Ironclad","Three Cards","None",2,471,61,350,3864
+"Ironclad","Three Cards","None",3,351,48,307,3133
+"Ironclad","Three Cards","None",4,276,40,300,3017
+"Ironclad","Three Cards","None",5,228,23,237,2428
+"Ironclad","Three Cards","None",6,213,24,196,2014
+"Ironclad","Three Cards","None",7,183,20,158,1733
+"Ironclad","Three Cards","None",8,166,12,134,1489
+"Ironclad","Three Cards","None",9,131,16,147,1400
+"Ironclad","Three Cards","None",10,118,18,146,1531
+"Ironclad","Three Cards","None",11,102,9,159,1375
+"Ironclad","Three Cards","None",12,99,15,110,1265
+"Ironclad","Three Cards","None",13,88,5,121,1135
+"Ironclad","Three Cards","None",14,83,9,113,1195
+"Ironclad","Three Cards","None",15,97,11,137,1228
+"Ironclad","Three Cards","None",16,72,4,130,1016
+"Ironclad","Three Cards","None",17,56,7,180,1180
+"Ironclad","Three Cards","None",18,45,5,184,1288
+"Ironclad","Three Cards","None",19,33,5,162,1279
+"Ironclad","Three Cards","None",20,161,66,617,3839
+"Ironclad","Three Enemy Kill","None",1,7865,1609,3068,45300
+"Ironclad","Three Enemy Kill","None",2,3414,515,1495,27286
+"Ironclad","Three Enemy Kill","None",3,2975,421,1434,25938
+"Ironclad","Three Enemy Kill","None",4,2705,353,1413,24915
+"Ironclad","Three Enemy Kill","None",5,2243,306,1351,20927
+"Ironclad","Three Enemy Kill","None",6,2123,321,1175,17655
+"Ironclad","Three Enemy Kill","None",7,1888,278,1174,16308
+"Ironclad","Three Enemy Kill","None",8,1754,262,1166,15267
+"Ironclad","Three Enemy Kill","None",9,1734,267,995,14819
+"Ironclad","Three Enemy Kill","None",10,1804,303,1337,18035
+"Ironclad","Three Enemy Kill","None",11,1460,195,1285,16444
+"Ironclad","Three Enemy Kill","None",12,1369,173,1271,14818
+"Ironclad","Three Enemy Kill","None",13,1259,166,1031,13490
+"Ironclad","Three Enemy Kill","None",14,1240,167,2112,16560
+"Ironclad","Three Enemy Kill","None",15,1465,230,2228,18723
+"Ironclad","Three Enemy Kill","None",16,1130,128,1557,15498
+"Ironclad","Three Enemy Kill","None",17,1162,130,2203,21662
+"Ironclad","Three Enemy Kill","None",18,1136,142,2527,25296
+"Ironclad","Three Enemy Kill","None",19,1032,97,2196,25172
+"Ironclad","Three Enemy Kill","None",20,4349,1961,12784,98966
+"Ironclad","Three Rare Cards","Curse",1,298,66,107,1615
+"Ironclad","Three Rare Cards","Curse",2,126,20,67,1011
+"Ironclad","Three Rare Cards","Curse",3,98,11,54,902
+"Ironclad","Three Rare Cards","Curse",4,93,13,54,956
+"Ironclad","Three Rare Cards","Curse",5,91,7,34,784
+"Ironclad","Three Rare Cards","Curse",6,80,8,42,730
+"Ironclad","Three Rare Cards","Curse",7,70,7,36,619
+"Ironclad","Three Rare Cards","Curse",8,61,10,23,551
+"Ironclad","Three Rare Cards","Curse",9,61,8,34,551
+"Ironclad","Three Rare Cards","Curse",10,55,6,36,651
+"Ironclad","Three Rare Cards","Curse",11,52,8,40,614
+"Ironclad","Three Rare Cards","Curse",12,44,4,23,559
+"Ironclad","Three Rare Cards","Curse",13,50,4,31,483
+"Ironclad","Three Rare Cards","Curse",14,36,5,32,516
+"Ironclad","Three Rare Cards","Curse",15,39,6,23,506
+"Ironclad","Three Rare Cards","Curse",16,35,2,34,497
+"Ironclad","Three Rare Cards","Curse",17,32,7,44,566
+"Ironclad","Three Rare Cards","Curse",18,24,0,48,596
+"Ironclad","Three Rare Cards","Curse",19,23,1,51,677
+"Ironclad","Three Rare Cards","Curse",20,101,36,248,2396
+"Ironclad","Three Rare Cards","No Gold",1,432,129,126,2038
+"Ironclad","Three Rare Cards","No Gold",2,197,41,53,1168
+"Ironclad","Three Rare Cards","No Gold",3,144,18,43,1000
+"Ironclad","Three Rare Cards","No Gold",4,136,21,41,1075
+"Ironclad","Three Rare Cards","No Gold",5,140,16,40,941
+"Ironclad","Three Rare Cards","No Gold",6,119,21,33,809
+"Ironclad","Three Rare Cards","No Gold",7,98,14,22,730
+"Ironclad","Three Rare Cards","No Gold",8,87,15,32,675
+"Ironclad","Three Rare Cards","No Gold",9,91,12,32,687
+"Ironclad","Three Rare Cards","No Gold",10,80,21,26,747
+"Ironclad","Three Rare Cards","No Gold",11,68,14,35,763
+"Ironclad","Three Rare Cards","No Gold",12,69,8,28,644
+"Ironclad","Three Rare Cards","No Gold",13,74,10,31,611
+"Ironclad","Three Rare Cards","No Gold",14,60,6,24,640
+"Ironclad","Three Rare Cards","No Gold",15,73,8,41,697
+"Ironclad","Three Rare Cards","No Gold",16,74,7,28,678
+"Ironclad","Three Rare Cards","No Gold",17,41,7,32,706
+"Ironclad","Three Rare Cards","No Gold",18,39,9,50,802
+"Ironclad","Three Rare Cards","No Gold",19,31,3,50,885
+"Ironclad","Three Rare Cards","No Gold",20,206,101,233,3310
+"Ironclad","Three Rare Cards","Percent Damage",1,431,123,109,1986
+"Ironclad","Three Rare Cards","Percent Damage",2,164,35,56,1187
+"Ironclad","Three Rare Cards","Percent Damage",3,144,27,36,1012
+"Ironclad","Three Rare Cards","Percent Damage",4,119,31,43,987
+"Ironclad","Three Rare Cards","Percent Damage",5,98,19,26,823
+"Ironclad","Three Rare Cards","Percent Damage",6,83,13,16,717
+"Ironclad","Three Rare Cards","Percent Damage",7,71,6,36,690
+"Ironclad","Three Rare Cards","Percent Damage",8,75,12,25,546
+"Ironclad","Three Rare Cards","Percent Damage",9,81,13,25,608
+"Ironclad","Three Rare Cards","Percent Damage",10,60,14,30,678
+"Ironclad","Three Rare Cards","Percent Damage",11,56,5,25,641
+"Ironclad","Three Rare Cards","Percent Damage",12,37,10,16,513
+"Ironclad","Three Rare Cards","Percent Damage",13,46,5,26,483
+"Ironclad","Three Rare Cards","Percent Damage",14,64,11,25,557
+"Ironclad","Three Rare Cards","Percent Damage",15,78,17,28,632
+"Ironclad","Three Rare Cards","Percent Damage",16,53,6,29,598
+"Ironclad","Three Rare Cards","Percent Damage",17,39,3,39,617
+"Ironclad","Three Rare Cards","Percent Damage",18,36,4,35,658
+"Ironclad","Three Rare Cards","Percent Damage",19,34,1,30,719
+"Ironclad","Three Rare Cards","Percent Damage",20,143,66,184,2647
+"Ironclad","Three Rare Cards","Ten Percent Hp Loss",1,371,101,125,1776
+"Ironclad","Three Rare Cards","Ten Percent Hp Loss",2,141,24,42,1047
+"Ironclad","Three Rare Cards","Ten Percent Hp Loss",3,128,25,49,947
+"Ironclad","Three Rare Cards","Ten Percent Hp Loss",4,127,27,46,969
+"Ironclad","Three Rare Cards","Ten Percent Hp Loss",5,84,15,39,817
+"Ironclad","Three Rare Cards","Ten Percent Hp Loss",6,86,18,32,708
+"Ironclad","Three Rare Cards","Ten Percent Hp Loss",7,84,14,32,638
+"Ironclad","Three Rare Cards","Ten Percent Hp Loss",8,84,20,25,630
+"Ironclad","Three Rare Cards","Ten Percent Hp Loss",9,94,24,26,620
+"Ironclad","Three Rare Cards","Ten Percent Hp Loss",10,76,9,23,634
+"Ironclad","Three Rare Cards","Ten Percent Hp Loss",11,57,10,31,665
+"Ironclad","Three Rare Cards","Ten Percent Hp Loss",12,63,9,22,546
+"Ironclad","Three Rare Cards","Ten Percent Hp Loss",13,54,10,26,539
+"Ironclad","Three Rare Cards","Ten Percent Hp Loss",14,58,11,24,496
+"Ironclad","Three Rare Cards","Ten Percent Hp Loss",15,51,10,23,613
+"Ironclad","Three Rare Cards","Ten Percent Hp Loss",16,47,9,36,521
+"Ironclad","Three Rare Cards","Ten Percent Hp Loss",17,45,3,43,649
+"Ironclad","Three Rare Cards","Ten Percent Hp Loss",18,29,2,40,674
+"Ironclad","Three Rare Cards","Ten Percent Hp Loss",19,33,3,55,727
+"Ironclad","Three Rare Cards","Ten Percent Hp Loss",20,209,98,273,2933
+"Ironclad","Three Small Potions","None",1,643,105,123,3396
+"Ironclad","Three Small Potions","None",2,253,21,62,1956
+"Ironclad","Three Small Potions","None",3,198,30,41,1591
+"Ironclad","Three Small Potions","None",4,154,25,55,1615
+"Ironclad","Three Small Potions","None",5,175,17,28,1265
+"Ironclad","Three Small Potions","None",6,121,10,31,1125
+"Ironclad","Three Small Potions","None",7,117,16,28,961
+"Ironclad","Three Small Potions","None",8,105,14,32,790
+"Ironclad","Three Small Potions","None",9,114,15,22,814
+"Ironclad","Three Small Potions","None",10,108,13,24,921
+"Ironclad","Three Small Potions","None",11,38,5,33,392
+"Ironclad","Three Small Potions","None",12,29,1,39,369
+"Ironclad","Three Small Potions","None",13,24,3,21,310
+"Ironclad","Three Small Potions","None",14,32,6,18,298
+"Ironclad","Three Small Potions","None",15,34,2,37,364
+"Ironclad","Three Small Potions","None",16,19,2,15,234
+"Ironclad","Three Small Potions","None",17,19,2,25,309
+"Ironclad","Three Small Potions","None",18,25,3,26,296
+"Ironclad","Three Small Potions","None",19,15,1,25,337
+"Ironclad","Three Small Potions","None",20,80,39,134,1275
+"Ironclad","Transform Card","None",1,863,169,401,4416
+"Ironclad","Transform Card","None",2,395,69,258,2668
+"Ironclad","Transform Card","None",3,282,36,168,2061
+"Ironclad","Transform Card","None",4,227,34,188,1990
+"Ironclad","Transform Card","None",5,217,32,139,1598
+"Ironclad","Transform Card","None",6,189,30,122,1394
+"Ironclad","Transform Card","None",7,162,18,119,1150
+"Ironclad","Transform Card","None",8,154,24,101,969
+"Ironclad","Transform Card","None",9,115,19,98,946
+"Ironclad","Transform Card","None",10,122,18,131,1116
+"Ironclad","Transform Card","None",11,114,14,119,1043
+"Ironclad","Transform Card","None",12,98,18,119,962
+"Ironclad","Transform Card","None",13,94,15,99,820
+"Ironclad","Transform Card","None",14,103,14,125,836
+"Ironclad","Transform Card","None",15,95,22,109,905
+"Ironclad","Transform Card","None",16,70,5,100,683
+"Ironclad","Transform Card","None",17,65,7,136,863
+"Ironclad","Transform Card","None",18,57,5,137,932
+"Ironclad","Transform Card","None",19,48,3,125,934
+"Ironclad","Transform Card","None",20,165,90,489,2889
+"Ironclad","Transform Two Cards","Curse",1,155,49,88,800
+"Ironclad","Transform Two Cards","Curse",2,68,13,54,546
+"Ironclad","Transform Two Cards","Curse",3,49,12,54,457
+"Ironclad","Transform Two Cards","Curse",4,42,6,55,451
+"Ironclad","Transform Two Cards","Curse",5,54,9,46,431
+"Ironclad","Transform Two Cards","Curse",6,41,4,46,335
+"Ironclad","Transform Two Cards","Curse",7,35,5,42,306
+"Ironclad","Transform Two Cards","Curse",8,29,3,34,242
+"Ironclad","Transform Two Cards","Curse",9,41,7,37,295
+"Ironclad","Transform Two Cards","Curse",10,23,5,41,285
+"Ironclad","Transform Two Cards","Curse",11,24,5,33,260
+"Ironclad","Transform Two Cards","Curse",12,16,2,36,250
+"Ironclad","Transform Two Cards","Curse",13,27,3,31,226
+"Ironclad","Transform Two Cards","Curse",14,15,1,53,263
+"Ironclad","Transform Two Cards","Curse",15,33,4,48,251
+"Ironclad","Transform Two Cards","Curse",16,13,0,48,200
+"Ironclad","Transform Two Cards","Curse",17,13,3,46,284
+"Ironclad","Transform Two Cards","Curse",18,13,1,43,289
+"Ironclad","Transform Two Cards","Curse",19,14,1,59,302
+"Ironclad","Transform Two Cards","Curse",20,40,19,275,1054
+"Ironclad","Transform Two Cards","No Gold",1,297,71,123,1269
+"Ironclad","Transform Two Cards","No Gold",2,127,27,59,738
+"Ironclad","Transform Two Cards","No Gold",3,118,25,63,653
+"Ironclad","Transform Two Cards","No Gold",4,92,16,60,644
+"Ironclad","Transform Two Cards","No Gold",5,94,8,60,595
+"Ironclad","Transform Two Cards","No Gold",6,69,10,42,469
+"Ironclad","Transform Two Cards","No Gold",7,79,13,66,473
+"Ironclad","Transform Two Cards","No Gold",8,61,12,43,387
+"Ironclad","Transform Two Cards","No Gold",9,68,17,50,432
+"Ironclad","Transform Two Cards","No Gold",10,71,15,44,457
+"Ironclad","Transform Two Cards","No Gold",11,45,7,40,441
+"Ironclad","Transform Two Cards","No Gold",12,47,5,44,393
+"Ironclad","Transform Two Cards","No Gold",13,58,7,50,392
+"Ironclad","Transform Two Cards","No Gold",14,44,7,43,366
+"Ironclad","Transform Two Cards","No Gold",15,50,13,47,422
+"Ironclad","Transform Two Cards","No Gold",16,36,7,47,331
+"Ironclad","Transform Two Cards","No Gold",17,39,7,62,437
+"Ironclad","Transform Two Cards","No Gold",18,28,4,68,474
+"Ironclad","Transform Two Cards","No Gold",19,36,5,77,524
+"Ironclad","Transform Two Cards","No Gold",20,140,65,307,1849
+"Ironclad","Transform Two Cards","Percent Damage",1,232,65,133,1168
+"Ironclad","Transform Two Cards","Percent Damage",2,110,22,59,658
+"Ironclad","Transform Two Cards","Percent Damage",3,96,19,62,627
+"Ironclad","Transform Two Cards","Percent Damage",4,105,27,53,608
+"Ironclad","Transform Two Cards","Percent Damage",5,84,11,51,480
+"Ironclad","Transform Two Cards","Percent Damage",6,72,17,49,417
+"Ironclad","Transform Two Cards","Percent Damage",7,56,11,43,392
+"Ironclad","Transform Two Cards","Percent Damage",8,55,12,33,327
+"Ironclad","Transform Two Cards","Percent Damage",9,50,12,27,292
+"Ironclad","Transform Two Cards","Percent Damage",10,52,12,47,374
+"Ironclad","Transform Two Cards","Percent Damage",11,34,7,35,310
+"Ironclad","Transform Two Cards","Percent Damage",12,36,2,32,286
+"Ironclad","Transform Two Cards","Percent Damage",13,33,4,39,287
+"Ironclad","Transform Two Cards","Percent Damage",14,33,5,39,302
+"Ironclad","Transform Two Cards","Percent Damage",15,43,10,55,349
+"Ironclad","Transform Two Cards","Percent Damage",16,26,3,28,277
+"Ironclad","Transform Two Cards","Percent Damage",17,27,1,52,368
+"Ironclad","Transform Two Cards","Percent Damage",18,25,6,47,355
+"Ironclad","Transform Two Cards","Percent Damage",19,23,3,55,390
+"Ironclad","Transform Two Cards","Percent Damage",20,94,59,250,1455
+"Ironclad","Transform Two Cards","Ten Percent Hp Loss",1,227,73,112,1052
+"Ironclad","Transform Two Cards","Ten Percent Hp Loss",2,98,22,53,697
+"Ironclad","Transform Two Cards","Ten Percent Hp Loss",3,86,21,43,553
+"Ironclad","Transform Two Cards","Ten Percent Hp Loss",4,66,11,67,599
+"Ironclad","Transform Two Cards","Ten Percent Hp Loss",5,54,6,61,455
+"Ironclad","Transform Two Cards","Ten Percent Hp Loss",6,62,14,44,393
+"Ironclad","Transform Two Cards","Ten Percent Hp Loss",7,58,16,38,381
+"Ironclad","Transform Two Cards","Ten Percent Hp Loss",8,57,11,36,316
+"Ironclad","Transform Two Cards","Ten Percent Hp Loss",9,46,11,20,271
+"Ironclad","Transform Two Cards","Ten Percent Hp Loss",10,44,17,39,385
+"Ironclad","Transform Two Cards","Ten Percent Hp Loss",11,46,11,46,334
+"Ironclad","Transform Two Cards","Ten Percent Hp Loss",12,40,8,32,334
+"Ironclad","Transform Two Cards","Ten Percent Hp Loss",13,32,6,37,293
+"Ironclad","Transform Two Cards","Ten Percent Hp Loss",14,33,3,29,298
+"Ironclad","Transform Two Cards","Ten Percent Hp Loss",15,48,10,31,308
+"Ironclad","Transform Two Cards","Ten Percent Hp Loss",16,29,10,44,248
+"Ironclad","Transform Two Cards","Ten Percent Hp Loss",17,29,4,51,363
+"Ironclad","Transform Two Cards","Ten Percent Hp Loss",18,27,3,59,352
+"Ironclad","Transform Two Cards","Ten Percent Hp Loss",19,18,3,48,400
+"Ironclad","Transform Two Cards","Ten Percent Hp Loss",20,102,60,271,1422
+"Ironclad","Twenty Percent Hp Bonus","Curse",1,212,40,16,891
+"Ironclad","Twenty Percent Hp Bonus","Curse",2,80,12,3,525
+"Ironclad","Twenty Percent Hp Bonus","Curse",3,49,5,8,422
+"Ironclad","Twenty Percent Hp Bonus","Curse",4,56,7,6,466
+"Ironclad","Twenty Percent Hp Bonus","Curse",5,53,7,6,366
+"Ironclad","Twenty Percent Hp Bonus","Curse",6,45,5,4,321
+"Ironclad","Twenty Percent Hp Bonus","Curse",7,32,3,3,231
+"Ironclad","Twenty Percent Hp Bonus","Curse",8,32,8,2,232
+"Ironclad","Twenty Percent Hp Bonus","Curse",9,29,2,3,250
+"Ironclad","Twenty Percent Hp Bonus","Curse",10,24,0,9,230
+"Ironclad","Twenty Percent Hp Bonus","Curse",11,24,2,4,234
+"Ironclad","Twenty Percent Hp Bonus","Curse",12,11,0,1,187
+"Ironclad","Twenty Percent Hp Bonus","Curse",13,21,4,9,193
+"Ironclad","Twenty Percent Hp Bonus","Curse",14,13,2,8,183
+"Ironclad","Twenty Percent Hp Bonus","Curse",15,19,0,10,201
+"Ironclad","Twenty Percent Hp Bonus","Curse",16,9,0,2,148
+"Ironclad","Twenty Percent Hp Bonus","Curse",17,13,1,5,193
+"Ironclad","Twenty Percent Hp Bonus","Curse",18,10,1,3,194
+"Ironclad","Twenty Percent Hp Bonus","Curse",19,5,0,5,188
+"Ironclad","Twenty Percent Hp Bonus","Curse",20,16,5,27,513
+"Ironclad","Twenty Percent Hp Bonus","No Gold",1,318,66,7,1166
+"Ironclad","Twenty Percent Hp Bonus","No Gold",2,111,21,4,674
+"Ironclad","Twenty Percent Hp Bonus","No Gold",3,77,8,2,542
+"Ironclad","Twenty Percent Hp Bonus","No Gold",4,72,9,2,565
+"Ironclad","Twenty Percent Hp Bonus","No Gold",5,65,3,2,486
+"Ironclad","Twenty Percent Hp Bonus","No Gold",6,69,9,1,414
+"Ironclad","Twenty Percent Hp Bonus","No Gold",7,45,2,3,337
+"Ironclad","Twenty Percent Hp Bonus","No Gold",8,56,5,2,306
+"Ironclad","Twenty Percent Hp Bonus","No Gold",9,49,7,2,316
+"Ironclad","Twenty Percent Hp Bonus","No Gold",10,45,6,1,339
+"Ironclad","Twenty Percent Hp Bonus","No Gold",11,37,6,3,339
+"Ironclad","Twenty Percent Hp Bonus","No Gold",12,31,4,0,255
+"Ironclad","Twenty Percent Hp Bonus","No Gold",13,28,3,4,246
+"Ironclad","Twenty Percent Hp Bonus","No Gold",14,17,2,2,249
+"Ironclad","Twenty Percent Hp Bonus","No Gold",15,32,3,3,287
+"Ironclad","Twenty Percent Hp Bonus","No Gold",16,15,2,2,201
+"Ironclad","Twenty Percent Hp Bonus","No Gold",17,28,2,4,299
+"Ironclad","Twenty Percent Hp Bonus","No Gold",18,13,1,0,281
+"Ironclad","Twenty Percent Hp Bonus","No Gold",19,18,2,5,344
+"Ironclad","Twenty Percent Hp Bonus","No Gold",20,66,31,25,975
+"Ironclad","Twenty Percent Hp Bonus","Percent Damage",1,402,82,1,1454
+"Ironclad","Twenty Percent Hp Bonus","Percent Damage",2,192,26,5,918
+"Ironclad","Twenty Percent Hp Bonus","Percent Damage",3,130,21,0,732
+"Ironclad","Twenty Percent Hp Bonus","Percent Damage",4,117,15,3,726
+"Ironclad","Twenty Percent Hp Bonus","Percent Damage",5,83,17,1,570
+"Ironclad","Twenty Percent Hp Bonus","Percent Damage",6,79,12,2,465
+"Ironclad","Twenty Percent Hp Bonus","Percent Damage",7,56,6,0,404
+"Ironclad","Twenty Percent Hp Bonus","Percent Damage",8,65,7,1,362
+"Ironclad","Twenty Percent Hp Bonus","Percent Damage",9,57,13,1,368
+"Ironclad","Twenty Percent Hp Bonus","Percent Damage",10,53,8,2,366
+"Ironclad","Twenty Percent Hp Bonus","Percent Damage",11,46,8,1,345
+"Ironclad","Twenty Percent Hp Bonus","Percent Damage",12,47,8,3,333
+"Ironclad","Twenty Percent Hp Bonus","Percent Damage",13,31,6,0,279
+"Ironclad","Twenty Percent Hp Bonus","Percent Damage",14,34,10,3,309
+"Ironclad","Twenty Percent Hp Bonus","Percent Damage",15,33,4,5,329
+"Ironclad","Twenty Percent Hp Bonus","Percent Damage",16,31,3,0,245
+"Ironclad","Twenty Percent Hp Bonus","Percent Damage",17,26,4,1,334
+"Ironclad","Twenty Percent Hp Bonus","Percent Damage",18,25,0,3,326
+"Ironclad","Twenty Percent Hp Bonus","Percent Damage",19,17,0,2,330
+"Ironclad","Twenty Percent Hp Bonus","Percent Damage",20,54,21,28,1142
+"Ironclad","Two Fifty Gold","Curse",1,434,97,24,1737
+"Ironclad","Two Fifty Gold","Curse",2,180,32,9,995
+"Ironclad","Two Fifty Gold","Curse",3,156,33,4,932
+"Ironclad","Two Fifty Gold","Curse",4,118,15,5,956
+"Ironclad","Two Fifty Gold","Curse",5,130,21,6,803
+"Ironclad","Two Fifty Gold","Curse",6,102,21,2,677
+"Ironclad","Two Fifty Gold","Curse",7,99,15,5,665
+"Ironclad","Two Fifty Gold","Curse",8,78,12,6,530
+"Ironclad","Two Fifty Gold","Curse",9,94,10,3,601
+"Ironclad","Two Fifty Gold","Curse",10,82,20,8,629
+"Ironclad","Two Fifty Gold","Curse",11,67,6,3,552
+"Ironclad","Two Fifty Gold","Curse",12,63,7,4,530
+"Ironclad","Two Fifty Gold","Curse",13,39,4,5,441
+"Ironclad","Two Fifty Gold","Curse",14,59,8,8,497
+"Ironclad","Two Fifty Gold","Curse",15,59,4,5,563
+"Ironclad","Two Fifty Gold","Curse",16,44,3,5,464
+"Ironclad","Two Fifty Gold","Curse",17,40,7,11,588
+"Ironclad","Two Fifty Gold","Curse",18,39,5,18,641
+"Ironclad","Two Fifty Gold","Curse",19,35,3,11,683
+"Ironclad","Two Fifty Gold","Curse",20,133,49,43,2269
+"Ironclad","Two Fifty Gold","Percent Damage",1,667,140,4,2284
+"Ironclad","Two Fifty Gold","Percent Damage",2,212,45,5,1144
+"Ironclad","Two Fifty Gold","Percent Damage",3,175,31,2,1077
+"Ironclad","Two Fifty Gold","Percent Damage",4,143,20,5,976
+"Ironclad","Two Fifty Gold","Percent Damage",5,145,18,2,968
+"Ironclad","Two Fifty Gold","Percent Damage",6,111,13,5,753
+"Ironclad","Two Fifty Gold","Percent Damage",7,120,18,2,695
+"Ironclad","Two Fifty Gold","Percent Damage",8,105,21,2,588
+"Ironclad","Two Fifty Gold","Percent Damage",9,123,19,2,664
+"Ironclad","Two Fifty Gold","Percent Damage",10,93,17,1,626
+"Ironclad","Two Fifty Gold","Percent Damage",11,78,14,2,616
+"Ironclad","Two Fifty Gold","Percent Damage",12,79,9,3,591
+"Ironclad","Two Fifty Gold","Percent Damage",13,79,9,5,493
+"Ironclad","Two Fifty Gold","Percent Damage",14,60,4,4,535
+"Ironclad","Two Fifty Gold","Percent Damage",15,67,16,4,615
+"Ironclad","Two Fifty Gold","Percent Damage",16,64,9,1,549
+"Ironclad","Two Fifty Gold","Percent Damage",17,55,7,2,588
+"Ironclad","Two Fifty Gold","Percent Damage",18,38,6,3,665
+"Ironclad","Two Fifty Gold","Percent Damage",19,37,7,2,697
+"Ironclad","Two Fifty Gold","Percent Damage",20,214,98,32,2748
+"Ironclad","Two Fifty Gold","Ten Percent Hp Loss",1,452,108,6,1650
+"Ironclad","Two Fifty Gold","Ten Percent Hp Loss",2,172,29,4,946
+"Ironclad","Two Fifty Gold","Ten Percent Hp Loss",3,137,24,4,851
+"Ironclad","Two Fifty Gold","Ten Percent Hp Loss",4,106,17,3,829
+"Ironclad","Two Fifty Gold","Ten Percent Hp Loss",5,86,11,3,687
+"Ironclad","Two Fifty Gold","Ten Percent Hp Loss",6,119,27,4,662
+"Ironclad","Two Fifty Gold","Ten Percent Hp Loss",7,95,17,3,610
+"Ironclad","Two Fifty Gold","Ten Percent Hp Loss",8,69,10,3,509
+"Ironclad","Two Fifty Gold","Ten Percent Hp Loss",9,102,17,3,542
+"Ironclad","Two Fifty Gold","Ten Percent Hp Loss",10,97,17,1,587
+"Ironclad","Two Fifty Gold","Ten Percent Hp Loss",11,57,8,3,579
+"Ironclad","Two Fifty Gold","Ten Percent Hp Loss",12,69,12,2,552
+"Ironclad","Two Fifty Gold","Ten Percent Hp Loss",13,51,10,1,471
+"Ironclad","Two Fifty Gold","Ten Percent Hp Loss",14,68,12,1,479
+"Ironclad","Two Fifty Gold","Ten Percent Hp Loss",15,80,22,7,609
+"Ironclad","Two Fifty Gold","Ten Percent Hp Loss",16,60,6,4,436
+"Ironclad","Two Fifty Gold","Ten Percent Hp Loss",17,45,7,7,505
+"Ironclad","Two Fifty Gold","Ten Percent Hp Loss",18,41,5,2,601
+"Ironclad","Two Fifty Gold","Ten Percent Hp Loss",19,26,2,5,653
+"Ironclad","Two Fifty Gold","Ten Percent Hp Loss",20,215,106,41,2593
+"Ironclad","Upgrade Card","None",1,1128,242,154,4919
+"Ironclad","Upgrade Card","None",2,393,62,86,2637
+"Ironclad","Upgrade Card","None",3,348,42,58,2169
+"Ironclad","Upgrade Card","None",4,293,43,49,2238
+"Ironclad","Upgrade Card","None",5,248,39,31,1827
+"Ironclad","Upgrade Card","None",6,221,27,30,1588
+"Ironclad","Upgrade Card","None",7,226,23,24,1387
+"Ironclad","Upgrade Card","None",8,163,22,30,1256
+"Ironclad","Upgrade Card","None",9,162,20,14,1182
+"Ironclad","Upgrade Card","None",10,166,24,22,1381
+"Ironclad","Upgrade Card","None",11,144,14,20,1274
+"Ironclad","Upgrade Card","None",12,128,17,20,1164
+"Ironclad","Upgrade Card","None",13,103,10,28,965
+"Ironclad","Upgrade Card","None",14,100,6,28,985
+"Ironclad","Upgrade Card","None",15,116,16,32,1153
+"Ironclad","Upgrade Card","None",16,97,15,19,904
+"Ironclad","Upgrade Card","None",17,94,8,20,1130
+"Ironclad","Upgrade Card","None",18,59,4,30,1096
+"Ironclad","Upgrade Card","None",19,57,4,33,1176
+"Ironclad","Upgrade Card","None",20,269,118,84,4249
+"The Silent","Boss Relic","None",1,4612,1236,4973,25180
+"The Silent","Boss Relic","None",2,2250,509,2812,15508
+"The Silent","Boss Relic","None",3,1842,367,2475,12969
+"The Silent","Boss Relic","None",4,1572,320,2218,11695
+"The Silent","Boss Relic","None",5,1339,252,1740,9700
+"The Silent","Boss Relic","None",6,1165,217,1510,8077
+"The Silent","Boss Relic","None",7,1012,188,1206,6972
+"The Silent","Boss Relic","None",8,930,166,1168,6167
+"The Silent","Boss Relic","None",9,904,171,1213,6294
+"The Silent","Boss Relic","None",10,798,160,1172,6227
+"The Silent","Boss Relic","None",11,680,120,1228,6074
+"The Silent","Boss Relic","None",12,625,116,1143,5543
+"The Silent","Boss Relic","None",13,623,116,946,4816
+"The Silent","Boss Relic","None",14,535,91,1036,5074
+"The Silent","Boss Relic","None",15,585,140,1288,5358
+"The Silent","Boss Relic","None",16,433,74,1126,4651
+"The Silent","Boss Relic","None",17,503,81,1254,5832
+"The Silent","Boss Relic","None",18,408,60,1377,6119
+"The Silent","Boss Relic","None",19,411,58,1892,7451
+"The Silent","Boss Relic","None",20,1417,868,6333,22578
+"The Silent","Hundred Gold","None",1,1279,290,74,6929
+"The Silent","Hundred Gold","None",2,566,88,22,4046
+"The Silent","Hundred Gold","None",3,391,64,25,3085
+"The Silent","Hundred Gold","None",4,347,44,23,2832
+"The Silent","Hundred Gold","None",5,287,39,23,2408
+"The Silent","Hundred Gold","None",6,257,32,24,1979
+"The Silent","Hundred Gold","None",7,207,38,16,1630
+"The Silent","Hundred Gold","None",8,199,29,14,1430
+"The Silent","Hundred Gold","None",9,171,38,15,1288
+"The Silent","Hundred Gold","None",10,198,39,8,1537
+"The Silent","Hundred Gold","None",11,135,12,12,1245
+"The Silent","Hundred Gold","None",12,140,19,33,1279
+"The Silent","Hundred Gold","None",13,110,21,13,955
+"The Silent","Hundred Gold","None",14,103,17,10,1004
+"The Silent","Hundred Gold","None",15,120,22,20,1101
+"The Silent","Hundred Gold","None",16,80,13,6,917
+"The Silent","Hundred Gold","None",17,71,12,15,1152
+"The Silent","Hundred Gold","None",18,53,7,22,1127
+"The Silent","Hundred Gold","None",19,50,5,37,1412
+"The Silent","Hundred Gold","None",20,264,137,111,4233
+"The Silent","One Random Rare Card","None",1,1105,242,764,7185
+"The Silent","One Random Rare Card","None",2,526,100,417,4432
+"The Silent","One Random Rare Card","None",3,397,74,385,3557
+"The Silent","One Random Rare Card","None",4,338,52,358,3314
+"The Silent","One Random Rare Card","None",5,293,35,308,2785
+"The Silent","One Random Rare Card","None",6,237,33,277,2190
+"The Silent","One Random Rare Card","None",7,240,45,239,1987
+"The Silent","One Random Rare Card","None",8,190,26,221,1694
+"The Silent","One Random Rare Card","None",9,166,30,208,1549
+"The Silent","One Random Rare Card","None",10,180,26,230,1689
+"The Silent","One Random Rare Card","None",11,136,13,215,1575
+"The Silent","One Random Rare Card","None",12,119,12,193,1449
+"The Silent","One Random Rare Card","None",13,114,14,155,1121
+"The Silent","One Random Rare Card","None",14,92,14,189,1199
+"The Silent","One Random Rare Card","None",15,114,19,169,1229
+"The Silent","One Random Rare Card","None",16,80,9,196,1121
+"The Silent","One Random Rare Card","None",17,69,5,191,1322
+"The Silent","One Random Rare Card","None",18,50,4,196,1344
+"The Silent","One Random Rare Card","None",19,42,3,287,1677
+"The Silent","One Random Rare Card","None",20,177,82,788,4633
+"The Silent","One Rare Relic","Curse",1,342,84,126,1992
+"The Silent","One Rare Relic","Curse",2,149,29,77,1202
+"The Silent","One Rare Relic","Curse",3,110,13,69,937
+"The Silent","One Rare Relic","Curse",4,92,14,75,901
+"The Silent","One Rare Relic","Curse",5,86,10,63,801
+"The Silent","One Rare Relic","Curse",6,76,13,64,676
+"The Silent","One Rare Relic","Curse",7,61,11,46,620
+"The Silent","One Rare Relic","Curse",8,75,14,39,522
+"The Silent","One Rare Relic","Curse",9,49,7,35,492
+"The Silent","One Rare Relic","Curse",10,53,13,49,505
+"The Silent","One Rare Relic","Curse",11,42,6,41,488
+"The Silent","One Rare Relic","Curse",12,42,10,37,480
+"The Silent","One Rare Relic","Curse",13,42,12,32,390
+"The Silent","One Rare Relic","Curse",14,46,6,29,413
+"The Silent","One Rare Relic","Curse",15,39,4,50,451
+"The Silent","One Rare Relic","Curse",16,28,4,46,373
+"The Silent","One Rare Relic","Curse",17,30,3,48,475
+"The Silent","One Rare Relic","Curse",18,15,4,59,470
+"The Silent","One Rare Relic","Curse",19,23,2,82,671
+"The Silent","One Rare Relic","Curse",20,60,25,236,1715
+"The Silent","One Rare Relic","No Gold",1,504,146,133,2353
+"The Silent","One Rare Relic","No Gold",2,255,54,73,1463
+"The Silent","One Rare Relic","No Gold",3,162,36,53,1153
+"The Silent","One Rare Relic","No Gold",4,155,36,52,1084
+"The Silent","One Rare Relic","No Gold",5,151,27,45,954
+"The Silent","One Rare Relic","No Gold",6,122,23,58,846
+"The Silent","One Rare Relic","No Gold",7,90,21,43,666
+"The Silent","One Rare Relic","No Gold",8,94,12,36,633
+"The Silent","One Rare Relic","No Gold",9,99,17,36,649
+"The Silent","One Rare Relic","No Gold",10,82,12,53,668
+"The Silent","One Rare Relic","No Gold",11,73,13,34,615
+"The Silent","One Rare Relic","No Gold",12,73,7,38,604
+"The Silent","One Rare Relic","No Gold",13,62,7,30,491
+"The Silent","One Rare Relic","No Gold",14,59,12,34,524
+"The Silent","One Rare Relic","No Gold",15,77,16,44,634
+"The Silent","One Rare Relic","No Gold",16,44,7,46,499
+"The Silent","One Rare Relic","No Gold",17,44,6,52,631
+"The Silent","One Rare Relic","No Gold",18,34,6,66,650
+"The Silent","One Rare Relic","No Gold",19,31,1,80,816
+"The Silent","One Rare Relic","No Gold",20,133,63,260,2489
+"The Silent","One Rare Relic","Percent Damage",1,397,88,135,2021
+"The Silent","One Rare Relic","Percent Damage",2,186,42,63,1162
+"The Silent","One Rare Relic","Percent Damage",3,117,27,57,977
+"The Silent","One Rare Relic","Percent Damage",4,104,13,48,870
+"The Silent","One Rare Relic","Percent Damage",5,86,16,48,717
+"The Silent","One Rare Relic","Percent Damage",6,91,21,31,624
+"The Silent","One Rare Relic","Percent Damage",7,80,13,31,555
+"The Silent","One Rare Relic","Percent Damage",8,65,17,32,533
+"The Silent","One Rare Relic","Percent Damage",9,54,8,32,484
+"The Silent","One Rare Relic","Percent Damage",10,72,19,45,563
+"The Silent","One Rare Relic","Percent Damage",11,43,6,42,487
+"The Silent","One Rare Relic","Percent Damage",12,45,12,27,429
+"The Silent","One Rare Relic","Percent Damage",13,49,4,27,372
+"The Silent","One Rare Relic","Percent Damage",14,42,5,27,434
+"The Silent","One Rare Relic","Percent Damage",15,50,11,60,475
+"The Silent","One Rare Relic","Percent Damage",16,38,6,34,361
+"The Silent","One Rare Relic","Percent Damage",17,33,9,34,494
+"The Silent","One Rare Relic","Percent Damage",18,18,2,48,542
+"The Silent","One Rare Relic","Percent Damage",19,34,1,65,665
+"The Silent","One Rare Relic","Percent Damage",20,92,53,220,1911
+"The Silent","One Rare Relic","Ten Percent Hp Loss",1,413,123,128,2073
+"The Silent","One Rare Relic","Ten Percent Hp Loss",2,202,44,70,1196
+"The Silent","One Rare Relic","Ten Percent Hp Loss",3,119,27,48,946
+"The Silent","One Rare Relic","Ten Percent Hp Loss",4,96,18,56,869
+"The Silent","One Rare Relic","Ten Percent Hp Loss",5,119,20,48,802
+"The Silent","One Rare Relic","Ten Percent Hp Loss",6,88,14,39,666
+"The Silent","One Rare Relic","Ten Percent Hp Loss",7,81,12,40,593
+"The Silent","One Rare Relic","Ten Percent Hp Loss",8,70,16,41,533
+"The Silent","One Rare Relic","Ten Percent Hp Loss",9,68,14,34,523
+"The Silent","One Rare Relic","Ten Percent Hp Loss",10,72,18,52,553
+"The Silent","One Rare Relic","Ten Percent Hp Loss",11,61,13,37,514
+"The Silent","One Rare Relic","Ten Percent Hp Loss",12,64,15,42,475
+"The Silent","One Rare Relic","Ten Percent Hp Loss",13,47,9,31,422
+"The Silent","One Rare Relic","Ten Percent Hp Loss",14,58,12,28,454
+"The Silent","One Rare Relic","Ten Percent Hp Loss",15,74,18,39,523
+"The Silent","One Rare Relic","Ten Percent Hp Loss",16,39,2,28,389
+"The Silent","One Rare Relic","Ten Percent Hp Loss",17,44,6,44,528
+"The Silent","One Rare Relic","Ten Percent Hp Loss",18,35,5,58,554
+"The Silent","One Rare Relic","Ten Percent Hp Loss",19,35,5,74,635
+"The Silent","One Rare Relic","Ten Percent Hp Loss",20,116,45,266,2329
+"The Silent","Random Colorless","None",1,624,114,319,3923
+"The Silent","Random Colorless","None",2,257,44,183,2346
+"The Silent","Random Colorless","None",3,189,32,188,1858
+"The Silent","Random Colorless","None",4,137,15,143,1570
+"The Silent","Random Colorless","None",5,117,19,130,1294
+"The Silent","Random Colorless","None",6,106,17,90,1013
+"The Silent","Random Colorless","None",7,97,8,90,897
+"The Silent","Random Colorless","None",8,90,12,57,731
+"The Silent","Random Colorless","None",9,67,9,69,667
+"The Silent","Random Colorless","None",10,52,10,86,666
+"The Silent","Random Colorless","None",11,46,3,58,703
+"The Silent","Random Colorless","None",12,43,6,62,592
+"The Silent","Random Colorless","None",13,44,5,40,451
+"The Silent","Random Colorless","None",14,32,1,52,499
+"The Silent","Random Colorless","None",15,41,3,55,490
+"The Silent","Random Colorless","None",16,32,2,46,397
+"The Silent","Random Colorless","None",17,24,3,61,556
+"The Silent","Random Colorless","None",18,13,2,53,516
+"The Silent","Random Colorless","None",19,20,8,93,732
+"The Silent","Random Colorless","None",20,46,21,254,1668
+"The Silent","Random Colorless 2","Curse",1,124,34,89,774
+"The Silent","Random Colorless 2","Curse",2,58,17,28,494
+"The Silent","Random Colorless 2","Curse",3,61,16,33,420
+"The Silent","Random Colorless 2","Curse",4,45,14,31,391
+"The Silent","Random Colorless 2","Curse",5,42,3,23,343
+"The Silent","Random Colorless 2","Curse",6,35,9,22,276
+"The Silent","Random Colorless 2","Curse",7,33,3,20,237
+"The Silent","Random Colorless 2","Curse",8,29,9,10,204
+"The Silent","Random Colorless 2","Curse",9,27,6,18,201
+"The Silent","Random Colorless 2","Curse",10,19,4,26,232
+"The Silent","Random Colorless 2","Curse",11,26,6,14,255
+"The Silent","Random Colorless 2","Curse",12,16,3,21,208
+"The Silent","Random Colorless 2","Curse",13,14,2,20,189
+"The Silent","Random Colorless 2","Curse",14,14,2,22,204
+"The Silent","Random Colorless 2","Curse",15,18,3,24,218
+"The Silent","Random Colorless 2","Curse",16,17,1,24,182
+"The Silent","Random Colorless 2","Curse",17,13,4,26,216
+"The Silent","Random Colorless 2","Curse",18,17,2,27,253
+"The Silent","Random Colorless 2","Curse",19,15,0,35,372
+"The Silent","Random Colorless 2","Curse",20,40,18,134,959
+"The Silent","Random Colorless 2","No Gold",1,234,67,65,1091
+"The Silent","Random Colorless 2","No Gold",2,98,18,33,655
+"The Silent","Random Colorless 2","No Gold",3,76,26,30,546
+"The Silent","Random Colorless 2","No Gold",4,78,27,28,495
+"The Silent","Random Colorless 2","No Gold",5,61,14,24,425
+"The Silent","Random Colorless 2","No Gold",6,49,12,30,371
+"The Silent","Random Colorless 2","No Gold",7,51,8,19,330
+"The Silent","Random Colorless 2","No Gold",8,43,4,23,304
+"The Silent","Random Colorless 2","No Gold",9,53,10,14,293
+"The Silent","Random Colorless 2","No Gold",10,48,11,31,349
+"The Silent","Random Colorless 2","No Gold",11,44,8,24,337
+"The Silent","Random Colorless 2","No Gold",12,35,12,20,297
+"The Silent","Random Colorless 2","No Gold",13,35,5,12,239
+"The Silent","Random Colorless 2","No Gold",14,30,6,19,263
+"The Silent","Random Colorless 2","No Gold",15,37,10,23,310
+"The Silent","Random Colorless 2","No Gold",16,25,2,19,244
+"The Silent","Random Colorless 2","No Gold",17,26,4,21,306
+"The Silent","Random Colorless 2","No Gold",18,21,5,30,351
+"The Silent","Random Colorless 2","No Gold",19,19,2,38,450
+"The Silent","Random Colorless 2","No Gold",20,102,58,136,1414
+"The Silent","Random Colorless 2","Percent Damage",1,167,53,57,875
+"The Silent","Random Colorless 2","Percent Damage",2,80,16,32,546
+"The Silent","Random Colorless 2","Percent Damage",3,42,5,21,419
+"The Silent","Random Colorless 2","Percent Damage",4,44,5,24,370
+"The Silent","Random Colorless 2","Percent Damage",5,42,6,20,315
+"The Silent","Random Colorless 2","Percent Damage",6,43,10,17,265
+"The Silent","Random Colorless 2","Percent Damage",7,37,7,20,289
+"The Silent","Random Colorless 2","Percent Damage",8,26,4,15,210
+"The Silent","Random Colorless 2","Percent Damage",9,26,4,21,223
+"The Silent","Random Colorless 2","Percent Damage",10,28,8,21,233
+"The Silent","Random Colorless 2","Percent Damage",11,23,4,26,227
+"The Silent","Random Colorless 2","Percent Damage",12,20,4,13,201
+"The Silent","Random Colorless 2","Percent Damage",13,27,5,19,185
+"The Silent","Random Colorless 2","Percent Damage",14,20,7,13,174
+"The Silent","Random Colorless 2","Percent Damage",15,28,7,21,227
+"The Silent","Random Colorless 2","Percent Damage",16,26,7,22,221
+"The Silent","Random Colorless 2","Percent Damage",17,16,2,23,238
+"The Silent","Random Colorless 2","Percent Damage",18,11,1,25,274
+"The Silent","Random Colorless 2","Percent Damage",19,13,1,25,339
+"The Silent","Random Colorless 2","Percent Damage",20,72,44,132,1113
+"The Silent","Random Colorless 2","Ten Percent Hp Loss",1,152,47,82,832
+"The Silent","Random Colorless 2","Ten Percent Hp Loss",2,76,18,38,473
+"The Silent","Random Colorless 2","Ten Percent Hp Loss",3,61,13,30,425
+"The Silent","Random Colorless 2","Ten Percent Hp Loss",4,56,10,28,411
+"The Silent","Random Colorless 2","Ten Percent Hp Loss",5,57,11,29,333
+"The Silent","Random Colorless 2","Ten Percent Hp Loss",6,43,4,30,304
+"The Silent","Random Colorless 2","Ten Percent Hp Loss",7,43,8,21,270
+"The Silent","Random Colorless 2","Ten Percent Hp Loss",8,35,6,13,233
+"The Silent","Random Colorless 2","Ten Percent Hp Loss",9,30,8,21,221
+"The Silent","Random Colorless 2","Ten Percent Hp Loss",10,35,6,18,260
+"The Silent","Random Colorless 2","Ten Percent Hp Loss",11,41,11,13,241
+"The Silent","Random Colorless 2","Ten Percent Hp Loss",12,23,2,20,223
+"The Silent","Random Colorless 2","Ten Percent Hp Loss",13,19,3,13,194
+"The Silent","Random Colorless 2","Ten Percent Hp Loss",14,28,0,25,239
+"The Silent","Random Colorless 2","Ten Percent Hp Loss",15,24,10,20,238
+"The Silent","Random Colorless 2","Ten Percent Hp Loss",16,18,3,21,218
+"The Silent","Random Colorless 2","Ten Percent Hp Loss",17,21,3,33,264
+"The Silent","Random Colorless 2","Ten Percent Hp Loss",18,14,1,31,266
+"The Silent","Random Colorless 2","Ten Percent Hp Loss",19,20,7,39,311
+"The Silent","Random Colorless 2","Ten Percent Hp Loss",20,86,49,121,1248
+"The Silent","Random Common Relic","None",1,2759,612,462,13736
+"The Silent","Random Common Relic","None",2,1199,217,264,7812
+"The Silent","Random Common Relic","None",3,886,155,242,6114
+"The Silent","Random Common Relic","None",4,695,106,222,5567
+"The Silent","Random Common Relic","None",5,610,79,195,4617
+"The Silent","Random Common Relic","None",6,498,78,163,3822
+"The Silent","Random Common Relic","None",7,436,69,143,3254
+"The Silent","Random Common Relic","None",8,399,57,153,2928
+"The Silent","Random Common Relic","None",9,372,64,158,2722
+"The Silent","Random Common Relic","None",10,382,70,138,2884
+"The Silent","Random Common Relic","None",11,302,45,150,2735
+"The Silent","Random Common Relic","None",12,246,37,201,2493
+"The Silent","Random Common Relic","None",13,225,38,137,2042
+"The Silent","Random Common Relic","None",14,213,29,158,2293
+"The Silent","Random Common Relic","None",15,263,67,182,2348
+"The Silent","Random Common Relic","None",16,178,22,134,1881
+"The Silent","Random Common Relic","None",17,180,22,187,2437
+"The Silent","Random Common Relic","None",18,103,14,227,2553
+"The Silent","Random Common Relic","None",19,126,16,274,2943
+"The Silent","Random Common Relic","None",20,467,229,909,8805
+"The Silent","Remove Card","None",1,517,129,58,2675
+"The Silent","Remove Card","None",2,241,36,21,1559
+"The Silent","Remove Card","None",3,139,18,24,1155
+"The Silent","Remove Card","None",4,137,22,19,1008
+"The Silent","Remove Card","None",5,112,16,11,846
+"The Silent","Remove Card","None",6,80,16,11,643
+"The Silent","Remove Card","None",7,70,12,12,550
+"The Silent","Remove Card","None",8,65,10,3,470
+"The Silent","Remove Card","None",9,75,18,11,443
+"The Silent","Remove Card","None",10,51,10,17,456
+"The Silent","Remove Card","None",11,42,8,8,441
+"The Silent","Remove Card","None",12,46,4,8,401
+"The Silent","Remove Card","None",13,37,7,4,294
+"The Silent","Remove Card","None",14,29,4,11,321
+"The Silent","Remove Card","None",15,24,7,10,278
+"The Silent","Remove Card","None",16,28,3,11,252
+"The Silent","Remove Card","None",17,15,0,10,324
+"The Silent","Remove Card","None",18,10,2,12,285
+"The Silent","Remove Card","None",19,17,1,17,325
+"The Silent","Remove Card","None",20,57,25,32,911
+"The Silent","Remove Two","No Gold",1,206,70,9,923
+"The Silent","Remove Two","No Gold",2,96,21,0,565
+"The Silent","Remove Two","No Gold",3,73,13,7,465
+"The Silent","Remove Two","No Gold",4,59,10,8,461
+"The Silent","Remove Two","No Gold",5,62,13,5,370
+"The Silent","Remove Two","No Gold",6,73,9,2,340
+"The Silent","Remove Two","No Gold",7,55,8,2,310
+"The Silent","Remove Two","No Gold",8,39,13,5,252
+"The Silent","Remove Two","No Gold",9,38,6,2,249
+"The Silent","Remove Two","No Gold",10,35,6,4,232
+"The Silent","Remove Two","No Gold",11,19,3,2,233
+"The Silent","Remove Two","No Gold",12,27,6,4,216
+"The Silent","Remove Two","No Gold",13,19,3,3,167
+"The Silent","Remove Two","No Gold",14,25,5,2,169
+"The Silent","Remove Two","No Gold",15,22,7,2,187
+"The Silent","Remove Two","No Gold",16,22,5,4,178
+"The Silent","Remove Two","No Gold",17,16,3,1,231
+"The Silent","Remove Two","No Gold",18,7,1,3,193
+"The Silent","Remove Two","No Gold",19,14,5,1,223
+"The Silent","Remove Two","No Gold",20,49,25,16,746
+"The Silent","Remove Two","Percent Damage",1,129,45,8,676
+"The Silent","Remove Two","Percent Damage",2,54,8,7,394
+"The Silent","Remove Two","Percent Damage",3,48,7,2,332
+"The Silent","Remove Two","Percent Damage",4,26,6,4,280
+"The Silent","Remove Two","Percent Damage",5,39,9,2,226
+"The Silent","Remove Two","Percent Damage",6,32,6,2,210
+"The Silent","Remove Two","Percent Damage",7,20,2,1,184
+"The Silent","Remove Two","Percent Damage",8,28,4,3,161
+"The Silent","Remove Two","Percent Damage",9,20,2,4,136
+"The Silent","Remove Two","Percent Damage",10,24,7,1,152
+"The Silent","Remove Two","Percent Damage",11,12,2,1,149
+"The Silent","Remove Two","Percent Damage",12,16,6,2,147
+"The Silent","Remove Two","Percent Damage",13,18,3,0,138
+"The Silent","Remove Two","Percent Damage",14,17,4,3,128
+"The Silent","Remove Two","Percent Damage",15,16,7,2,112
+"The Silent","Remove Two","Percent Damage",16,12,4,1,116
+"The Silent","Remove Two","Percent Damage",17,12,2,2,132
+"The Silent","Remove Two","Percent Damage",18,8,1,4,123
+"The Silent","Remove Two","Percent Damage",19,7,0,4,153
+"The Silent","Remove Two","Percent Damage",20,36,28,12,557
+"The Silent","Remove Two","Ten Percent Hp Loss",1,139,61,5,690
+"The Silent","Remove Two","Ten Percent Hp Loss",2,67,12,2,404
+"The Silent","Remove Two","Ten Percent Hp Loss",3,60,11,5,367
+"The Silent","Remove Two","Ten Percent Hp Loss",4,46,9,5,324
+"The Silent","Remove Two","Ten Percent Hp Loss",5,40,11,5,285
+"The Silent","Remove Two","Ten Percent Hp Loss",6,38,10,4,234
+"The Silent","Remove Two","Ten Percent Hp Loss",7,32,9,1,211
+"The Silent","Remove Two","Ten Percent Hp Loss",8,28,5,3,151
+"The Silent","Remove Two","Ten Percent Hp Loss",9,24,4,1,145
+"The Silent","Remove Two","Ten Percent Hp Loss",10,24,5,2,171
+"The Silent","Remove Two","Ten Percent Hp Loss",11,30,12,3,177
+"The Silent","Remove Two","Ten Percent Hp Loss",12,25,5,0,161
+"The Silent","Remove Two","Ten Percent Hp Loss",13,21,4,3,145
+"The Silent","Remove Two","Ten Percent Hp Loss",14,20,2,2,153
+"The Silent","Remove Two","Ten Percent Hp Loss",15,26,14,5,172
+"The Silent","Remove Two","Ten Percent Hp Loss",16,17,3,2,154
+"The Silent","Remove Two","Ten Percent Hp Loss",17,12,1,0,155
+"The Silent","Remove Two","Ten Percent Hp Loss",18,11,3,4,152
+"The Silent","Remove Two","Ten Percent Hp Loss",19,11,2,5,167
+"The Silent","Remove Two","Ten Percent Hp Loss",20,57,36,21,650
+"The Silent","Ten Percent Hp Bonus","None",1,2819,605,400,17792
+"The Silent","Ten Percent Hp Bonus","None",2,1245,260,198,9972
+"The Silent","Ten Percent Hp Bonus","None",3,944,177,218,8456
+"The Silent","Ten Percent Hp Bonus","None",4,685,106,163,6556
+"The Silent","Ten Percent Hp Bonus","None",5,526,73,121,4893
+"The Silent","Ten Percent Hp Bonus","None",6,444,76,102,4002
+"The Silent","Ten Percent Hp Bonus","None",7,368,41,88,3081
+"The Silent","Ten Percent Hp Bonus","None",8,365,49,92,3105
+"The Silent","Ten Percent Hp Bonus","None",9,294,55,83,2469
+"The Silent","Ten Percent Hp Bonus","None",10,280,54,88,2775
+"The Silent","Ten Percent Hp Bonus","None",11,223,31,71,2400
+"The Silent","Ten Percent Hp Bonus","None",12,212,33,98,2165
+"The Silent","Ten Percent Hp Bonus","None",13,161,23,58,1531
+"The Silent","Ten Percent Hp Bonus","None",14,169,25,88,2076
+"The Silent","Ten Percent Hp Bonus","None",15,163,29,178,2578
+"The Silent","Ten Percent Hp Bonus","None",16,125,9,67,1662
+"The Silent","Ten Percent Hp Bonus","None",17,123,15,76,2051
+"The Silent","Ten Percent Hp Bonus","None",18,124,15,133,3368
+"The Silent","Ten Percent Hp Bonus","None",19,99,12,142,3333
+"The Silent","Ten Percent Hp Bonus","None",20,279,125,508,7633
+"The Silent","Three Cards","None",1,762,145,392,5072
+"The Silent","Three Cards","None",2,333,50,263,3160
+"The Silent","Three Cards","None",3,226,31,213,2230
+"The Silent","Three Cards","None",4,161,28,177,1986
+"The Silent","Three Cards","None",5,129,19,142,1597
+"The Silent","Three Cards","None",6,125,18,110,1226
+"The Silent","Three Cards","None",7,115,18,99,1085
+"The Silent","Three Cards","None",8,99,15,82,902
+"The Silent","Three Cards","None",9,68,9,77,809
+"The Silent","Three Cards","None",10,73,13,85,853
+"The Silent","Three Cards","None",11,59,10,79,818
+"The Silent","Three Cards","None",12,47,7,77,710
+"The Silent","Three Cards","None",13,31,6,69,575
+"The Silent","Three Cards","None",14,40,8,66,616
+"The Silent","Three Cards","None",15,37,12,57,576
+"The Silent","Three Cards","None",16,37,8,57,532
+"The Silent","Three Cards","None",17,33,4,71,634
+"The Silent","Three Cards","None",18,25,4,70,612
+"The Silent","Three Cards","None",19,14,1,80,735
+"The Silent","Three Cards","None",20,67,31,230,1919
+"The Silent","Three Enemy Kill","None",1,7321,1761,3092,50629
+"The Silent","Three Enemy Kill","None",2,3453,678,1713,30657
+"The Silent","Three Enemy Kill","None",3,3146,580,1921,30030
+"The Silent","Three Enemy Kill","None",4,2546,432,1732,25516
+"The Silent","Three Enemy Kill","None",5,2137,362,1650,21138
+"The Silent","Three Enemy Kill","None",6,2009,297,1402,18535
+"The Silent","Three Enemy Kill","None",7,1674,266,1480,16515
+"The Silent","Three Enemy Kill","None",8,1645,249,1402,15112
+"The Silent","Three Enemy Kill","None",9,1499,289,1237,14790
+"The Silent","Three Enemy Kill","None",10,1545,291,1295,15871
+"The Silent","Three Enemy Kill","None",11,1330,202,1496,15888
+"The Silent","Three Enemy Kill","None",12,1215,171,1662,14875
+"The Silent","Three Enemy Kill","None",13,1074,144,1094,11725
+"The Silent","Three Enemy Kill","None",14,1024,135,1548,13854
+"The Silent","Three Enemy Kill","None",15,1226,272,1980,15899
+"The Silent","Three Enemy Kill","None",16,953,128,1673,13576
+"The Silent","Three Enemy Kill","None",17,913,133,1927,17115
+"The Silent","Three Enemy Kill","None",18,1003,123,2833,23691
+"The Silent","Three Enemy Kill","None",19,888,97,3566,28318
+"The Silent","Three Enemy Kill","None",20,3080,1532,13135,86647
+"The Silent","Three Rare Cards","Curse",1,147,35,111,1150
+"The Silent","Three Rare Cards","Curse",2,70,13,50,724
+"The Silent","Three Rare Cards","Curse",3,46,8,54,610
+"The Silent","Three Rare Cards","Curse",4,33,4,48,534
+"The Silent","Three Rare Cards","Curse",5,37,7,46,518
+"The Silent","Three Rare Cards","Curse",6,44,5,28,417
+"The Silent","Three Rare Cards","Curse",7,22,8,36,381
+"The Silent","Three Rare Cards","Curse",8,29,7,36,315
+"The Silent","Three Rare Cards","Curse",9,26,3,28,295
+"The Silent","Three Rare Cards","Curse",10,19,5,38,339
+"The Silent","Three Rare Cards","Curse",11,23,4,33,333
+"The Silent","Three Rare Cards","Curse",12,24,0,27,305
+"The Silent","Three Rare Cards","Curse",13,13,1,21,267
+"The Silent","Three Rare Cards","Curse",14,15,3,27,273
+"The Silent","Three Rare Cards","Curse",15,10,0,21,307
+"The Silent","Three Rare Cards","Curse",16,16,1,27,252
+"The Silent","Three Rare Cards","Curse",17,7,2,20,290
+"The Silent","Three Rare Cards","Curse",18,10,0,52,328
+"The Silent","Three Rare Cards","Curse",19,8,1,50,433
+"The Silent","Three Rare Cards","Curse",20,28,13,202,1232
+"The Silent","Three Rare Cards","No Gold",1,283,82,89,1482
+"The Silent","Three Rare Cards","No Gold",2,106,17,47,880
+"The Silent","Three Rare Cards","No Gold",3,86,11,51,762
+"The Silent","Three Rare Cards","No Gold",4,92,13,26,737
+"The Silent","Three Rare Cards","No Gold",5,63,16,36,644
+"The Silent","Three Rare Cards","No Gold",6,60,14,29,516
+"The Silent","Three Rare Cards","No Gold",7,54,12,25,532
+"The Silent","Three Rare Cards","No Gold",8,61,12,24,477
+"The Silent","Three Rare Cards","No Gold",9,45,10,18,392
+"The Silent","Three Rare Cards","No Gold",10,36,3,22,458
+"The Silent","Three Rare Cards","No Gold",11,44,8,40,483
+"The Silent","Three Rare Cards","No Gold",12,30,4,19,403
+"The Silent","Three Rare Cards","No Gold",13,33,5,20,367
+"The Silent","Three Rare Cards","No Gold",14,26,3,27,444
+"The Silent","Three Rare Cards","No Gold",15,35,7,29,393
+"The Silent","Three Rare Cards","No Gold",16,28,2,29,365
+"The Silent","Three Rare Cards","No Gold",17,21,3,28,460
+"The Silent","Three Rare Cards","No Gold",18,23,3,28,470
+"The Silent","Three Rare Cards","No Gold",19,17,1,42,566
+"The Silent","Three Rare Cards","No Gold",20,72,40,157,1967
+"The Silent","Three Rare Cards","Percent Damage",1,186,58,96,1224
+"The Silent","Three Rare Cards","Percent Damage",2,94,26,46,711
+"The Silent","Three Rare Cards","Percent Damage",3,61,16,35,661
+"The Silent","Three Rare Cards","Percent Damage",4,61,15,32,561
+"The Silent","Three Rare Cards","Percent Damage",5,42,6,35,465
+"The Silent","Three Rare Cards","Percent Damage",6,49,14,31,411
+"The Silent","Three Rare Cards","Percent Damage",7,47,10,24,381
+"The Silent","Three Rare Cards","Percent Damage",8,26,6,14,309
+"The Silent","Three Rare Cards","Percent Damage",9,32,7,13,322
+"The Silent","Three Rare Cards","Percent Damage",10,23,4,22,330
+"The Silent","Three Rare Cards","Percent Damage",11,24,3,20,354
+"The Silent","Three Rare Cards","Percent Damage",12,16,2,23,311
+"The Silent","Three Rare Cards","Percent Damage",13,15,4,19,266
+"The Silent","Three Rare Cards","Percent Damage",14,21,5,27,309
+"The Silent","Three Rare Cards","Percent Damage",15,35,6,19,334
+"The Silent","Three Rare Cards","Percent Damage",16,22,2,30,273
+"The Silent","Three Rare Cards","Percent Damage",17,18,4,26,322
+"The Silent","Three Rare Cards","Percent Damage",18,19,1,27,360
+"The Silent","Three Rare Cards","Percent Damage",19,9,3,36,403
+"The Silent","Three Rare Cards","Percent Damage",20,71,35,127,1463
+"The Silent","Three Rare Cards","Ten Percent Hp Loss",1,190,53,80,1207
+"The Silent","Three Rare Cards","Ten Percent Hp Loss",2,78,16,50,714
+"The Silent","Three Rare Cards","Ten Percent Hp Loss",3,55,13,45,631
+"The Silent","Three Rare Cards","Ten Percent Hp Loss",4,62,14,35,602
+"The Silent","Three Rare Cards","Ten Percent Hp Loss",5,55,11,39,533
+"The Silent","Three Rare Cards","Ten Percent Hp Loss",6,57,13,30,478
+"The Silent","Three Rare Cards","Ten Percent Hp Loss",7,59,14,23,393
+"The Silent","Three Rare Cards","Ten Percent Hp Loss",8,42,9,18,342
+"The Silent","Three Rare Cards","Ten Percent Hp Loss",9,46,6,31,360
+"The Silent","Three Rare Cards","Ten Percent Hp Loss",10,33,7,24,330
+"The Silent","Three Rare Cards","Ten Percent Hp Loss",11,33,4,29,390
+"The Silent","Three Rare Cards","Ten Percent Hp Loss",12,33,5,23,355
+"The Silent","Three Rare Cards","Ten Percent Hp Loss",13,34,7,19,268
+"The Silent","Three Rare Cards","Ten Percent Hp Loss",14,18,2,18,308
+"The Silent","Three Rare Cards","Ten Percent Hp Loss",15,37,9,27,385
+"The Silent","Three Rare Cards","Ten Percent Hp Loss",16,20,5,29,292
+"The Silent","Three Rare Cards","Ten Percent Hp Loss",17,28,7,36,353
+"The Silent","Three Rare Cards","Ten Percent Hp Loss",18,13,1,22,363
+"The Silent","Three Rare Cards","Ten Percent Hp Loss",19,20,4,43,451
+"The Silent","Three Rare Cards","Ten Percent Hp Loss",20,99,56,179,1760
+"The Silent","Three Small Potions","None",1,450,99,85,2871
+"The Silent","Three Small Potions","None",2,204,40,45,1520
+"The Silent","Three Small Potions","None",3,148,25,40,1239
+"The Silent","Three Small Potions","None",4,111,15,31,1094
+"The Silent","Three Small Potions","None",5,106,20,31,952
+"The Silent","Three Small Potions","None",6,79,12,25,726
+"The Silent","Three Small Potions","None",7,84,11,19,682
+"The Silent","Three Small Potions","None",8,52,12,18,538
+"The Silent","Three Small Potions","None",9,74,8,28,493
+"The Silent","Three Small Potions","None",10,78,17,9,544
+"The Silent","Three Small Potions","None",11,29,6,23,259
+"The Silent","Three Small Potions","None",12,21,8,25,231
+"The Silent","Three Small Potions","None",13,14,3,20,169
+"The Silent","Three Small Potions","None",14,14,3,9,181
+"The Silent","Three Small Potions","None",15,22,6,22,233
+"The Silent","Three Small Potions","None",16,9,1,9,151
+"The Silent","Three Small Potions","None",17,16,3,22,199
+"The Silent","Three Small Potions","None",18,5,1,17,203
+"The Silent","Three Small Potions","None",19,10,2,36,266
+"The Silent","Three Small Potions","None",20,46,23,92,997
+"The Silent","Transform Card","None",1,573,126,214,3286
+"The Silent","Transform Card","None",2,271,55,159,2029
+"The Silent","Transform Card","None",3,204,44,137,1478
+"The Silent","Transform Card","None",4,152,26,101,1314
+"The Silent","Transform Card","None",5,127,17,121,1058
+"The Silent","Transform Card","None",6,130,27,90,874
+"The Silent","Transform Card","None",7,91,15,66,616
+"The Silent","Transform Card","None",8,79,12,43,586
+"The Silent","Transform Card","None",9,80,17,61,529
+"The Silent","Transform Card","None",10,72,15,60,556
+"The Silent","Transform Card","None",11,60,11,64,545
+"The Silent","Transform Card","None",12,45,6,44,469
+"The Silent","Transform Card","None",13,45,3,43,404
+"The Silent","Transform Card","None",14,52,10,45,433
+"The Silent","Transform Card","None",15,51,10,48,430
+"The Silent","Transform Card","None",16,42,7,39,416
+"The Silent","Transform Card","None",17,23,2,66,432
+"The Silent","Transform Card","None",18,23,5,57,444
+"The Silent","Transform Card","None",19,26,3,72,543
+"The Silent","Transform Card","None",20,94,50,224,1544
+"The Silent","Transform Two Cards","Curse",1,101,26,62,529
+"The Silent","Transform Two Cards","Curse",2,44,7,41,345
+"The Silent","Transform Two Cards","Curse",3,27,6,33,276
+"The Silent","Transform Two Cards","Curse",4,33,4,37,288
+"The Silent","Transform Two Cards","Curse",5,26,4,36,216
+"The Silent","Transform Two Cards","Curse",6,20,2,22,186
+"The Silent","Transform Two Cards","Curse",7,18,3,16,171
+"The Silent","Transform Two Cards","Curse",8,21,7,14,155
+"The Silent","Transform Two Cards","Curse",9,19,4,22,140
+"The Silent","Transform Two Cards","Curse",10,18,1,18,135
+"The Silent","Transform Two Cards","Curse",11,15,0,18,147
+"The Silent","Transform Two Cards","Curse",12,10,2,23,120
+"The Silent","Transform Two Cards","Curse",13,10,1,15,99
+"The Silent","Transform Two Cards","Curse",14,13,2,19,132
+"The Silent","Transform Two Cards","Curse",15,11,2,24,131
+"The Silent","Transform Two Cards","Curse",16,7,1,29,113
+"The Silent","Transform Two Cards","Curse",17,7,1,26,140
+"The Silent","Transform Two Cards","Curse",18,5,2,23,134
+"The Silent","Transform Two Cards","Curse",19,5,0,48,215
+"The Silent","Transform Two Cards","Curse",20,17,8,150,577
+"The Silent","Transform Two Cards","No Gold",1,184,58,76,886
+"The Silent","Transform Two Cards","No Gold",2,98,21,43,535
+"The Silent","Transform Two Cards","No Gold",3,64,13,35,445
+"The Silent","Transform Two Cards","No Gold",4,67,19,35,469
+"The Silent","Transform Two Cards","No Gold",5,49,15,44,381
+"The Silent","Transform Two Cards","No Gold",6,50,8,35,318
+"The Silent","Transform Two Cards","No Gold",7,66,18,35,298
+"The Silent","Transform Two Cards","No Gold",8,30,6,30,270
+"The Silent","Transform Two Cards","No Gold",9,40,9,32,262
+"The Silent","Transform Two Cards","No Gold",10,37,9,23,255
+"The Silent","Transform Two Cards","No Gold",11,32,6,22,262
+"The Silent","Transform Two Cards","No Gold",12,24,7,20,241
+"The Silent","Transform Two Cards","No Gold",13,27,6,24,210
+"The Silent","Transform Two Cards","No Gold",14,34,5,32,252
+"The Silent","Transform Two Cards","No Gold",15,24,5,26,257
+"The Silent","Transform Two Cards","No Gold",16,23,3,31,246
+"The Silent","Transform Two Cards","No Gold",17,23,5,31,257
+"The Silent","Transform Two Cards","No Gold",18,17,4,46,285
+"The Silent","Transform Two Cards","No Gold",19,18,0,29,326
+"The Silent","Transform Two Cards","No Gold",20,77,49,173,1180
+"The Silent","Transform Two Cards","Percent Damage",1,138,47,64,741
+"The Silent","Transform Two Cards","Percent Damage",2,63,12,45,421
+"The Silent","Transform Two Cards","Percent Damage",3,44,13,42,373
+"The Silent","Transform Two Cards","Percent Damage",4,46,6,25,299
+"The Silent","Transform Two Cards","Percent Damage",5,36,4,27,264
+"The Silent","Transform Two Cards","Percent Damage",6,35,7,30,279
+"The Silent","Transform Two Cards","Percent Damage",7,40,14,29,221
+"The Silent","Transform Two Cards","Percent Damage",8,20,6,16,193
+"The Silent","Transform Two Cards","Percent Damage",9,17,4,25,168
+"The Silent","Transform Two Cards","Percent Damage",10,20,3,20,183
+"The Silent","Transform Two Cards","Percent Damage",11,18,2,33,175
+"The Silent","Transform Two Cards","Percent Damage",12,18,3,20,157
+"The Silent","Transform Two Cards","Percent Damage",13,18,7,24,143
+"The Silent","Transform Two Cards","Percent Damage",14,19,2,21,159
+"The Silent","Transform Two Cards","Percent Damage",15,23,10,30,184
+"The Silent","Transform Two Cards","Percent Damage",16,9,3,27,164
+"The Silent","Transform Two Cards","Percent Damage",17,18,4,24,195
+"The Silent","Transform Two Cards","Percent Damage",18,13,3,36,223
+"The Silent","Transform Two Cards","Percent Damage",19,14,1,50,274
+"The Silent","Transform Two Cards","Percent Damage",20,55,33,164,840
+"The Silent","Transform Two Cards","Ten Percent Hp Loss",1,141,51,74,767
+"The Silent","Transform Two Cards","Ten Percent Hp Loss",2,66,18,34,413
+"The Silent","Transform Two Cards","Ten Percent Hp Loss",3,60,11,40,383
+"The Silent","Transform Two Cards","Ten Percent Hp Loss",4,47,11,40,341
+"The Silent","Transform Two Cards","Ten Percent Hp Loss",5,40,10,24,274
+"The Silent","Transform Two Cards","Ten Percent Hp Loss",6,27,8,32,242
+"The Silent","Transform Two Cards","Ten Percent Hp Loss",7,42,13,22,251
+"The Silent","Transform Two Cards","Ten Percent Hp Loss",8,32,6,18,197
+"The Silent","Transform Two Cards","Ten Percent Hp Loss",9,35,5,18,209
+"The Silent","Transform Two Cards","Ten Percent Hp Loss",10,29,8,24,201
+"The Silent","Transform Two Cards","Ten Percent Hp Loss",11,20,5,15,181
+"The Silent","Transform Two Cards","Ten Percent Hp Loss",12,13,5,21,172
+"The Silent","Transform Two Cards","Ten Percent Hp Loss",13,29,7,19,168
+"The Silent","Transform Two Cards","Ten Percent Hp Loss",14,19,5,22,148
+"The Silent","Transform Two Cards","Ten Percent Hp Loss",15,36,15,25,194
+"The Silent","Transform Two Cards","Ten Percent Hp Loss",16,20,5,20,161
+"The Silent","Transform Two Cards","Ten Percent Hp Loss",17,17,7,23,199
+"The Silent","Transform Two Cards","Ten Percent Hp Loss",18,19,3,40,216
+"The Silent","Transform Two Cards","Ten Percent Hp Loss",19,14,1,38,239
+"The Silent","Transform Two Cards","Ten Percent Hp Loss",20,83,54,159,975
+"The Silent","Twenty Percent Hp Bonus","Curse",1,72,10,9,518
+"The Silent","Twenty Percent Hp Bonus","Curse",2,40,6,4,291
+"The Silent","Twenty Percent Hp Bonus","Curse",3,27,3,6,213
+"The Silent","Twenty Percent Hp Bonus","Curse",4,18,0,2,203
+"The Silent","Twenty Percent Hp Bonus","Curse",5,16,0,3,175
+"The Silent","Twenty Percent Hp Bonus","Curse",6,17,2,2,137
+"The Silent","Twenty Percent Hp Bonus","Curse",7,18,2,1,105
+"The Silent","Twenty Percent Hp Bonus","Curse",8,6,1,4,116
+"The Silent","Twenty Percent Hp Bonus","Curse",9,9,1,2,73
+"The Silent","Twenty Percent Hp Bonus","Curse",10,10,3,4,96
+"The Silent","Twenty Percent Hp Bonus","Curse",11,9,2,1,99
+"The Silent","Twenty Percent Hp Bonus","Curse",12,6,1,1,92
+"The Silent","Twenty Percent Hp Bonus","Curse",13,3,1,1,75
+"The Silent","Twenty Percent Hp Bonus","Curse",14,2,0,2,76
+"The Silent","Twenty Percent Hp Bonus","Curse",15,5,1,3,69
+"The Silent","Twenty Percent Hp Bonus","Curse",16,6,0,3,82
+"The Silent","Twenty Percent Hp Bonus","Curse",17,6,0,2,82
+"The Silent","Twenty Percent Hp Bonus","Curse",18,0,0,3,88
+"The Silent","Twenty Percent Hp Bonus","Curse",19,1,0,7,87
+"The Silent","Twenty Percent Hp Bonus","Curse",20,4,2,14,240
+"The Silent","Twenty Percent Hp Bonus","No Gold",1,139,36,8,651
+"The Silent","Twenty Percent Hp Bonus","No Gold",2,66,17,1,399
+"The Silent","Twenty Percent Hp Bonus","No Gold",3,53,10,0,296
+"The Silent","Twenty Percent Hp Bonus","No Gold",4,41,2,3,312
+"The Silent","Twenty Percent Hp Bonus","No Gold",5,36,4,3,248
+"The Silent","Twenty Percent Hp Bonus","No Gold",6,25,7,2,198
+"The Silent","Twenty Percent Hp Bonus","No Gold",7,30,4,1,181
+"The Silent","Twenty Percent Hp Bonus","No Gold",8,23,6,2,164
+"The Silent","Twenty Percent Hp Bonus","No Gold",9,17,3,1,155
+"The Silent","Twenty Percent Hp Bonus","No Gold",10,26,4,0,169
+"The Silent","Twenty Percent Hp Bonus","No Gold",11,23,1,1,143
+"The Silent","Twenty Percent Hp Bonus","No Gold",12,15,4,1,123
+"The Silent","Twenty Percent Hp Bonus","No Gold",13,12,2,1,123
+"The Silent","Twenty Percent Hp Bonus","No Gold",14,12,3,0,130
+"The Silent","Twenty Percent Hp Bonus","No Gold",15,12,2,2,125
+"The Silent","Twenty Percent Hp Bonus","No Gold",16,8,0,4,119
+"The Silent","Twenty Percent Hp Bonus","No Gold",17,9,1,2,152
+"The Silent","Twenty Percent Hp Bonus","No Gold",18,5,0,1,138
+"The Silent","Twenty Percent Hp Bonus","No Gold",19,4,0,5,199
+"The Silent","Twenty Percent Hp Bonus","No Gold",20,20,8,24,482
+"The Silent","Twenty Percent Hp Bonus","Percent Damage",1,152,30,8,731
+"The Silent","Twenty Percent Hp Bonus","Percent Damage",2,52,11,1,385
+"The Silent","Twenty Percent Hp Bonus","Percent Damage",3,47,10,2,346
+"The Silent","Twenty Percent Hp Bonus","Percent Damage",4,37,8,0,311
+"The Silent","Twenty Percent Hp Bonus","Percent Damage",5,32,4,0,225
+"The Silent","Twenty Percent Hp Bonus","Percent Damage",6,36,9,1,222
+"The Silent","Twenty Percent Hp Bonus","Percent Damage",7,27,3,0,156
+"The Silent","Twenty Percent Hp Bonus","Percent Damage",8,21,4,1,144
+"The Silent","Twenty Percent Hp Bonus","Percent Damage",9,15,2,1,118
+"The Silent","Twenty Percent Hp Bonus","Percent Damage",10,9,1,3,148
+"The Silent","Twenty Percent Hp Bonus","Percent Damage",11,15,2,1,174
+"The Silent","Twenty Percent Hp Bonus","Percent Damage",12,15,2,3,128
+"The Silent","Twenty Percent Hp Bonus","Percent Damage",13,15,3,1,101
+"The Silent","Twenty Percent Hp Bonus","Percent Damage",14,14,0,2,127
+"The Silent","Twenty Percent Hp Bonus","Percent Damage",15,17,2,2,138
+"The Silent","Twenty Percent Hp Bonus","Percent Damage",16,11,1,3,122
+"The Silent","Twenty Percent Hp Bonus","Percent Damage",17,7,1,2,157
+"The Silent","Twenty Percent Hp Bonus","Percent Damage",18,9,1,1,150
+"The Silent","Twenty Percent Hp Bonus","Percent Damage",19,6,0,8,178
+"The Silent","Twenty Percent Hp Bonus","Percent Damage",20,24,14,17,468
+"The Silent","Two Fifty Gold","Curse",1,260,71,11,1260
+"The Silent","Two Fifty Gold","Curse",2,129,28,6,720
+"The Silent","Two Fifty Gold","Curse",3,113,23,5,687
+"The Silent","Two Fifty Gold","Curse",4,76,13,3,619
+"The Silent","Two Fifty Gold","Curse",5,84,16,5,546
+"The Silent","Two Fifty Gold","Curse",6,71,16,1,468
+"The Silent","Two Fifty Gold","Curse",7,79,11,7,481
+"The Silent","Two Fifty Gold","Curse",8,58,8,3,354
+"The Silent","Two Fifty Gold","Curse",9,47,11,4,359
+"The Silent","Two Fifty Gold","Curse",10,57,7,3,388
+"The Silent","Two Fifty Gold","Curse",11,39,11,3,371
+"The Silent","Two Fifty Gold","Curse",12,41,5,5,352
+"The Silent","Two Fifty Gold","Curse",13,30,3,0,287
+"The Silent","Two Fifty Gold","Curse",14,35,5,5,346
+"The Silent","Two Fifty Gold","Curse",15,39,5,5,342
+"The Silent","Two Fifty Gold","Curse",16,25,2,6,300
+"The Silent","Two Fifty Gold","Curse",17,26,3,1,345
+"The Silent","Two Fifty Gold","Curse",18,22,0,1,412
+"The Silent","Two Fifty Gold","Curse",19,20,1,15,503
+"The Silent","Two Fifty Gold","Curse",20,60,30,28,1441
+"The Silent","Two Fifty Gold","Percent Damage",1,336,108,9,1329
+"The Silent","Two Fifty Gold","Percent Damage",2,128,33,5,787
+"The Silent","Two Fifty Gold","Percent Damage",3,101,22,0,635
+"The Silent","Two Fifty Gold","Percent Damage",4,96,16,8,710
+"The Silent","Two Fifty Gold","Percent Damage",5,73,12,0,520
+"The Silent","Two Fifty Gold","Percent Damage",6,74,15,1,454
+"The Silent","Two Fifty Gold","Percent Damage",7,71,22,1,437
+"The Silent","Two Fifty Gold","Percent Damage",8,52,8,3,385
+"The Silent","Two Fifty Gold","Percent Damage",9,65,16,3,380
+"The Silent","Two Fifty Gold","Percent Damage",10,85,22,2,466
+"The Silent","Two Fifty Gold","Percent Damage",11,47,4,2,433
+"The Silent","Two Fifty Gold","Percent Damage",12,45,9,1,354
+"The Silent","Two Fifty Gold","Percent Damage",13,39,5,0,273
+"The Silent","Two Fifty Gold","Percent Damage",14,39,8,2,336
+"The Silent","Two Fifty Gold","Percent Damage",15,44,12,2,367
+"The Silent","Two Fifty Gold","Percent Damage",16,35,8,1,272
+"The Silent","Two Fifty Gold","Percent Damage",17,31,6,4,378
+"The Silent","Two Fifty Gold","Percent Damage",18,20,4,5,412
+"The Silent","Two Fifty Gold","Percent Damage",19,21,2,4,453
+"The Silent","Two Fifty Gold","Percent Damage",20,107,65,19,1632
+"The Silent","Two Fifty Gold","Ten Percent Hp Loss",1,271,86,6,1122
+"The Silent","Two Fifty Gold","Ten Percent Hp Loss",2,119,20,4,619
+"The Silent","Two Fifty Gold","Ten Percent Hp Loss",3,96,27,5,563
+"The Silent","Two Fifty Gold","Ten Percent Hp Loss",4,80,15,6,590
+"The Silent","Two Fifty Gold","Ten Percent Hp Loss",5,73,15,3,477
+"The Silent","Two Fifty Gold","Ten Percent Hp Loss",6,82,12,3,447
+"The Silent","Two Fifty Gold","Ten Percent Hp Loss",7,46,6,1,388
+"The Silent","Two Fifty Gold","Ten Percent Hp Loss",8,66,14,0,366
+"The Silent","Two Fifty Gold","Ten Percent Hp Loss",9,74,19,1,362
+"The Silent","Two Fifty Gold","Ten Percent Hp Loss",10,57,15,3,359
+"The Silent","Two Fifty Gold","Ten Percent Hp Loss",11,51,8,3,370
+"The Silent","Two Fifty Gold","Ten Percent Hp Loss",12,64,8,0,344
+"The Silent","Two Fifty Gold","Ten Percent Hp Loss",13,45,7,1,303
+"The Silent","Two Fifty Gold","Ten Percent Hp Loss",14,45,8,2,335
+"The Silent","Two Fifty Gold","Ten Percent Hp Loss",15,50,8,1,345
+"The Silent","Two Fifty Gold","Ten Percent Hp Loss",16,37,2,5,319
+"The Silent","Two Fifty Gold","Ten Percent Hp Loss",17,42,8,2,399
+"The Silent","Two Fifty Gold","Ten Percent Hp Loss",18,25,4,3,398
+"The Silent","Two Fifty Gold","Ten Percent Hp Loss",19,23,4,8,475
+"The Silent","Two Fifty Gold","Ten Percent Hp Loss",20,145,86,17,1848
+"The Silent","Upgrade Card","None",1,869,188,106,3976
+"The Silent","Upgrade Card","None",2,363,60,47,2306
+"The Silent","Upgrade Card","None",3,264,37,44,1872
+"The Silent","Upgrade Card","None",4,253,40,32,1767
+"The Silent","Upgrade Card","None",5,204,24,18,1444
+"The Silent","Upgrade Card","None",6,172,33,15,1228
+"The Silent","Upgrade Card","None",7,163,28,12,1068
+"The Silent","Upgrade Card","None",8,131,20,17,900
+"The Silent","Upgrade Card","None",9,140,16,14,892
+"The Silent","Upgrade Card","None",10,123,17,16,873
+"The Silent","Upgrade Card","None",11,111,19,18,857
+"The Silent","Upgrade Card","None",12,92,7,22,773
+"The Silent","Upgrade Card","None",13,66,15,18,589
+"The Silent","Upgrade Card","None",14,69,13,17,611
+"The Silent","Upgrade Card","None",15,70,13,18,634
+"The Silent","Upgrade Card","None",16,68,7,11,558
+"The Silent","Upgrade Card","None",17,46,7,18,709
+"The Silent","Upgrade Card","None",18,33,5,22,693
+"The Silent","Upgrade Card","None",19,40,5,28,755
+"The Silent","Upgrade Card","None",20,144,67,68,2504
+"Watcher","Boss Relic","None",1,3823,1265,3109,18169
+"Watcher","Boss Relic","None",2,1875,520,1494,10051
+"Watcher","Boss Relic","None",3,1511,405,1052,7385
+"Watcher","Boss Relic","None",4,1326,340,1022,6395
+"Watcher","Boss Relic","None",5,1152,302,820,5244
+"Watcher","Boss Relic","None",6,983,267,646,4241
+"Watcher","Boss Relic","None",7,878,261,644,3922
+"Watcher","Boss Relic","None",8,800,221,521,3343
+"Watcher","Boss Relic","None",9,737,204,517,3129
+"Watcher","Boss Relic","None",10,730,181,578,3722
+"Watcher","Boss Relic","None",11,582,144,535,3152
+"Watcher","Boss Relic","None",12,558,146,524,2867
+"Watcher","Boss Relic","None",13,521,125,418,2489
+"Watcher","Boss Relic","None",14,507,118,422,2582
+"Watcher","Boss Relic","None",15,662,168,506,2887
+"Watcher","Boss Relic","None",16,506,113,460,2574
+"Watcher","Boss Relic","None",17,434,91,539,2915
+"Watcher","Boss Relic","None",18,395,86,537,2806
+"Watcher","Boss Relic","None",19,371,61,628,3080
+"Watcher","Boss Relic","None",20,2554,1651,3145,14917
+"Watcher","Hundred Gold","None",1,854,164,35,5011
+"Watcher","Hundred Gold","None",2,466,77,18,2937
+"Watcher","Hundred Gold","None",3,326,52,21,1974
+"Watcher","Hundred Gold","None",4,257,23,12,1718
+"Watcher","Hundred Gold","None",5,242,36,7,1288
+"Watcher","Hundred Gold","None",6,185,22,5,969
+"Watcher","Hundred Gold","None",7,133,20,11,881
+"Watcher","Hundred Gold","None",8,133,25,7,695
+"Watcher","Hundred Gold","None",9,121,18,3,619
+"Watcher","Hundred Gold","None",10,113,12,3,669
+"Watcher","Hundred Gold","None",11,79,9,8,627
+"Watcher","Hundred Gold","None",12,71,12,7,490
+"Watcher","Hundred Gold","None",13,81,13,10,470
+"Watcher","Hundred Gold","None",14,65,12,9,379
+"Watcher","Hundred Gold","None",15,88,14,8,480
+"Watcher","Hundred Gold","None",16,51,4,30,401
+"Watcher","Hundred Gold","None",17,41,5,14,394
+"Watcher","Hundred Gold","None",18,45,6,18,474
+"Watcher","Hundred Gold","None",19,43,3,15,456
+"Watcher","Hundred Gold","None",20,139,74,36,1343
+"Watcher","One Random Rare Card","None",1,1013,193,352,6293
+"Watcher","One Random Rare Card","None",2,495,95,197,3525
+"Watcher","One Random Rare Card","None",3,405,72,153,2660
+"Watcher","One Random Rare Card","None",4,298,34,125,2150
+"Watcher","One Random Rare Card","None",5,239,31,121,1692
+"Watcher","One Random Rare Card","None",6,194,32,110,1341
+"Watcher","One Random Rare Card","None",7,155,21,84,1084
+"Watcher","One Random Rare Card","None",8,180,26,55,959
+"Watcher","One Random Rare Card","None",9,139,15,53,874
+"Watcher","One Random Rare Card","None",10,139,25,72,984
+"Watcher","One Random Rare Card","None",11,132,23,59,859
+"Watcher","One Random Rare Card","None",12,101,15,66,793
+"Watcher","One Random Rare Card","None",13,90,15,54,721
+"Watcher","One Random Rare Card","None",14,77,10,55,667
+"Watcher","One Random Rare Card","None",15,84,12,69,701
+"Watcher","One Random Rare Card","None",16,70,8,55,575
+"Watcher","One Random Rare Card","None",17,63,8,76,667
+"Watcher","One Random Rare Card","None",18,50,5,60,666
+"Watcher","One Random Rare Card","None",19,70,12,76,697
+"Watcher","One Random Rare Card","None",20,174,74,277,2213
+"Watcher","One Rare Relic","Curse",1,318,75,90,1727
+"Watcher","One Rare Relic","Curse",2,151,24,45,971
+"Watcher","One Rare Relic","Curse",3,116,20,28,730
+"Watcher","One Rare Relic","Curse",4,90,11,26,612
+"Watcher","One Rare Relic","Curse",5,79,15,18,456
+"Watcher","One Rare Relic","Curse",6,69,8,24,387
+"Watcher","One Rare Relic","Curse",7,47,12,21,314
+"Watcher","One Rare Relic","Curse",8,38,4,14,266
+"Watcher","One Rare Relic","Curse",9,49,5,24,282
+"Watcher","One Rare Relic","Curse",10,37,8,26,307
+"Watcher","One Rare Relic","Curse",11,37,4,14,234
+"Watcher","One Rare Relic","Curse",12,27,5,16,180
+"Watcher","One Rare Relic","Curse",13,29,5,20,204
+"Watcher","One Rare Relic","Curse",14,26,3,20,195
+"Watcher","One Rare Relic","Curse",15,20,3,16,186
+"Watcher","One Rare Relic","Curse",16,20,3,11,145
+"Watcher","One Rare Relic","Curse",17,19,3,17,189
+"Watcher","One Rare Relic","Curse",18,14,3,23,179
+"Watcher","One Rare Relic","Curse",19,20,0,27,211
+"Watcher","One Rare Relic","Curse",20,39,18,77,560
+"Watcher","One Rare Relic","No Gold",1,457,108,95,2141
+"Watcher","One Rare Relic","No Gold",2,223,46,42,1165
+"Watcher","One Rare Relic","No Gold",3,141,35,39,880
+"Watcher","One Rare Relic","No Gold",4,152,29,35,804
+"Watcher","One Rare Relic","No Gold",5,104,23,24,573
+"Watcher","One Rare Relic","No Gold",6,95,25,33,456
+"Watcher","One Rare Relic","No Gold",7,83,17,21,411
+"Watcher","One Rare Relic","No Gold",8,77,8,12,346
+"Watcher","One Rare Relic","No Gold",9,68,6,17,302
+"Watcher","One Rare Relic","No Gold",10,77,20,21,342
+"Watcher","One Rare Relic","No Gold",11,61,13,11,324
+"Watcher","One Rare Relic","No Gold",12,60,14,18,291
+"Watcher","One Rare Relic","No Gold",13,47,10,17,263
+"Watcher","One Rare Relic","No Gold",14,41,5,23,254
+"Watcher","One Rare Relic","No Gold",15,47,5,20,285
+"Watcher","One Rare Relic","No Gold",16,40,4,11,205
+"Watcher","One Rare Relic","No Gold",17,38,4,19,250
+"Watcher","One Rare Relic","No Gold",18,35,3,18,285
+"Watcher","One Rare Relic","No Gold",19,26,1,26,264
+"Watcher","One Rare Relic","No Gold",20,85,40,67,895
+"Watcher","One Rare Relic","Percent Damage",1,343,71,73,1757
+"Watcher","One Rare Relic","Percent Damage",2,174,34,41,966
+"Watcher","One Rare Relic","Percent Damage",3,130,29,42,756
+"Watcher","One Rare Relic","Percent Damage",4,105,24,26,652
+"Watcher","One Rare Relic","Percent Damage",5,82,13,22,457
+"Watcher","One Rare Relic","Percent Damage",6,75,19,16,380
+"Watcher","One Rare Relic","Percent Damage",7,64,10,20,353
+"Watcher","One Rare Relic","Percent Damage",8,60,13,19,295
+"Watcher","One Rare Relic","Percent Damage",9,61,9,24,282
+"Watcher","One Rare Relic","Percent Damage",10,53,14,13,273
+"Watcher","One Rare Relic","Percent Damage",11,39,7,16,241
+"Watcher","One Rare Relic","Percent Damage",12,29,8,18,218
+"Watcher","One Rare Relic","Percent Damage",13,37,8,14,204
+"Watcher","One Rare Relic","Percent Damage",14,29,5,11,187
+"Watcher","One Rare Relic","Percent Damage",15,34,7,17,208
+"Watcher","One Rare Relic","Percent Damage",16,25,3,13,166
+"Watcher","One Rare Relic","Percent Damage",17,19,3,23,185
+"Watcher","One Rare Relic","Percent Damage",18,20,2,17,211
+"Watcher","One Rare Relic","Percent Damage",19,22,2,18,213
+"Watcher","One Rare Relic","Percent Damage",20,73,39,69,732
+"Watcher","One Rare Relic","Ten Percent Hp Loss",1,311,85,107,1725
+"Watcher","One Rare Relic","Ten Percent Hp Loss",2,192,35,45,999
+"Watcher","One Rare Relic","Ten Percent Hp Loss",3,133,26,34,731
+"Watcher","One Rare Relic","Ten Percent Hp Loss",4,98,13,35,634
+"Watcher","One Rare Relic","Ten Percent Hp Loss",5,84,19,24,492
+"Watcher","One Rare Relic","Ten Percent Hp Loss",6,83,10,14,409
+"Watcher","One Rare Relic","Ten Percent Hp Loss",7,68,15,24,364
+"Watcher","One Rare Relic","Ten Percent Hp Loss",8,59,10,20,302
+"Watcher","One Rare Relic","Ten Percent Hp Loss",9,66,17,16,294
+"Watcher","One Rare Relic","Ten Percent Hp Loss",10,54,9,24,294
+"Watcher","One Rare Relic","Ten Percent Hp Loss",11,49,5,20,269
+"Watcher","One Rare Relic","Ten Percent Hp Loss",12,41,6,21,248
+"Watcher","One Rare Relic","Ten Percent Hp Loss",13,52,9,14,235
+"Watcher","One Rare Relic","Ten Percent Hp Loss",14,33,5,13,226
+"Watcher","One Rare Relic","Ten Percent Hp Loss",15,45,4,15,215
+"Watcher","One Rare Relic","Ten Percent Hp Loss",16,35,5,21,182
+"Watcher","One Rare Relic","Ten Percent Hp Loss",17,33,4,18,229
+"Watcher","One Rare Relic","Ten Percent Hp Loss",18,25,4,25,223
+"Watcher","One Rare Relic","Ten Percent Hp Loss",19,22,2,32,260
+"Watcher","One Rare Relic","Ten Percent Hp Loss",20,85,34,62,787
+"Watcher","Random Colorless","None",1,486,74,182,3216
+"Watcher","Random Colorless","None",2,194,31,100,1684
+"Watcher","Random Colorless","None",3,157,22,59,1159
+"Watcher","Random Colorless","None",4,119,11,69,953
+"Watcher","Random Colorless","None",5,95,17,44,645
+"Watcher","Random Colorless","None",6,63,8,30,514
+"Watcher","Random Colorless","None",7,83,6,30,482
+"Watcher","Random Colorless","None",8,40,5,28,366
+"Watcher","Random Colorless","None",9,48,3,18,346
+"Watcher","Random Colorless","None",10,44,5,27,335
+"Watcher","Random Colorless","None",11,37,6,29,294
+"Watcher","Random Colorless","None",12,30,3,24,295
+"Watcher","Random Colorless","None",13,30,3,19,247
+"Watcher","Random Colorless","None",14,19,2,22,221
+"Watcher","Random Colorless","None",15,25,1,27,234
+"Watcher","Random Colorless","None",16,21,2,20,217
+"Watcher","Random Colorless","None",17,15,0,29,248
+"Watcher","Random Colorless","None",18,16,0,28,245
+"Watcher","Random Colorless","None",19,17,1,21,251
+"Watcher","Random Colorless","None",20,48,17,98,676
+"Watcher","Random Colorless 2","Curse",1,108,23,58,751
+"Watcher","Random Colorless 2","Curse",2,55,10,28,440
+"Watcher","Random Colorless 2","Curse",3,42,8,18,323
+"Watcher","Random Colorless 2","Curse",4,30,4,19,258
+"Watcher","Random Colorless 2","Curse",5,40,6,17,214
+"Watcher","Random Colorless 2","Curse",6,17,4,11,159
+"Watcher","Random Colorless 2","Curse",7,22,4,19,157
+"Watcher","Random Colorless 2","Curse",8,26,2,7,130
+"Watcher","Random Colorless 2","Curse",9,18,3,17,126
+"Watcher","Random Colorless 2","Curse",10,13,2,6,116
+"Watcher","Random Colorless 2","Curse",11,7,1,5,104
+"Watcher","Random Colorless 2","Curse",12,16,1,7,93
+"Watcher","Random Colorless 2","Curse",13,9,0,10,85
+"Watcher","Random Colorless 2","Curse",14,12,3,15,90
+"Watcher","Random Colorless 2","Curse",15,9,1,17,99
+"Watcher","Random Colorless 2","Curse",16,9,2,9,73
+"Watcher","Random Colorless 2","Curse",17,13,2,8,106
+"Watcher","Random Colorless 2","Curse",18,7,0,11,73
+"Watcher","Random Colorless 2","Curse",19,13,1,13,123
+"Watcher","Random Colorless 2","Curse",20,13,6,52,328
+"Watcher","Random Colorless 2","No Gold",1,174,36,60,973
+"Watcher","Random Colorless 2","No Gold",2,87,12,36,575
+"Watcher","Random Colorless 2","No Gold",3,80,22,18,410
+"Watcher","Random Colorless 2","No Gold",4,75,12,16,391
+"Watcher","Random Colorless 2","No Gold",5,46,7,12,311
+"Watcher","Random Colorless 2","No Gold",6,41,12,9,237
+"Watcher","Random Colorless 2","No Gold",7,42,4,9,234
+"Watcher","Random Colorless 2","No Gold",8,35,10,2,160
+"Watcher","Random Colorless 2","No Gold",9,27,7,11,159
+"Watcher","Random Colorless 2","No Gold",10,30,8,16,197
+"Watcher","Random Colorless 2","No Gold",11,25,2,11,174
+"Watcher","Random Colorless 2","No Gold",12,30,10,7,147
+"Watcher","Random Colorless 2","No Gold",13,26,4,7,141
+"Watcher","Random Colorless 2","No Gold",14,18,6,8,137
+"Watcher","Random Colorless 2","No Gold",15,20,7,12,146
+"Watcher","Random Colorless 2","No Gold",16,22,6,13,150
+"Watcher","Random Colorless 2","No Gold",17,15,2,10,130
+"Watcher","Random Colorless 2","No Gold",18,16,1,12,140
+"Watcher","Random Colorless 2","No Gold",19,14,0,15,160
+"Watcher","Random Colorless 2","No Gold",20,58,27,59,529
+"Watcher","Random Colorless 2","Percent Damage",1,127,31,46,797
+"Watcher","Random Colorless 2","Percent Damage",2,65,8,11,412
+"Watcher","Random Colorless 2","Percent Damage",3,50,10,14,348
+"Watcher","Random Colorless 2","Percent Damage",4,33,6,17,304
+"Watcher","Random Colorless 2","Percent Damage",5,33,5,9,197
+"Watcher","Random Colorless 2","Percent Damage",6,31,7,13,178
+"Watcher","Random Colorless 2","Percent Damage",7,38,5,9,165
+"Watcher","Random Colorless 2","Percent Damage",8,16,3,5,119
+"Watcher","Random Colorless 2","Percent Damage",9,20,3,11,130
+"Watcher","Random Colorless 2","Percent Damage",10,11,5,10,129
+"Watcher","Random Colorless 2","Percent Damage",11,20,3,6,122
+"Watcher","Random Colorless 2","Percent Damage",12,12,1,5,108
+"Watcher","Random Colorless 2","Percent Damage",13,11,3,8,91
+"Watcher","Random Colorless 2","Percent Damage",14,20,8,10,100
+"Watcher","Random Colorless 2","Percent Damage",15,13,4,9,124
+"Watcher","Random Colorless 2","Percent Damage",16,12,4,8,97
+"Watcher","Random Colorless 2","Percent Damage",17,9,2,10,96
+"Watcher","Random Colorless 2","Percent Damage",18,7,0,12,91
+"Watcher","Random Colorless 2","Percent Damage",19,6,0,19,120
+"Watcher","Random Colorless 2","Percent Damage",20,44,26,56,424
+"Watcher","Random Colorless 2","Ten Percent Hp Loss",1,147,47,54,789
+"Watcher","Random Colorless 2","Ten Percent Hp Loss",2,60,10,20,432
+"Watcher","Random Colorless 2","Ten Percent Hp Loss",3,60,9,17,320
+"Watcher","Random Colorless 2","Ten Percent Hp Loss",4,50,8,23,282
+"Watcher","Random Colorless 2","Ten Percent Hp Loss",5,42,12,11,222
+"Watcher","Random Colorless 2","Ten Percent Hp Loss",6,34,5,13,198
+"Watcher","Random Colorless 2","Ten Percent Hp Loss",7,34,7,10,156
+"Watcher","Random Colorless 2","Ten Percent Hp Loss",8,22,3,12,153
+"Watcher","Random Colorless 2","Ten Percent Hp Loss",9,26,8,5,129
+"Watcher","Random Colorless 2","Ten Percent Hp Loss",10,23,4,8,123
+"Watcher","Random Colorless 2","Ten Percent Hp Loss",11,25,6,7,131
+"Watcher","Random Colorless 2","Ten Percent Hp Loss",12,17,1,10,113
+"Watcher","Random Colorless 2","Ten Percent Hp Loss",13,21,3,13,114
+"Watcher","Random Colorless 2","Ten Percent Hp Loss",14,15,5,11,102
+"Watcher","Random Colorless 2","Ten Percent Hp Loss",15,20,5,13,110
+"Watcher","Random Colorless 2","Ten Percent Hp Loss",16,15,2,12,103
+"Watcher","Random Colorless 2","Ten Percent Hp Loss",17,13,1,12,113
+"Watcher","Random Colorless 2","Ten Percent Hp Loss",18,10,3,12,112
+"Watcher","Random Colorless 2","Ten Percent Hp Loss",19,8,2,18,128
+"Watcher","Random Colorless 2","Ten Percent Hp Loss",20,72,44,63,464
+"Watcher","Random Common Relic","None",1,1979,412,279,10412
+"Watcher","Random Common Relic","None",2,1011,143,128,5560
+"Watcher","Random Common Relic","None",3,666,105,119,3942
+"Watcher","Random Common Relic","None",4,601,101,88,3437
+"Watcher","Random Common Relic","None",5,464,51,76,2486
+"Watcher","Random Common Relic","None",6,396,58,71,1892
+"Watcher","Random Common Relic","None",7,323,36,58,1647
+"Watcher","Random Common Relic","None",8,275,48,41,1371
+"Watcher","Random Common Relic","None",9,251,34,47,1281
+"Watcher","Random Common Relic","None",10,238,38,76,1384
+"Watcher","Random Common Relic","None",11,190,22,51,1179
+"Watcher","Random Common Relic","None",12,163,21,62,1016
+"Watcher","Random Common Relic","None",13,162,21,60,964
+"Watcher","Random Common Relic","None",14,140,19,45,852
+"Watcher","Random Common Relic","None",15,131,29,74,953
+"Watcher","Random Common Relic","None",16,139,23,70,829
+"Watcher","Random Common Relic","None",17,106,13,68,931
+"Watcher","Random Common Relic","None",18,78,8,81,909
+"Watcher","Random Common Relic","None",19,79,13,72,922
+"Watcher","Random Common Relic","None",20,300,139,242,2887
+"Watcher","Remove Card","None",1,461,93,26,2102
+"Watcher","Remove Card","None",2,214,34,14,1186
+"Watcher","Remove Card","None",3,163,26,9,855
+"Watcher","Remove Card","None",4,130,22,15,676
+"Watcher","Remove Card","None",5,106,12,9,548
+"Watcher","Remove Card","None",6,89,14,6,400
+"Watcher","Remove Card","None",7,72,14,4,339
+"Watcher","Remove Card","None",8,60,13,6,272
+"Watcher","Remove Card","None",9,51,10,3,273
+"Watcher","Remove Card","None",10,45,8,4,292
+"Watcher","Remove Card","None",11,43,4,2,226
+"Watcher","Remove Card","None",12,34,2,3,210
+"Watcher","Remove Card","None",13,31,5,7,190
+"Watcher","Remove Card","None",14,26,3,5,168
+"Watcher","Remove Card","None",15,28,7,5,197
+"Watcher","Remove Card","None",16,26,4,0,154
+"Watcher","Remove Card","None",17,17,3,8,160
+"Watcher","Remove Card","None",18,15,1,4,150
+"Watcher","Remove Card","None",19,17,3,6,145
+"Watcher","Remove Card","None",20,68,37,20,522
+"Watcher","Remove Two","No Gold",1,220,46,6,825
+"Watcher","Remove Two","No Gold",2,123,23,3,487
+"Watcher","Remove Two","No Gold",3,92,16,1,379
+"Watcher","Remove Two","No Gold",4,87,15,1,329
+"Watcher","Remove Two","No Gold",5,66,10,1,237
+"Watcher","Remove Two","No Gold",6,54,14,1,210
+"Watcher","Remove Two","No Gold",7,43,8,2,194
+"Watcher","Remove Two","No Gold",8,48,10,0,154
+"Watcher","Remove Two","No Gold",9,44,8,2,174
+"Watcher","Remove Two","No Gold",10,38,6,3,156
+"Watcher","Remove Two","No Gold",11,38,6,2,158
+"Watcher","Remove Two","No Gold",12,24,5,0,120
+"Watcher","Remove Two","No Gold",13,33,5,2,134
+"Watcher","Remove Two","No Gold",14,32,4,0,122
+"Watcher","Remove Two","No Gold",15,28,8,2,124
+"Watcher","Remove Two","No Gold",16,15,5,0,95
+"Watcher","Remove Two","No Gold",17,18,6,1,113
+"Watcher","Remove Two","No Gold",18,17,3,3,119
+"Watcher","Remove Two","No Gold",19,9,3,2,105
+"Watcher","Remove Two","No Gold",20,59,25,4,376
+"Watcher","Remove Two","Percent Damage",1,152,33,3,606
+"Watcher","Remove Two","Percent Damage",2,82,25,1,390
+"Watcher","Remove Two","Percent Damage",3,63,18,2,259
+"Watcher","Remove Two","Percent Damage",4,51,14,1,229
+"Watcher","Remove Two","Percent Damage",5,36,9,4,198
+"Watcher","Remove Two","Percent Damage",6,42,15,4,153
+"Watcher","Remove Two","Percent Damage",7,36,8,2,122
+"Watcher","Remove Two","Percent Damage",8,33,10,0,106
+"Watcher","Remove Two","Percent Damage",9,26,5,0,99
+"Watcher","Remove Two","Percent Damage",10,21,7,0,110
+"Watcher","Remove Two","Percent Damage",11,20,6,1,102
+"Watcher","Remove Two","Percent Damage",12,15,1,1,92
+"Watcher","Remove Two","Percent Damage",13,21,8,1,101
+"Watcher","Remove Two","Percent Damage",14,15,3,2,67
+"Watcher","Remove Two","Percent Damage",15,17,6,1,86
+"Watcher","Remove Two","Percent Damage",16,10,3,0,68
+"Watcher","Remove Two","Percent Damage",17,8,1,0,66
+"Watcher","Remove Two","Percent Damage",18,8,3,3,64
+"Watcher","Remove Two","Percent Damage",19,6,1,2,70
+"Watcher","Remove Two","Percent Damage",20,25,13,4,266
+"Watcher","Remove Two","Ten Percent Hp Loss",1,163,36,6,621
+"Watcher","Remove Two","Ten Percent Hp Loss",2,92,23,2,366
+"Watcher","Remove Two","Ten Percent Hp Loss",3,59,14,1,251
+"Watcher","Remove Two","Ten Percent Hp Loss",4,48,8,2,219
+"Watcher","Remove Two","Ten Percent Hp Loss",5,49,13,0,180
+"Watcher","Remove Two","Ten Percent Hp Loss",6,39,13,1,155
+"Watcher","Remove Two","Ten Percent Hp Loss",7,43,15,0,143
+"Watcher","Remove Two","Ten Percent Hp Loss",8,36,4,0,129
+"Watcher","Remove Two","Ten Percent Hp Loss",9,34,8,1,117
+"Watcher","Remove Two","Ten Percent Hp Loss",10,27,8,0,119
+"Watcher","Remove Two","Ten Percent Hp Loss",11,29,5,1,113
+"Watcher","Remove Two","Ten Percent Hp Loss",12,21,3,0,86
+"Watcher","Remove Two","Ten Percent Hp Loss",13,15,1,2,81
+"Watcher","Remove Two","Ten Percent Hp Loss",14,27,6,1,93
+"Watcher","Remove Two","Ten Percent Hp Loss",15,28,10,0,106
+"Watcher","Remove Two","Ten Percent Hp Loss",16,14,4,3,67
+"Watcher","Remove Two","Ten Percent Hp Loss",17,14,3,2,74
+"Watcher","Remove Two","Ten Percent Hp Loss",18,22,2,1,91
+"Watcher","Remove Two","Ten Percent Hp Loss",19,14,4,0,82
+"Watcher","Remove Two","Ten Percent Hp Loss",20,60,32,4,322
+"Watcher","Ten Percent Hp Bonus","None",1,2049,404,248,13940
+"Watcher","Ten Percent Hp Bonus","None",2,934,164,112,6608
+"Watcher","Ten Percent Hp Bonus","None",3,685,121,91,4807
+"Watcher","Ten Percent Hp Bonus","None",4,473,59,80,3524
+"Watcher","Ten Percent Hp Bonus","None",5,324,46,37,2531
+"Watcher","Ten Percent Hp Bonus","None",6,302,62,52,2006
+"Watcher","Ten Percent Hp Bonus","None",7,240,38,46,1871
+"Watcher","Ten Percent Hp Bonus","None",8,213,42,30,1340
+"Watcher","Ten Percent Hp Bonus","None",9,201,38,39,1256
+"Watcher","Ten Percent Hp Bonus","None",10,176,27,49,1406
+"Watcher","Ten Percent Hp Bonus","None",11,140,21,33,1121
+"Watcher","Ten Percent Hp Bonus","None",12,119,9,25,929
+"Watcher","Ten Percent Hp Bonus","None",13,127,14,40,937
+"Watcher","Ten Percent Hp Bonus","None",14,120,17,25,849
+"Watcher","Ten Percent Hp Bonus","None",15,110,15,38,886
+"Watcher","Ten Percent Hp Bonus","None",16,100,11,43,792
+"Watcher","Ten Percent Hp Bonus","None",17,68,9,27,736
+"Watcher","Ten Percent Hp Bonus","None",18,80,14,51,985
+"Watcher","Ten Percent Hp Bonus","None",19,69,6,44,1064
+"Watcher","Ten Percent Hp Bonus","None",20,200,100,162,2966
+"Watcher","Three Cards","None",1,559,73,257,4000
+"Watcher","Three Cards","None",2,294,40,170,2190
+"Watcher","Three Cards","None",3,186,27,97,1503
+"Watcher","Three Cards","None",4,138,22,110,1205
+"Watcher","Three Cards","None",5,126,15,58,835
+"Watcher","Three Cards","None",6,85,15,53,656
+"Watcher","Three Cards","None",7,85,16,47,569
+"Watcher","Three Cards","None",8,58,12,38,420
+"Watcher","Three Cards","None",9,57,10,43,416
+"Watcher","Three Cards","None",10,52,9,44,464
+"Watcher","Three Cards","None",11,40,9,36,370
+"Watcher","Three Cards","None",12,37,4,32,330
+"Watcher","Three Cards","None",13,41,5,33,343
+"Watcher","Three Cards","None",14,29,2,35,302
+"Watcher","Three Cards","None",15,39,7,32,308
+"Watcher","Three Cards","None",16,26,6,21,242
+"Watcher","Three Cards","None",17,21,3,43,269
+"Watcher","Three Cards","None",18,17,1,47,295
+"Watcher","Three Cards","None",19,20,3,46,280
+"Watcher","Three Cards","None",20,54,24,113,849
+"Watcher","Three Enemy Kill","None",1,5316,1188,2432,37733
+"Watcher","Three Enemy Kill","None",2,2638,497,970,19858
+"Watcher","Three Enemy Kill","None",3,2201,388,758,15593
+"Watcher","Three Enemy Kill","None",4,1745,278,846,13480
+"Watcher","Three Enemy Kill","None",5,1283,199,578,9436
+"Watcher","Three Enemy Kill","None",6,1229,197,549,7971
+"Watcher","Three Enemy Kill","None",7,1121,184,549,7493
+"Watcher","Three Enemy Kill","None",8,1022,169,494,6621
+"Watcher","Three Enemy Kill","None",9,960,166,485,6088
+"Watcher","Three Enemy Kill","None",10,950,181,798,7714
+"Watcher","Three Enemy Kill","None",11,827,126,608,6741
+"Watcher","Three Enemy Kill","None",12,780,135,582,6126
+"Watcher","Three Enemy Kill","None",13,649,116,446,5406
+"Watcher","Three Enemy Kill","None",14,643,100,635,5587
+"Watcher","Three Enemy Kill","None",15,719,144,624,6365
+"Watcher","Three Enemy Kill","None",16,583,75,618,5510
+"Watcher","Three Enemy Kill","None",17,599,91,833,6845
+"Watcher","Three Enemy Kill","None",18,587,63,936,7521
+"Watcher","Three Enemy Kill","None",19,558,54,1100,8217
+"Watcher","Three Enemy Kill","None",20,2166,1057,4138,29217
+"Watcher","Three Rare Cards","Curse",1,157,33,33,1077
+"Watcher","Three Rare Cards","Curse",2,70,8,25,606
+"Watcher","Three Rare Cards","Curse",3,59,11,19,431
+"Watcher","Three Rare Cards","Curse",4,53,8,13,439
+"Watcher","Three Rare Cards","Curse",5,44,6,11,334
+"Watcher","Three Rare Cards","Curse",6,32,5,13,277
+"Watcher","Three Rare Cards","Curse",7,30,9,14,228
+"Watcher","Three Rare Cards","Curse",8,24,3,6,181
+"Watcher","Three Rare Cards","Curse",9,36,5,6,189
+"Watcher","Three Rare Cards","Curse",10,19,0,10,185
+"Watcher","Three Rare Cards","Curse",11,20,3,14,186
+"Watcher","Three Rare Cards","Curse",12,18,1,6,174
+"Watcher","Three Rare Cards","Curse",13,17,0,8,154
+"Watcher","Three Rare Cards","Curse",14,17,1,7,131
+"Watcher","Three Rare Cards","Curse",15,20,1,13,150
+"Watcher","Three Rare Cards","Curse",16,11,2,6,126
+"Watcher","Three Rare Cards","Curse",17,15,2,9,134
+"Watcher","Three Rare Cards","Curse",18,7,0,20,153
+"Watcher","Three Rare Cards","Curse",19,4,0,10,157
+"Watcher","Three Rare Cards","Curse",20,33,17,54,506
+"Watcher","Three Rare Cards","No Gold",1,225,52,42,1310
+"Watcher","Three Rare Cards","No Gold",2,130,31,25,811
+"Watcher","Three Rare Cards","No Gold",3,100,22,21,664
+"Watcher","Three Rare Cards","No Gold",4,85,18,14,557
+"Watcher","Three Rare Cards","No Gold",5,65,11,7,410
+"Watcher","Three Rare Cards","No Gold",6,74,12,6,359
+"Watcher","Three Rare Cards","No Gold",7,65,5,5,324
+"Watcher","Three Rare Cards","No Gold",8,60,6,8,277
+"Watcher","Three Rare Cards","No Gold",9,49,9,7,275
+"Watcher","Three Rare Cards","No Gold",10,46,6,8,292
+"Watcher","Three Rare Cards","No Gold",11,41,3,6,225
+"Watcher","Three Rare Cards","No Gold",12,28,6,7,235
+"Watcher","Three Rare Cards","No Gold",13,26,4,8,228
+"Watcher","Three Rare Cards","No Gold",14,37,4,9,212
+"Watcher","Three Rare Cards","No Gold",15,33,3,10,232
+"Watcher","Three Rare Cards","No Gold",16,32,8,6,199
+"Watcher","Three Rare Cards","No Gold",17,34,7,10,201
+"Watcher","Three Rare Cards","No Gold",18,17,0,16,223
+"Watcher","Three Rare Cards","No Gold",19,13,3,16,206
+"Watcher","Three Rare Cards","No Gold",20,81,39,40,839
+"Watcher","Three Rare Cards","Percent Damage",1,211,59,28,1167
+"Watcher","Three Rare Cards","Percent Damage",2,100,27,20,663
+"Watcher","Three Rare Cards","Percent Damage",3,68,17,15,505
+"Watcher","Three Rare Cards","Percent Damage",4,60,8,15,488
+"Watcher","Three Rare Cards","Percent Damage",5,41,8,5,307
+"Watcher","Three Rare Cards","Percent Damage",6,39,11,6,311
+"Watcher","Three Rare Cards","Percent Damage",7,38,11,9,246
+"Watcher","Three Rare Cards","Percent Damage",8,37,9,7,230
+"Watcher","Three Rare Cards","Percent Damage",9,34,3,3,221
+"Watcher","Three Rare Cards","Percent Damage",10,29,6,10,220
+"Watcher","Three Rare Cards","Percent Damage",11,25,8,6,215
+"Watcher","Three Rare Cards","Percent Damage",12,24,7,6,189
+"Watcher","Three Rare Cards","Percent Damage",13,23,2,9,198
+"Watcher","Three Rare Cards","Percent Damage",14,23,7,10,154
+"Watcher","Three Rare Cards","Percent Damage",15,15,2,4,161
+"Watcher","Three Rare Cards","Percent Damage",16,9,4,7,148
+"Watcher","Three Rare Cards","Percent Damage",17,14,2,14,155
+"Watcher","Three Rare Cards","Percent Damage",18,12,1,14,166
+"Watcher","Three Rare Cards","Percent Damage",19,12,1,11,149
+"Watcher","Three Rare Cards","Percent Damage",20,60,36,39,635
+"Watcher","Three Rare Cards","Ten Percent Hp Loss",1,197,45,44,1096
+"Watcher","Three Rare Cards","Ten Percent Hp Loss",2,93,16,22,669
+"Watcher","Three Rare Cards","Ten Percent Hp Loss",3,81,15,19,494
+"Watcher","Three Rare Cards","Ten Percent Hp Loss",4,59,9,14,449
+"Watcher","Three Rare Cards","Ten Percent Hp Loss",5,59,10,16,383
+"Watcher","Three Rare Cards","Ten Percent Hp Loss",6,47,10,10,270
+"Watcher","Three Rare Cards","Ten Percent Hp Loss",7,51,16,10,262
+"Watcher","Three Rare Cards","Ten Percent Hp Loss",8,35,6,5,188
+"Watcher","Three Rare Cards","Ten Percent Hp Loss",9,51,14,7,226
+"Watcher","Three Rare Cards","Ten Percent Hp Loss",10,31,4,9,207
+"Watcher","Three Rare Cards","Ten Percent Hp Loss",11,26,8,8,174
+"Watcher","Three Rare Cards","Ten Percent Hp Loss",12,34,8,7,193
+"Watcher","Three Rare Cards","Ten Percent Hp Loss",13,25,6,8,164
+"Watcher","Three Rare Cards","Ten Percent Hp Loss",14,24,7,1,172
+"Watcher","Three Rare Cards","Ten Percent Hp Loss",15,31,8,11,217
+"Watcher","Three Rare Cards","Ten Percent Hp Loss",16,19,1,8,154
+"Watcher","Three Rare Cards","Ten Percent Hp Loss",17,28,5,13,178
+"Watcher","Three Rare Cards","Ten Percent Hp Loss",18,22,1,14,202
+"Watcher","Three Rare Cards","Ten Percent Hp Loss",19,17,1,6,171
+"Watcher","Three Rare Cards","Ten Percent Hp Loss",20,77,37,48,718
+"Watcher","Three Small Potions","None",1,327,56,54,2076
+"Watcher","Three Small Potions","None",2,149,29,19,1050
+"Watcher","Three Small Potions","None",3,117,18,15,716
+"Watcher","Three Small Potions","None",4,80,9,14,680
+"Watcher","Three Small Potions","None",5,75,10,13,465
+"Watcher","Three Small Potions","None",6,77,11,15,362
+"Watcher","Three Small Potions","None",7,43,5,5,303
+"Watcher","Three Small Potions","None",8,57,7,6,266
+"Watcher","Three Small Potions","None",9,47,10,3,240
+"Watcher","Three Small Potions","None",10,35,4,17,256
+"Watcher","Three Small Potions","None",11,16,2,5,81
+"Watcher","Three Small Potions","None",12,13,2,2,88
+"Watcher","Three Small Potions","None",13,9,1,11,121
+"Watcher","Three Small Potions","None",14,5,0,5,68
+"Watcher","Three Small Potions","None",15,14,0,2,87
+"Watcher","Three Small Potions","None",16,4,0,12,69
+"Watcher","Three Small Potions","None",17,7,1,6,59
+"Watcher","Three Small Potions","None",18,8,1,9,74
+"Watcher","Three Small Potions","None",19,9,1,7,80
+"Watcher","Three Small Potions","None",20,25,9,34,279
+"Watcher","Transform Card","None",1,478,82,145,2599
+"Watcher","Transform Card","None",2,247,39,86,1528
+"Watcher","Transform Card","None",3,161,25,51,1009
+"Watcher","Transform Card","None",4,145,19,63,829
+"Watcher","Transform Card","None",5,110,17,51,640
+"Watcher","Transform Card","None",6,93,15,42,491
+"Watcher","Transform Card","None",7,70,10,35,411
+"Watcher","Transform Card","None",8,64,9,26,339
+"Watcher","Transform Card","None",9,54,11,33,313
+"Watcher","Transform Card","None",10,49,8,27,343
+"Watcher","Transform Card","None",11,44,7,23,289
+"Watcher","Transform Card","None",12,44,9,19,275
+"Watcher","Transform Card","None",13,44,7,16,255
+"Watcher","Transform Card","None",14,35,2,22,261
+"Watcher","Transform Card","None",15,46,11,25,264
+"Watcher","Transform Card","None",16,28,4,20,211
+"Watcher","Transform Card","None",17,30,1,31,227
+"Watcher","Transform Card","None",18,12,2,34,235
+"Watcher","Transform Card","None",19,19,2,20,197
+"Watcher","Transform Card","None",20,76,40,118,717
+"Watcher","Transform Two Cards","Curse",1,82,17,33,483
+"Watcher","Transform Two Cards","Curse",2,52,7,25,300
+"Watcher","Transform Two Cards","Curse",3,45,8,15,215
+"Watcher","Transform Two Cards","Curse",4,24,6,19,179
+"Watcher","Transform Two Cards","Curse",5,25,3,14,124
+"Watcher","Transform Two Cards","Curse",6,20,5,8,121
+"Watcher","Transform Two Cards","Curse",7,13,2,16,107
+"Watcher","Transform Two Cards","Curse",8,25,0,10,110
+"Watcher","Transform Two Cards","Curse",9,13,3,14,90
+"Watcher","Transform Two Cards","Curse",10,9,1,12,78
+"Watcher","Transform Two Cards","Curse",11,10,0,16,80
+"Watcher","Transform Two Cards","Curse",12,7,1,8,59
+"Watcher","Transform Two Cards","Curse",13,6,0,12,50
+"Watcher","Transform Two Cards","Curse",14,6,0,10,62
+"Watcher","Transform Two Cards","Curse",15,12,2,6,64
+"Watcher","Transform Two Cards","Curse",16,8,3,9,47
+"Watcher","Transform Two Cards","Curse",17,3,1,16,65
+"Watcher","Transform Two Cards","Curse",18,6,1,10,55
+"Watcher","Transform Two Cards","Curse",19,4,1,14,67
+"Watcher","Transform Two Cards","Curse",20,14,7,61,227
+"Watcher","Transform Two Cards","No Gold",1,177,46,49,780
+"Watcher","Transform Two Cards","No Gold",2,98,25,28,486
+"Watcher","Transform Two Cards","No Gold",3,60,13,24,389
+"Watcher","Transform Two Cards","No Gold",4,74,15,25,329
+"Watcher","Transform Two Cards","No Gold",5,57,11,11,233
+"Watcher","Transform Two Cards","No Gold",6,51,10,14,215
+"Watcher","Transform Two Cards","No Gold",7,47,8,12,187
+"Watcher","Transform Two Cards","No Gold",8,36,7,12,158
+"Watcher","Transform Two Cards","No Gold",9,42,10,13,163
+"Watcher","Transform Two Cards","No Gold",10,39,10,24,177
+"Watcher","Transform Two Cards","No Gold",11,32,9,12,156
+"Watcher","Transform Two Cards","No Gold",12,30,6,17,143
+"Watcher","Transform Two Cards","No Gold",13,25,4,11,133
+"Watcher","Transform Two Cards","No Gold",14,23,3,15,131
+"Watcher","Transform Two Cards","No Gold",15,21,9,18,136
+"Watcher","Transform Two Cards","No Gold",16,18,1,14,116
+"Watcher","Transform Two Cards","No Gold",17,17,2,8,126
+"Watcher","Transform Two Cards","No Gold",18,25,3,11,133
+"Watcher","Transform Two Cards","No Gold",19,15,2,21,125
+"Watcher","Transform Two Cards","No Gold",20,77,39,77,515
+"Watcher","Transform Two Cards","Percent Damage",1,125,34,51,610
+"Watcher","Transform Two Cards","Percent Damage",2,69,17,24,335
+"Watcher","Transform Two Cards","Percent Damage",3,53,12,24,280
+"Watcher","Transform Two Cards","Percent Damage",4,52,10,21,266
+"Watcher","Transform Two Cards","Percent Damage",5,39,6,12,183
+"Watcher","Transform Two Cards","Percent Damage",6,43,12,13,187
+"Watcher","Transform Two Cards","Percent Damage",7,38,14,11,143
+"Watcher","Transform Two Cards","Percent Damage",8,25,4,6,116
+"Watcher","Transform Two Cards","Percent Damage",9,29,7,5,123
+"Watcher","Transform Two Cards","Percent Damage",10,16,7,14,119
+"Watcher","Transform Two Cards","Percent Damage",11,25,3,12,115
+"Watcher","Transform Two Cards","Percent Damage",12,15,4,11,97
+"Watcher","Transform Two Cards","Percent Damage",13,21,5,17,89
+"Watcher","Transform Two Cards","Percent Damage",14,15,1,6,73
+"Watcher","Transform Two Cards","Percent Damage",15,28,5,7,102
+"Watcher","Transform Two Cards","Percent Damage",16,11,4,10,72
+"Watcher","Transform Two Cards","Percent Damage",17,12,3,13,93
+"Watcher","Transform Two Cards","Percent Damage",18,11,1,12,94
+"Watcher","Transform Two Cards","Percent Damage",19,8,2,14,89
+"Watcher","Transform Two Cards","Percent Damage",20,51,25,62,362
+"Watcher","Transform Two Cards","Ten Percent Hp Loss",1,154,45,41,584
+"Watcher","Transform Two Cards","Ten Percent Hp Loss",2,59,17,29,337
+"Watcher","Transform Two Cards","Ten Percent Hp Loss",3,60,19,18,265
+"Watcher","Transform Two Cards","Ten Percent Hp Loss",4,40,6,12,220
+"Watcher","Transform Two Cards","Ten Percent Hp Loss",5,37,9,8,181
+"Watcher","Transform Two Cards","Ten Percent Hp Loss",6,33,5,17,149
+"Watcher","Transform Two Cards","Ten Percent Hp Loss",7,35,8,11,131
+"Watcher","Transform Two Cards","Ten Percent Hp Loss",8,30,10,17,128
+"Watcher","Transform Two Cards","Ten Percent Hp Loss",9,34,6,10,132
+"Watcher","Transform Two Cards","Ten Percent Hp Loss",10,13,3,10,87
+"Watcher","Transform Two Cards","Ten Percent Hp Loss",11,25,7,8,126
+"Watcher","Transform Two Cards","Ten Percent Hp Loss",12,27,7,5,114
+"Watcher","Transform Two Cards","Ten Percent Hp Loss",13,18,5,13,78
+"Watcher","Transform Two Cards","Ten Percent Hp Loss",14,16,3,12,85
+"Watcher","Transform Two Cards","Ten Percent Hp Loss",15,16,7,11,88
+"Watcher","Transform Two Cards","Ten Percent Hp Loss",16,18,4,11,82
+"Watcher","Transform Two Cards","Ten Percent Hp Loss",17,19,3,15,90
+"Watcher","Transform Two Cards","Ten Percent Hp Loss",18,14,3,12,85
+"Watcher","Transform Two Cards","Ten Percent Hp Loss",19,19,5,13,100
+"Watcher","Transform Two Cards","Ten Percent Hp Loss",20,67,45,46,378
+"Watcher","Twenty Percent Hp Bonus","Curse",1,66,11,6,388
+"Watcher","Twenty Percent Hp Bonus","Curse",2,31,2,2,233
+"Watcher","Twenty Percent Hp Bonus","Curse",3,13,2,1,137
+"Watcher","Twenty Percent Hp Bonus","Curse",4,12,1,1,133
+"Watcher","Twenty Percent Hp Bonus","Curse",5,9,0,2,98
+"Watcher","Twenty Percent Hp Bonus","Curse",6,13,2,2,70
+"Watcher","Twenty Percent Hp Bonus","Curse",7,6,0,0,55
+"Watcher","Twenty Percent Hp Bonus","Curse",8,8,1,1,55
+"Watcher","Twenty Percent Hp Bonus","Curse",9,7,0,0,54
+"Watcher","Twenty Percent Hp Bonus","Curse",10,5,1,0,42
+"Watcher","Twenty Percent Hp Bonus","Curse",11,7,0,0,38
+"Watcher","Twenty Percent Hp Bonus","Curse",12,3,0,3,34
+"Watcher","Twenty Percent Hp Bonus","Curse",13,4,0,3,51
+"Watcher","Twenty Percent Hp Bonus","Curse",14,5,2,3,38
+"Watcher","Twenty Percent Hp Bonus","Curse",15,0,0,2,27
+"Watcher","Twenty Percent Hp Bonus","Curse",16,4,0,2,38
+"Watcher","Twenty Percent Hp Bonus","Curse",17,2,0,2,28
+"Watcher","Twenty Percent Hp Bonus","Curse",18,2,0,2,38
+"Watcher","Twenty Percent Hp Bonus","Curse",19,4,0,2,51
+"Watcher","Twenty Percent Hp Bonus","Curse",20,0,0,6,79
+"Watcher","Twenty Percent Hp Bonus","No Gold",1,139,31,4,665
+"Watcher","Twenty Percent Hp Bonus","No Gold",2,66,11,1,345
+"Watcher","Twenty Percent Hp Bonus","No Gold",3,34,2,2,232
+"Watcher","Twenty Percent Hp Bonus","No Gold",4,31,2,1,215
+"Watcher","Twenty Percent Hp Bonus","No Gold",5,36,4,1,174
+"Watcher","Twenty Percent Hp Bonus","No Gold",6,21,2,1,110
+"Watcher","Twenty Percent Hp Bonus","No Gold",7,27,2,2,127
+"Watcher","Twenty Percent Hp Bonus","No Gold",8,13,3,1,86
+"Watcher","Twenty Percent Hp Bonus","No Gold",9,22,4,0,95
+"Watcher","Twenty Percent Hp Bonus","No Gold",10,7,2,2,86
+"Watcher","Twenty Percent Hp Bonus","No Gold",11,15,2,1,72
+"Watcher","Twenty Percent Hp Bonus","No Gold",12,13,0,0,75
+"Watcher","Twenty Percent Hp Bonus","No Gold",13,11,1,5,73
+"Watcher","Twenty Percent Hp Bonus","No Gold",14,10,0,0,53
+"Watcher","Twenty Percent Hp Bonus","No Gold",15,20,4,3,78
+"Watcher","Twenty Percent Hp Bonus","No Gold",16,7,0,2,55
+"Watcher","Twenty Percent Hp Bonus","No Gold",17,9,4,2,76
+"Watcher","Twenty Percent Hp Bonus","No Gold",18,6,1,0,64
+"Watcher","Twenty Percent Hp Bonus","No Gold",19,4,0,1,71
+"Watcher","Twenty Percent Hp Bonus","No Gold",20,14,5,4,203
+"Watcher","Twenty Percent Hp Bonus","Percent Damage",1,139,29,6,668
+"Watcher","Twenty Percent Hp Bonus","Percent Damage",2,59,8,2,364
+"Watcher","Twenty Percent Hp Bonus","Percent Damage",3,54,6,0,243
+"Watcher","Twenty Percent Hp Bonus","Percent Damage",4,29,2,1,204
+"Watcher","Twenty Percent Hp Bonus","Percent Damage",5,37,3,1,151
+"Watcher","Twenty Percent Hp Bonus","Percent Damage",6,26,4,0,123
+"Watcher","Twenty Percent Hp Bonus","Percent Damage",7,15,1,0,87
+"Watcher","Twenty Percent Hp Bonus","Percent Damage",8,13,4,1,102
+"Watcher","Twenty Percent Hp Bonus","Percent Damage",9,16,2,1,96
+"Watcher","Twenty Percent Hp Bonus","Percent Damage",10,14,2,0,87
+"Watcher","Twenty Percent Hp Bonus","Percent Damage",11,14,2,1,83
+"Watcher","Twenty Percent Hp Bonus","Percent Damage",12,12,0,0,69
+"Watcher","Twenty Percent Hp Bonus","Percent Damage",13,14,1,2,74
+"Watcher","Twenty Percent Hp Bonus","Percent Damage",14,9,1,3,53
+"Watcher","Twenty Percent Hp Bonus","Percent Damage",15,9,1,2,59
+"Watcher","Twenty Percent Hp Bonus","Percent Damage",16,14,0,1,50
+"Watcher","Twenty Percent Hp Bonus","Percent Damage",17,10,2,1,72
+"Watcher","Twenty Percent Hp Bonus","Percent Damage",18,1,0,1,46
+"Watcher","Twenty Percent Hp Bonus","Percent Damage",19,3,1,1,66
+"Watcher","Twenty Percent Hp Bonus","Percent Damage",20,21,9,5,202
+"Watcher","Two Fifty Gold","Curse",1,197,46,9,1051
+"Watcher","Two Fifty Gold","Curse",2,111,15,4,646
+"Watcher","Two Fifty Gold","Curse",3,96,12,4,461
+"Watcher","Two Fifty Gold","Curse",4,73,8,6,457
+"Watcher","Two Fifty Gold","Curse",5,55,9,1,322
+"Watcher","Two Fifty Gold","Curse",6,46,13,1,272
+"Watcher","Two Fifty Gold","Curse",7,33,2,2,253
+"Watcher","Two Fifty Gold","Curse",8,41,4,1,215
+"Watcher","Two Fifty Gold","Curse",9,29,4,4,197
+"Watcher","Two Fifty Gold","Curse",10,37,7,3,192
+"Watcher","Two Fifty Gold","Curse",11,34,5,0,205
+"Watcher","Two Fifty Gold","Curse",12,27,4,6,178
+"Watcher","Two Fifty Gold","Curse",13,24,2,3,162
+"Watcher","Two Fifty Gold","Curse",14,19,5,6,129
+"Watcher","Two Fifty Gold","Curse",15,24,4,2,165
+"Watcher","Two Fifty Gold","Curse",16,19,1,8,138
+"Watcher","Two Fifty Gold","Curse",17,16,4,1,146
+"Watcher","Two Fifty Gold","Curse",18,13,2,2,129
+"Watcher","Two Fifty Gold","Curse",19,11,0,10,172
+"Watcher","Two Fifty Gold","Curse",20,51,17,10,535
+"Watcher","Two Fifty Gold","Percent Damage",1,260,68,7,1216
+"Watcher","Two Fifty Gold","Percent Damage",2,132,26,3,716
+"Watcher","Two Fifty Gold","Percent Damage",3,101,21,2,485
+"Watcher","Two Fifty Gold","Percent Damage",4,75,13,2,434
+"Watcher","Two Fifty Gold","Percent Damage",5,71,12,1,349
+"Watcher","Two Fifty Gold","Percent Damage",6,69,9,1,312
+"Watcher","Two Fifty Gold","Percent Damage",7,46,9,0,255
+"Watcher","Two Fifty Gold","Percent Damage",8,37,6,1,205
+"Watcher","Two Fifty Gold","Percent Damage",9,42,8,0,219
+"Watcher","Two Fifty Gold","Percent Damage",10,45,6,0,228
+"Watcher","Two Fifty Gold","Percent Damage",11,43,7,1,194
+"Watcher","Two Fifty Gold","Percent Damage",12,36,10,1,197
+"Watcher","Two Fifty Gold","Percent Damage",13,26,4,2,177
+"Watcher","Two Fifty Gold","Percent Damage",14,34,10,0,158
+"Watcher","Two Fifty Gold","Percent Damage",15,31,2,0,163
+"Watcher","Two Fifty Gold","Percent Damage",16,31,7,2,158
+"Watcher","Two Fifty Gold","Percent Damage",17,21,2,1,159
+"Watcher","Two Fifty Gold","Percent Damage",18,21,3,2,162
+"Watcher","Two Fifty Gold","Percent Damage",19,13,2,2,184
+"Watcher","Two Fifty Gold","Percent Damage",20,84,45,10,669
+"Watcher","Two Fifty Gold","Ten Percent Hp Loss",1,224,62,4,979
+"Watcher","Two Fifty Gold","Ten Percent Hp Loss",2,94,22,1,559
+"Watcher","Two Fifty Gold","Ten Percent Hp Loss",3,79,11,2,401
+"Watcher","Two Fifty Gold","Ten Percent Hp Loss",4,73,12,1,380
+"Watcher","Two Fifty Gold","Ten Percent Hp Loss",5,61,18,4,290
+"Watcher","Two Fifty Gold","Ten Percent Hp Loss",6,62,6,1,276
+"Watcher","Two Fifty Gold","Ten Percent Hp Loss",7,53,13,0,248
+"Watcher","Two Fifty Gold","Ten Percent Hp Loss",8,61,10,4,235
+"Watcher","Two Fifty Gold","Ten Percent Hp Loss",9,41,7,0,182
+"Watcher","Two Fifty Gold","Ten Percent Hp Loss",10,43,8,0,197
+"Watcher","Two Fifty Gold","Ten Percent Hp Loss",11,35,11,1,178
+"Watcher","Two Fifty Gold","Ten Percent Hp Loss",12,37,7,0,191
+"Watcher","Two Fifty Gold","Ten Percent Hp Loss",13,25,4,3,159
+"Watcher","Two Fifty Gold","Ten Percent Hp Loss",14,42,8,3,182
+"Watcher","Two Fifty Gold","Ten Percent Hp Loss",15,43,9,1,233
+"Watcher","Two Fifty Gold","Ten Percent Hp Loss",16,39,4,2,140
+"Watcher","Two Fifty Gold","Ten Percent Hp Loss",17,26,5,2,149
+"Watcher","Two Fifty Gold","Ten Percent Hp Loss",18,19,5,3,142
+"Watcher","Two Fifty Gold","Ten Percent Hp Loss",19,19,1,1,185
+"Watcher","Two Fifty Gold","Ten Percent Hp Loss",20,93,63,4,647
+"Watcher","Upgrade Card","None",1,883,159,29,4391
+"Watcher","Upgrade Card","None",2,476,75,15,2668
+"Watcher","Upgrade Card","None",3,317,43,10,1770
+"Watcher","Upgrade Card","None",4,269,37,13,1585
+"Watcher","Upgrade Card","None",5,263,27,8,1296
+"Watcher","Upgrade Card","None",6,198,26,6,979
+"Watcher","Upgrade Card","None",7,162,26,8,848
+"Watcher","Upgrade Card","None",8,148,19,9,676
+"Watcher","Upgrade Card","None",9,143,17,8,647
+"Watcher","Upgrade Card","None",10,111,17,6,698
+"Watcher","Upgrade Card","None",11,111,17,4,640
+"Watcher","Upgrade Card","None",12,110,19,6,588
+"Watcher","Upgrade Card","None",13,105,12,9,558
+"Watcher","Upgrade Card","None",14,70,13,5,467
+"Watcher","Upgrade Card","None",15,72,16,9,472
+"Watcher","Upgrade Card","None",16,54,6,7,414
+"Watcher","Upgrade Card","None",17,58,7,9,419
+"Watcher","Upgrade Card","None",18,44,1,7,480
+"Watcher","Upgrade Card","None",19,40,4,5,390
+"Watcher","Upgrade Card","None",20,155,80,14,1405
