@@ -6,3 +6,5 @@ Created with [Streamlit](https://www.streamlit.io/) and [Altair](https://altair-
 The data can be found [here](https://www.reddit.com/r/slaythespire/comments/jt5y1w/77_million_runs_an_sts_metrics_dump/).
 
 [Try the app here](https://share.streamlit.io/loephi/neowchoices/main/neow_choices_app.py)
+
+[Discussion on reddit](https://www.reddit.com/r/slaythespire/comments/p5cn5a/how_do_neow_choices_affect_the_winrate_an/)
